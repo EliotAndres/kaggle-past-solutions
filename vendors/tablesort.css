@@ -1,0 +1,52 @@
+th.tablesort-sortable {
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+    cursor: pointer;
+}
+
+table .tablesort-sortable:after{
+    content:"";
+    float:right;
+    margin-top:7px;
+    visibility:hidden;
+    border-left:4px solid transparent;
+    border-right:4px solid transparent;
+
+    border-top:none;
+    border-bottom:4px solid #000;
+}
+
+table .tablesort-desc:after{
+    border-top:4px solid #000;
+    border-bottom:none;
+}
+
+table .tablesort-asc,table .tablesort-desc{
+    background-color:rgba(141, 192, 219, 0.25);
+}
+
+table .tablesort-sortable:hover:after, table .tablesort-asc:after, table .tablesort-desc:after {
+    visibility:visible;
+}
+
+/*
+ * Styling for the table row shown in empty tables
+ */
+
+/* The row is always added as the first row in a table
+   Hide it by default */
+.showIfLast {
+    display: none;
+}
+
+/* Only show it if it is also the last row of the table. */
+.showIfLast:last-child {
+    display: table-row;
+}
+
+.showIfLast td {
+    text-align: center;
+}

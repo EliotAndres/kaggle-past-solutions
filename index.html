@@ -1,0 +1,76 @@
+<!doctype html>
+<html ng-app="app">
+<head>
+    <title>Kaggle Past Competitions</title>
+    <meta charset="UTF-8">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="vendors/tablesort.css" />
+</head>
+<body ng-controller="MainController">
+<div class="container theme-showcase" role="main">
+    <div class="jumbotron">
+        <h1>Kaggle Past Solutions</h1>
+        <p>{{phones}}</p>
+    </div>
+
+    <div class="page-header">
+        <h1>Competitions</h1>
+    </div>
+
+    <form class="form-inline">
+        <div class="form-group">
+            <input ng-model="search.$" class="form-control" id="search" placeholder="Search">
+        </div>
+    </form>
+    <div class="row">
+        <table class="table" ts-wrapper>
+            <thead>
+            <tr>
+                <th></th>
+                <th ts-criteria="competitionTitle|lowercase">Competition</th>
+                <th ts-criteria="deadline|parseDate" ts-default="descending">Dealine</th>
+                <th ts-criteria="types">Type</th>
+                <th ts-criteria="evaluation">Evaluation</th>
+                <th ts-criteria="rewardDisplay | parseCurrency | parseFloat">Reward</th>
+                <th>Solutions</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr ng-repeat="competition in competitions | filter:search:strict" ts-repeat>
+                <td>
+                    <a target="_blank" ng-href="https://www.kaggle.com{{competition.competitionUrl}}">
+                        <img ng-src="{{competition.thumbnailImageUrl}}" alt="Logo" width="100"/>
+                    </a>
+                </td>
+                <td style="width: 40%;">
+                    <h4><a target="_blank" ng-href="https://www.kaggle.com{{competition.competitionUrl}}">{{competition.competitionTitle}}</a></h4>
+                    <p>{{competition.competitionDescription}}</p>
+                </td>
+                <td>{{competition.deadline | date:'yyyy-MM-dd'}}</td>
+                <td><span ng-repeat="type in competition.types">{{type}}{{$last ? '' : ', '}} </span></td>
+                <td>{{competition.evaluation}}</td>
+                <td>{{competition.rewardDisplay}}</td>
+                <td>
+                    <p>
+                        <a target="_blank" ng-href="https://www.kaggle.com{{competition.competitionUrl}}/forums">Forum</a>
+                    </p>
+                    <ul>
+                        <li ng-repeat="solution in competition.solutions">
+                            <a target="_blank" ng-href="{{solution.url}}">
+                                {{solution.label}}
+                            </a>
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div> <!-- /container -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
+<script src="vendors/angular-tablesort.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
