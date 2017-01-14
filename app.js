@@ -15,6 +15,6 @@ app
   })
   .filter('parseCurrency', function () {
     return function (input) {
-      return input.replace('$', '').replace('/,/g', '');
+      return input.replace('$', '').replace(/,/g, '');
     };
   });
