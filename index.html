@@ -9,19 +9,35 @@
 </head>
 <body ng-controller="MainController">
 <a href="https://github.com/EliotAndres/kaggle-past-solutions">
-    <img style="position: absolute; top: 0; left: 0; border: 0;"
-         src="https://camo.githubusercontent.com/82b228a3648bf44fc1163ef44c62fcc60081495e/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f7265645f6161303030302e706e67"
+    <img style="position: absolute; top: 0; right: 0; border: 0;"
+         src="https://camo.githubusercontent.com/365986a132ccd6a44c23a9169022c0b5c890c387/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67"
          alt="Fork me on GitHub"
          data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_red_aa0000.png">
 </a>
 <div class="container theme-showcase" role="main">
     <div class="jumbotron">
         <h1>Kaggle Past Solutions</h1>
-        <p>{{phones}}</p>
-    </div>
-
-    <div class="page-header">
-        <h1>Competitions</h1>
+        <h4>Sortable and searchable compilation of solutions to past Kaggle competitions.</h4>
+        <p>If you are facing a data science problem, there is a good chance that you can find inspiration here!<br/>
+            This page could be improved by adding more competitions and more solutions: pull requests are more than welcome. <b>Warning: this is a work in progress, many competitions are missing solutions. </b> </p>
+        <p></p>
+        <p>
+            <iframe
+                    src="https://ghbtns.com/github-btn.html?user=EliotAndres&repo=kaggle-past-solutions&type=star&count=true"
+                    frameborder="0"
+                    scrolling="0"
+                    width="170px"
+                    height="20px">
+            </iframe>
+            <iframe
+                    src="https://ghbtns.com/github-btn.html?user=EliotAndres&repo=kaggle-past-solutions&type=fork&count=true"
+                    frameborder="0"
+                    scrolling="0"
+                    width="170px"
+                    height="20px">
+            </iframe>
+        </p>
+        <h6>If you find a mistake please report it <a target="_blank" href="https://github.com/EliotAndres/kaggle-past-solutions/issues">here</a></h6>
     </div>
 
     <form class="form-inline">
@@ -49,7 +65,7 @@
                         <img ng-src="{{competition.thumbnailImageUrl}}" alt="Logo" width="100"/>
                     </a>
                 </td>
-                <td style="width: 40%;">
+                <td>
                     <h4><a target="_blank" ng-href="https://www.kaggle.com{{competition.competitionUrl}}">{{competition.competitionTitle}}</a></h4>
                     <p>{{competition.competitionDescription}}</p>
                 </td>
@@ -57,7 +73,7 @@
                 <td><span ng-repeat="type in competition.types">{{type}}{{$last ? '' : ', '}} </span></td>
                 <td>{{competition.evaluation}}</td>
                 <td>{{competition.rewardDisplay}}</td>
-                <td>
+                <td style="min-width: 300px;">
                     <p>
                         <a target="_blank" ng-href="https://www.kaggle.com{{competition.competitionUrl}}/forums">Forum</a>
                     </p>
