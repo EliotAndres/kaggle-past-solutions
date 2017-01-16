@@ -2001,7 +2001,19 @@
     "isPrivate": false,
     "isInClass": false,
     "userHasEntered": false,
-    "rewardDisplay": "$50,000"
+    "rewardDisplay": "$50,000",
+    "types": ["Classification"],
+    "evaluation": "Area under the ROC curve (AUC)",
+    "solutions": [
+      {
+        "label": "#2 solution",
+        "url": "https://www.kaggle.com/c/predicting-red-hat-business-value/forums/t/23824/2-solution"
+      },
+      {
+        "label": "#3 solution",
+        "url": "https://www.kaggle.com/c/predicting-red-hat-business-value/forums/t/23803/3-solution"
+      }
+    ]
   },
   {
     "competitionId": 5340,
@@ -2021,7 +2033,19 @@
     "isPrivate": false,
     "isInClass": false,
     "userHasEntered": false,
-    "rewardDisplay": "$25,000"
+    "rewardDisplay": "$25,000",
+    "types": ["Classification"],
+    "evaluation": "Multi-class logarithmic loss (logloss)",
+    "solutions": [
+      {
+        "label": "Some of the 3rd place solution",
+        "url": "https://www.kaggle.com/c/talkingdata-mobile-user-demographics/forums/t/23465/some-of-the-3rd-place-solution-history-danijel-matias"
+      },
+      {
+        "label": "5th place solution",
+        "url": "https://www.kaggle.com/c/talkingdata-mobile-user-demographics/forums/t/23445/5th-place-solution-kazanova-faron-and-some-thoughts"
+      }
+    ]
   },
   {
     "competitionId": 5260,
@@ -2041,7 +2065,19 @@
     "isPrivate": false,
     "isInClass": false,
     "userHasEntered": false,
-    "rewardDisplay": "$25,000"
+    "rewardDisplay": "$25,000",
+    "types": ["Forecast"],
+    "evaluation": "Root Mean Squared Logarithmic Error (RMSLE)",
+    "solutions": [
+      {
+        "label": "#1 Place Solution",
+        "url": "https://www.kaggle.com/c/grupo-bimbo-inventory-demand/forums/t/23863/1-place-solution-of-the-slippery-appraisals-team"
+      },
+      {
+        "label": "#3 Place Solution",
+        "url": "https://www.kaggle.com/c/grupo-bimbo-inventory-demand/forums/t/23633/a-quick-summary-of-team-mystic-3rd-place-solution"
+      }
+    ]
   },
   {
     "competitionId": 5144,
@@ -2061,7 +2097,15 @@
     "isPrivate": false,
     "isInClass": false,
     "userHasEntered": false,
-    "rewardDisplay": "$100,000"
+    "rewardDisplay": "$100,000",
+    "types": ["Image Processing"],
+    "evaluation": "Dice coefficient",
+    "solutions": [
+      {
+        "label": "Host asked not to share",
+        "url": "https://www.kaggle.com/c/ultrasound-nerve-segmentation/forums/t/22905/when-the-competition-is-done-i-would-appreciate-for-people-willing-to-share?forumMessageId=131674#post131674"
+      }
+    ]
   },
   {
     "competitionId": 5048,
@@ -2081,7 +2125,19 @@
     "isPrivate": false,
     "isInClass": false,
     "userHasEntered": false,
-    "rewardDisplay": "$65,000"
+    "rewardDisplay": "$65,000",
+    "types": ["Image Detection", "Classification"],
+    "evaluation": "Multi-class logarithmic loss (logloss)",
+    "solutions": [
+      {
+        "label": "#1 Solution",
+        "url": "https://www.kaggle.com/c/state-farm-distracted-driver-detection/forums/t/22906/a-brief-summary"
+      },
+      {
+        "label": "#3 Solution",
+        "url": "https://www.kaggle.com/c/state-farm-distracted-driver-detection/forums/t/22631/3-br-power-solution"
+      }
+    ]
   },
   {
     "competitionId": 5174,
