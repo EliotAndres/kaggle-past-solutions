@@ -2304,5 +2304,41 @@
     "isInClass": false,
     "userHasEntered": false,
     "rewardDisplay": "$200,000"
+  },
+  {
+    "competitionId": 5497,
+    "competitionTitle": "Outbrain Click Prediction",
+    "competitionDescription": "Can you predict which recommended content each user will click?",
+    "competitionUrl": "/c/outbrain-click-prediction",
+    "thumbnailImageUrl": "https://kaggle2.blob.core.windows.net/competitions/kaggle/5497/logos/thumb76_76.png",
+    "deadline": "2017-01-18T23:59:00Z",
+    "totalTeams": 979,
+    "totalKernels": 359,
+    "rewardQuantity": 25000,
+    "rewardTypeName": "USD",
+    "organizationName": "Outbrain",
+    "organizationUrl": "outbrain",
+    "hostSegment": "featured",
+    "isLimited": false,
+    "isPrivate": false,
+    "isInClass": false,
+    "userHasEntered": true,
+    "rewardDisplay": "$25,000",
+    "types": ["Click Prediction", "Ranking"],
+    "evaluation": "MAP@12",
+    "solutions": [
+      {
+        "label": "2nd place solution",
+        "url": "https://www.kaggle.com/c/outbrain-click-prediction/forums/t/27977/2nd-place-solution-team-brain-afk"
+      },
+      {
+        "label": "3rd place solution",
+        "url": "https://www.kaggle.com/c/outbrain-click-prediction/forums/t/27923/3rd-place-solution"
+      },
+      {
+        "label": "4th place solution",
+        "url": "https://www.kaggle.com/c/outbrain-click-prediction/forums/t/27926/4th-place-solution"
+      }
+    ]
   }
 ]
