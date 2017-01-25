@@ -52,11 +52,12 @@
             <tr>
                 <th></th>
                 <th ts-criteria="competitionTitle|lowercase">Competition</th>
-                <th ts-criteria="deadline|parseDate" ts-default="descending">Deadline</th>
-                <th ts-criteria="types">Type</th>
-                <th ts-criteria="evaluation">Evaluation</th>
-                <th ts-criteria="rewardDisplay | parseCurrency | parseFloat">Reward</th>
+                <th ts-criteria="deadline|parseDate" ts-default="descending" style="min-width: 100px;">Deadline</th>
+                <th ts-criteria="types" >Type</th>
+                <th ts-criteria="evaluation" style="min-width: 100px;">Evaluation</th>
+                <th ts-criteria="rewardDisplay | parseCurrency | parseFloat" style="min-width: 100px;">Reward</th>
                 <th>Solutions</th>
+                <th>Winner interviews</th>
             </tr>
             </thead>
             <tbody>
@@ -82,6 +83,15 @@
                         <li ng-repeat="solution in competition.solutions">
                             <a target="_blank" ng-href="{{solution.url}}">
                                 {{solution.label}}
+                            </a>
+                        </li>
+                    </ul>
+                </td>
+                <td style="min-width: 300px;">
+                    <ul>
+                        <li ng-repeat="interview in competition.interviews">
+                            <a target="_blank" ng-href="{{interview.url}}">
+                                {{interview.label}}
                             </a>
                         </li>
                     </ul>
