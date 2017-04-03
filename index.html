@@ -48,7 +48,7 @@
             <input ng-model="search.$" class="form-control" id="search" placeholder="Search">
         </div>
     </form>
-    <div class="row">
+    <div class="row" style="overflow: scroll">
         <table class="table" ts-wrapper>
             <thead>
             <tr>
@@ -59,7 +59,7 @@
                 <th ts-criteria="evaluation" style="min-width: 100px;">Evaluation</th>
                 <th ts-criteria="rewardDisplay | parseCurrency | parseFloat" style="min-width: 100px;">Reward</th>
                 <th>Solutions</th>
-                <th>Winner interviews</th>
+                <th>Winner interviews (WIP)</th>
             </tr>
             </thead>
             <tbody>
@@ -85,6 +85,14 @@
                         <li ng-repeat="solution in competition.solutions">
                             <a target="_blank" ng-href="{{solution.url}}">
                                 {{solution.label}}
+                            </a>
+                        </li>
+                    </ul>
+                    <p ng-if="competition.repositories">Repositories</p>
+                    <ul>
+                        <li ng-repeat="repo in competition.repositories">
+                            <a target="_blank" ng-href="{{repo.url}}">
+                                {{repo.label}}
                             </a>
                         </li>
                     </ul>

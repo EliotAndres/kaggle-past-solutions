@@ -2371,6 +2371,16 @@
         "label": "4th place solution",
         "url": "https://www.kaggle.com/c/outbrain-click-prediction/forums/t/27926/4th-place-solution"
       }
+    ],
+    "repositories": [
+      {
+        "label": "2nd place solution",
+        "url": "https://github.com/alno/kaggle-outbrain-click-prediction"
+      },
+      {
+        "label": "3rd place solution",
+        "url": "https://github.com/daxiongshu/light-ffm"
+      }
     ]
   },
   {
@@ -2394,10 +2404,14 @@
     "rewardDisplay": "$100,000",
     "types": ["Image processing", "Classification"],
     "evaluation": "Average Jaccard Index",
-    "solutions": [
+    "repositories": [
       {
         "label": "5th place solution",
         "url": "https://github.com/lopuhin/kaggle-dstl"
+      },
+      {
+        "label": "9th place solution",
+        "url": "https://github.com/toshi-k/kaggle-satellite-imagery-feature-detection"
       }
     ]
   },
