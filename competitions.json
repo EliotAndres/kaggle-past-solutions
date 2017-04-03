@@ -2163,7 +2163,19 @@
     "isPrivate": false,
     "isInClass": false,
     "userHasEntered": false,
-    "rewardDisplay": "$20,000"
+    "rewardDisplay": "$20,000",
+    "types": ["Natural Language Processing (NLP)", "Duplicate Detection"],
+    "evaluation": "Area Under Curve (AUC)",
+    "solutions": [
+      {
+        "label": "#2 Solution",
+        "url": "https://www.kaggle.com/c/avito-duplicate-ads-detection/discussion/22205"
+      },
+      {
+        "label": "Solution sharing",
+        "url": "https://www.kaggle.com/c/avito-duplicate-ads-detection/discussion/22190"
+      }
+    ]
   },
   {
     "competitionId": 5229,
@@ -2183,7 +2195,19 @@
     "isPrivate": false,
     "isInClass": false,
     "userHasEntered": false,
-    "rewardDisplay": "$75,000"
+    "rewardDisplay": "$75,000",
+    "types": ["Image processing"],
+    "evaluation": "Spearman's correlation coefficient",
+    "solutions": [
+      {
+        "label": "1st place",
+        "url": "https://www.kaggle.com/c/draper-satellite-image-chronology/discussion/21936"
+      },
+      {
+        "label": "Solution sharing",
+        "url": "https://www.kaggle.com/c/draper-satellite-image-chronology/discussion/21822"
+      }
+    ]
   },
   {
     "competitionId": 5056,
@@ -2203,7 +2227,15 @@
     "isPrivate": false,
     "isInClass": false,
     "userHasEntered": false,
-    "rewardDisplay": "$25,000"
+    "rewardDisplay": "$25,000",
+    "types": ["Recommendations", "Ranking"],
+    "evaluation": "Mean Average Precision @ 5 (MAP@5)",
+    "solutions": [
+      {
+        "label": "1st place",
+        "url": "https://www.kaggle.com/c/expedia-hotel-recommendations/discussion/21607"
+      }
+    ]
   },
   {
     "competitionId": 4986,
