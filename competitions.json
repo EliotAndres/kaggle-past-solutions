@@ -17,7 +17,13 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$30,000"
+        "rewardDisplay": "$30,000",
+        "interviews": [
+            {
+                "label": "2nd place winner",
+                "url": "http://blog.kaggle.com/2016/03/14/prudential-life-insurance-assessment-winners-interview-2nd-place-bogdan-zhurakovskyi/"
+      }
+    ]
   },
     {
         "competitionId": 4571,
@@ -43,6 +49,12 @@
                 "label": "8th place solution",
                 "url": "https://github.com/5vision/kaggle_allen"
       }
+    ],
+        "interviews": [
+            {
+                "label": "3rd place winner",
+                "url": "http://blog.kaggle.com/2016/04/09/the-allen-ai-science-challenge-winners-interview-3rd-place-alejandro-mosquera/"
+      }
     ]
   },
     {
@@ -63,7 +75,21 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$20,000"
+        "rewardDisplay": "$20,000",
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2016/04/08/homesite-quote-conversion-winners-write-up-1st-place-kazanova-faron-clobber/"
+      },
+            {
+                "label": "2nd place winner",
+                "url": "http://blog.kaggle.com/2016/05/02/homesite-quote-conversion-winners-interview-2nd-place-team-frenchies-nicolas-florian-pierre/"
+      },
+            {
+                "label": "3rd place winner",
+                "url": "http://blog.kaggle.com/2016/02/29/homesite-quote-conversion-winners-interview-3rd-place-team-new-model-army-cad-quy/"
+      }
+    ]
   },
     {
         "competitionId": 4494,
@@ -83,7 +109,13 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$100,000"
+        "rewardDisplay": "$100,000",
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2016/02/26/genentech-cervical-cancer-screening-winners-interview-1st-place-michael-giulio/"
+      }
+    ]
   },
     {
         "competitionId": 4504,
@@ -103,7 +135,13 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$50,000"
+        "rewardDisplay": "$50,000",
+        "interviews": [
+            {
+                "label": "3rd place winner",
+                "url": "http://blog.kaggle.com/2016/02/12/winton-stock-market-challenge-winners-interview-3rd-place-mendrika-ramarlina/"
+      }
+    ]
   },
     {
         "competitionId": 4704,
@@ -129,7 +167,18 @@
                 "label": "2nd place solution",
                 "url": "https://github.com/woshialex/SantaStolenSleigh"
       }
+    ],
+        "interviews": [
+            {
+                "label": "2nd place winner",
+                "url": "http://blog.kaggle.com/2016/01/28/santas-stolen-sleigh-winners-interview-2nd-place-woshialex-weezy/"
+      },
+            {
+                "label": "3rd place winner",
+                "url": "http://blog.kaggle.com/2016/03/03/santas-stolen-sleigh-winners-interview-3rd-place-marcin-marek/"
+      }
     ]
+
   },
     {
         "competitionId": 4594,
@@ -155,7 +204,21 @@
                 "label": "3rd place solution",
                 "url": "https://github.com/entron/entity-embedding-rossmann"
       }
-            ]
+            ],
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2015/12/21/rossmann-store-sales-winners-interview-1st-place-gert/"
+      },
+            {
+                "label": "2nd place winner",
+                "url": "http://blog.kaggle.com/2016/02/03/rossmann-store-sales-winners-interview-2nd-place-nima-shahbazi/"
+      },
+            {
+                "label": "3rd place winner",
+                "url": "http://blog.kaggle.com/2016/01/22/rossmann-store-sales-winners-interview-3rd-place-cheng-gui/"
+      }
+    ]
         },
     {
         "competitionId": 4523,
@@ -215,7 +278,18 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$10,000"
+        "rewardDisplay": "$10,000",
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2015/12/03/dato-winners-interview-1st-place-mad-professors/"
+      },
+            {
+                "label": "2nd place winner",
+                "url": "http://blog.kaggle.com/2015/10/30/dato-winners-interview-2nd-place-mortehu/"
+      }
+    ]
+
         },
     {
         "competitionId": 4488,
@@ -235,7 +309,17 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$15,000"
+        "rewardDisplay": "$15,000",
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2015/11/30/flavour-of-physics-technical-write-up-1st-place-go-polar-bears/"
+      },
+            {
+                "label": "3rd place winner",
+                "url": "http://blog.kaggle.com/2015/11/23/flavour-of-physics-winners-interview-3rd-place-josef-slavicek/"
+      }
+    ]
         },
     {
         "competitionId": 4481,
@@ -255,7 +339,13 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$50,000"
+        "rewardDisplay": "$50,000",
+        "interviews": [
+            {
+                "label": "2nd place winner",
+                "url": "http://blog.kaggle.com/2015/10/21/recruit-coupon-purchase-winners-interview-2nd-place-halla-yang/"
+      }
+    ]
         },
     {
         "competitionId": 4467,
@@ -275,7 +365,17 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$30,000"
+        "rewardDisplay": "$30,000",
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2015/09/22/caterpillar-winners-interview-1st-place-gilberto-josef-leustagos-mario/"
+      },
+            {
+                "label": "3rd place winner",
+                "url": "http://blog.kaggle.com/2015/10/20/caterpillar-winners-interview-3rd-place-team-shift-workers/"
+      }
+    ]
         },
     {
         "competitionId": 4471,
@@ -295,7 +395,13 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$25,000"
+        "rewardDisplay": "$25,000",
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2015/09/28/liberty-mutual-property-inspection-winners-interview-qingchen-wang/"
+      }
+    ]
         },
     {
         "competitionId": 4453,
@@ -341,7 +447,17 @@
                 "label": "2nd place solution",
                 "url": "https://github.com/Gzsiceberg/kaggle-avito"
             }
-        ]
+        ],
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2015/08/26/avito-winners-interview-1st-place-owen-zhang/"
+      },
+            {
+                "label": "2nd place winner",
+                "url": "http://blog.kaggle.com/2015/08/21/avito-winners-interview-2nd-place-changsheng-gu-aka-gzs_iceberg/"
+      }
+    ]
         },
     {
         "competitionId": 4104,
@@ -375,9 +491,17 @@
                 "label": "5th place solution",
                 "url": "https://github.com/JeffreyDF/kaggle_diabetic_retinopathy"
       }
+    ],
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2015/09/09/diabetic-retinopathy-winners-interview-1st-place-ben-graham/"
+      },
+            {
+                "label": "4th place winner",
+                "url": "http://blog.kaggle.com/2015/08/14/diabetic-retinopathy-winners-interview-4th-place-julian-daniel/"
+      }
     ]
-
-
         },
     {
         "competitionId": 4407,
@@ -410,6 +534,16 @@
             {
                 "label": "3rd place solution",
                 "url": "https://github.com/skrypka/crowdflower-search"
+      }
+    ],
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2015/07/27/crowdflower-winners-interview-1st-place-chenglong-chen/"
+      },
+            {
+                "label": "3rd place winner",
+                "url": "http://blog.kaggle.com/2015/07/22/crowdflower-winners-interview-3rd-place-team-quartet/"
       }
     ]
 
@@ -458,7 +592,13 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$10,000"
+        "rewardDisplay": "$10,000",
+        "interviews": [
+            {
+                "label": "2nd place winner",
+                "url": "http://blog.kaggle.com/2015/06/09/otto-product-classification-winners-interview-2nd-place-alexander-guschin/"
+      }
+    ]
         },
     {
         "competitionId": 4272,
@@ -498,7 +638,13 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$15,000"
+        "rewardDisplay": "$15,000",
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2015/04/17/predicting-march-madness-1st-place-finisher-zach-bradshaw/"
+      }
+    ]
         },
     {
         "competitionId": 3978,
@@ -544,7 +690,13 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$30,000"
+        "rewardDisplay": "$30,000",
+        "interviews": [
+            {
+                "label": "2nd place winner",
+                "url": "http://blog.kaggle.com/2015/04/20/axa-winners-interview-learning-telematic-fingerprints-from-gps-data/"
+      }
+    ]
         },
     {
         "competitionId": 4120,
@@ -1652,7 +1804,13 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$10,000"
+        "rewardDisplay": "$10,000",
+        "interviews": [
+            {
+                "label": "2nd place winner",
+                "url": "http://blog.kaggle.com/2017/02/27/allstate-claims-severity-competition-2nd-place-winners-interview-alexey-noskov/"
+      }
+    ]
         },
     {
         "competitionId": 2518,
@@ -2075,6 +2233,10 @@
             {
                 "label": "2nd place winner",
                 "url": "http://blog.kaggle.com/2017/01/12/santander-product-recommendation-competition-2nd-place-winners-solution-write-up-tom-van-de-wiele/"
+      },
+            {
+                "label": "3rd place winner",
+                "url": "http://blog.kaggle.com/2017/02/22/santander-product-recommendation-competition-3rd-place-winners-interview-ryuji-sakata/"
       }
     ]
         },
@@ -2112,6 +2274,16 @@
                 "label": "General post",
                 "url": "https://www.kaggle.com/c/bosch-production-line-performance/forums/t/25348/solution-sharing"
       }
+    ],
+        "interviews": [
+            {
+                "label": "Travel grant winner",
+                "url": "http://blog.kaggle.com/2016/12/30/bosch-production-line-performance-competition-symposium-for-advanced-manufacturing-grant-winners-ankita-nishant-abhinav-bohdan/"
+      },
+            {
+                "label": "3rd place winner",
+                "url": "http://blog.kaggle.com/2016/12/15/bosch-production-line-performance-competition-winners-interview-3rd-place-team-data-property-avengers-darragh-marios-mathias-stanislav/"
+      }
     ]
         },
     {
@@ -2143,6 +2315,12 @@
             {
                 "label": "#3 solution",
                 "url": "https://www.kaggle.com/c/predicting-red-hat-business-value/forums/t/23803/3-solution"
+      }
+    ],
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2016/11/03/red-hat-business-value-competition-1st-place-winners-interview-darius-barusauskas/"
       }
     ]
         },
@@ -2176,6 +2354,12 @@
                 "label": "5th place solution",
                 "url": "https://www.kaggle.com/c/talkingdata-mobile-user-demographics/forums/t/23445/5th-place-solution-kazanova-faron-and-some-thoughts"
       }
+    ],
+        "interviews": [
+            {
+                "label": "3rd place winner",
+                "url": "http://blog.kaggle.com/2016/10/19/talkingdata-mobile-user-demographics-competition-winners-interview-3rd-place-team-utc1-3-danijel-matias/"
+      }
     ]
         },
     {
@@ -2207,6 +2391,12 @@
             {
                 "label": "#3 Place Solution",
                 "url": "https://www.kaggle.com/c/grupo-bimbo-inventory-demand/forums/t/23633/a-quick-summary-of-team-mystic-3rd-place-solution"
+      }
+    ],
+        "interviews": [
+            {
+                "label": "2nd place winner",
+                "url": "http://blog.kaggle.com/2016/09/27/grupo-bimbo-inventory-demand-winners-interviewclustifier-alex-andrey/"
       }
     ]
         },
@@ -2312,6 +2502,20 @@
                 "label": "2nd place solution",
                 "url": "https://github.com/mxbi/ftim"
       }
+    ],
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2016/08/24/avito-duplicate-ads-detection-winners-interview-1st-place-team-devil-team-stanislav-dmitrii/"
+      },
+            {
+                "label": "2nd place winner",
+                "url": "http://blog.kaggle.com/2016/08/31/avito-duplicate-ads-detection-winners-interview-2nd-place-team-the-quants-mikel-peter-marios-sonny/"
+      },
+            {
+                "label": "3rd place winner",
+                "url": "http://blog.kaggle.com/2016/07/27/avito-duplicate-ads-detection-winners-interview-3rd-place-mario-gerard-kele-praveen-gilberto/"
+      }
     ]
         },
     {
@@ -2343,6 +2547,16 @@
             {
                 "label": "Solution sharing",
                 "url": "https://www.kaggle.com/c/draper-satellite-image-chronology/discussion/21822"
+      }
+    ],
+        "interviews": [
+            {
+                "label": "Pure ML Solution 1",
+                "url": "http://blog.kaggle.com/2016/09/15/draper-satellite-image-chronology-machine-learning-solution-vicens-gaitan/"
+      },
+            {
+                "label": "Pure ML Solution 2",
+                "url": "http://blog.kaggle.com/2016/09/08/draper-satellite-image-chronology-damien-soukhavong/"
       }
     ]
         },
@@ -2412,7 +2626,21 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$40,000"
+        "rewardDisplay": "$40,000",
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2016/05/18/home-depot-product-search-relevance-winners-interview-1st-place-alex-andreas-nurlan/"
+      },
+            {
+                "label": "2nd place winner",
+                "url": "http://blog.kaggle.com/2016/06/15/home-depot-product-search-relevance-winners-interview-2nd-place-thomas-sean-qingchen-nima/"
+      },
+            {
+                "label": "3rd place winner",
+                "url": "http://blog.kaggle.com/2016/06/01/home-depot-product-search-relevance-winners-interview-3rd-place-team-turing-test-igor-kostia-chenglong/"
+      }
+    ]
         },
     {
         "competitionId": 4852,
@@ -2432,7 +2660,13 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$30,000"
+        "rewardDisplay": "$30,000",
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2016/05/13/bnp-paribas-cardif-claims-management-winners-interview-1st-place-team-dexters-lab-darius-davut-song/"
+      }
+    ]
         },
     {
         "competitionId": 4862,
@@ -2452,7 +2686,13 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$25,000"
+        "rewardDisplay": "$25,000",
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2016/05/10/march-machine-learning-mania-2016-winners-interview-1st-place-miguel-alomar/"
+      }
+    ]
         },
     {
         "competitionId": 4729,
@@ -2472,7 +2712,14 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$200,000"
+        "rewardDisplay": "$200,000",
+        "interviews": [
+            {
+                "label": "2nd place winner",
+                "url": "http://blog.kaggle.com/2016/04/13/diagnosing-heart-diseases-with-deep-neural-networks-2nd-place-ira-korshunova/"
+      }
+    ]
+
         },
     {
         "competitionId": 5497,
@@ -2517,6 +2764,12 @@
             {
                 "label": "3rd place solution",
                 "url": "https://github.com/daxiongshu/light-ffm"
+      }
+    ],
+        "interviews": [
+            {
+                "label": "2nd place winner",
+                "url": "http://blog.kaggle.com/2017/03/17/outbrain-click-prediction-competition-winners-interview-2nd-place-team-brain-afk-darragh-marios-mathias-alexey/"
       }
     ]
         },
