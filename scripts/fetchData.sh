@@ -1,15 +1,15 @@
 #!/bin/bash
 set -e
-maxpage=6
+maxpage=13
 
-for i in {1..$maxpage}
+for ((i=0; i<maxpage; i++))
 do
-	curl "https://www.kaggle.com/competitions.json?sortBy=deadline&group=all&segment=featured&page=${i}" -o "file-${i}.json"
+	curl "https://www.kaggle.com/competitions.json?sortBy=deadline&group=all&segment=allCategories&page=${i}" -o "file-${i}.json"
 done
 
 jq '.competitions[]' file-* | jq -s . > competitions.json
 
-for i in {1..$maxpage}
+for ((i=0; i<maxpage; i++))
 do
 	rm "./file-${i}.json"
 done
