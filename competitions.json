@@ -1744,7 +1744,21 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$5,000"
+        "rewardDisplay": "$5,000",
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2012/01/03/the-perfect-storm-meet-the-winners-of-give-me-some-credit/"
+            },
+            {
+                "label": "2nd place winner",
+                "url": "http://blog.kaggle.com/2011/12/21/score-xavier-conort-on-coming-second-in-give-me-some-credit/"
+            },
+            {
+                "label": "3rd place winner",
+                "url": "http://blog.kaggle.com/2011/12/20/credit-where-credits-due-joe-malicki-on-placing-third-in-give-me-some-credit-2/"
+            }
+        ]
         },
     {
         "competitionId": 2609,
@@ -1764,7 +1778,17 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$5,000"
+        "rewardDisplay": "$5,000",
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2011/11/23/picture-perfect-bo-yang-on-winning-the-photo-quality-prediction-competition/"
+            },
+            {
+                "label": "3rd place winner",
+                "url": "http://blog.kaggle.com/2011/11/27/smile-alexander-dyakonov-on-placing-third-in-the-photo-quality-prediction-competition/"
+            }
+        ]
         },
     {
         "competitionId": 2549,
@@ -1830,7 +1854,25 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$10,000"
+        "rewardDisplay": "$10,000",
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2011/10/16/kernel-density-at-the-checkout/"
+            },
+            {
+                "label": "2nd place winner",
+                "url": "http://blog.kaggle.com/2011/10/20/creatures-of-habit-neil-schneider/"
+            },
+            {
+                "label": "3rd place winner",
+                "url": "http://blog.kaggle.com/2011/11/17/words-of-wisdom-from-ben-hamner-our-newest-recruit/"
+            },
+            {
+                "label": "4th place winner",
+                "url": "http://blog.kaggle.com/2011/10/19/deceitful-beast-william-cukierski/"
+            }
+        ]
         },
     {
         "competitionId": 2499,
@@ -1850,7 +1892,21 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$10,000"
+        "rewardDisplay": "$10,000",
+        "interviews": [
+            {
+                "label": "2nd place winner",
+                "url": "http://blog.kaggle.com/2011/10/06/like-popping-bubble-wrap/"
+            },
+            {
+                "label": "3rd place winner",
+                "url": "http://blog.kaggle.com/2011/10/26/long-live-wikipedia-dell-zhang/"
+            },
+            {
+                "label": "4th place winner",
+                "url": "http://blog.kaggle.com/2011/11/01/small-steps-gareth-campbell/"
+            }
+        ]
         },
     {
         "competitionId": 2487,
@@ -1870,7 +1926,21 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$3,000"
+        "rewardDisplay": "$3,000",
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2011/09/13/deepzot-on-dark-matter/"
+            },
+            {
+                "label": "2nd place winner",
+                "url": "http://blog.kaggle.com/2011/09/02/mapping-matter-with-matlab/"
+            },
+            {
+                "label": "3rd place winner",
+                "url": "http://blog.kaggle.com/2011/10/04/from-soundtracks-and-signatures/"
+            }
+        ]
         },
     {
         "competitionId": 2489,
@@ -1910,7 +1980,13 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$10,000"
+        "rewardDisplay": "$10,000",
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2011/05/29/the-thrill-of-the-chase-tim-salisman-on-how-he-took-home-deloittefide-chess-comp/"
+            }
+        ]
         },
     {
         "competitionId": 2488,
@@ -1930,7 +2006,13 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$1,000"
+        "rewardDisplay": "$1,000",
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2011/05/04/andrew-newell-and-lewis-griffin-on-winning-the-icdar-2011-competition/"
+            }
+        ]
         },
     {
         "competitionId": 2478,
@@ -1950,7 +2032,21 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$950"
+        "rewardDisplay": "$950",
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2011/03/25/inference-on-winning-the-ford-stay-alert-competition/"
+            },
+            {
+                "label": "2nd place winner",
+                "url": "http://blog.kaggle.com/2011/04/20/mick-wagner-on-finishing-second-in-the-ford-challenge/"
+            },
+            {
+                "label": "4th place winner",
+                "url": "http://blog.kaggle.com/2011/03/16/junpei-komiyama-on-finishing-4th-in-the-ford-competition/"
+            }
+        ]
         },
     {
         "competitionId": 2445,
@@ -1970,7 +2066,17 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$5,000"
+        "rewardDisplay": "$5,000",
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2011/02/21/jeremy-howard-on-winning-the-predict-grant-applications-competition/"
+            },
+            {
+                "label": "2nd place winner",
+                "url": "http://blog.kaggle.com/2011/02/21/quan-sun-on-finishing-in-second-place-in-predict-grant-applications/"
+            }
+        ]
         },
     {
         "competitionId": 2467,
@@ -1990,7 +2096,13 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$10,000"
+        "rewardDisplay": "$10,000",
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2011/03/25/jose-p-gonzalez-brenes-and-matias-cortes-on-winning-the-rta-challenge/"
+            }
+        ]
         },
     {
         "competitionId": 2454,
@@ -2010,7 +2122,21 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$150"
+        "rewardDisplay": "$150",
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2011/02/15/dave-slate-on-winning-the-r-challenge/"
+            },
+            {
+                "label": "2nd place winner",
+                "url": "http://blog.kaggle.com/2011/02/21/max-lin-on-finishing-second-in-the-r-challenge/"
+            },
+            {
+                "label": "3rd place winner",
+                "url": "http://blog.kaggle.com/2011/02/11/how-i-did-it-ming-hen-tsai-on-finishing-third-in-the-r-competition/"
+            }
+        ]
         },
     {
         "competitionId": 2464,
@@ -2030,7 +2156,21 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$950"
+        "rewardDisplay": "$950",
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2011/01/15/how-we-did-it-the-winners-of-the-ijcnn-social-network-challenge/"
+            },
+            {
+                "label": "2nd place winner [1]",
+                "url": "http://blog.kaggle.com/2011/01/14/how-i-did-it-will-cukierski-on-finishing-second-in-the-ijcnn-social-network-challenge/"
+            },
+            {
+                "label": "2nd place winner [2]",
+                "url": "http://blog.kaggle.com/2011/01/19/how-i-did-it-finishing-second-from-bo-yangs-perspective/"
+            }
+        ]
         },
     {
         "competitionId": 2452,
@@ -2050,7 +2190,17 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$500"
+        "rewardDisplay": "$500",
+        "interviews": [
+            {
+                "label": "1st place winner [overall]",
+                "url": "http://blog.kaggle.com/2010/11/24/how-we-did-it-jeremy-howard-on-winning-the-tourism-forecasting-competitoin/"
+            },
+            {
+                "label": "1st place winner [part two only]",
+                "url": "http://blog.kaggle.com/2011/03/22/phil-brierley-on-winning-tourism-forecasting-part-two/"
+            }
+        ]
         },
     {
         "competitionId": 2447,
@@ -2070,7 +2220,33 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$617"
+        "rewardDisplay": "$617",
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2011/02/08/how-i-did-it-yannis-sismanis-on-winning-the-elo-chess-ratings-competition/"
+            },
+            {
+                "label": "2nd place winner",
+                "url": "http://blog.kaggle.com/2010/11/19/how-i-did-it-jeremy-howard-on-finishing-second/"
+            },
+            {
+                "label": "3rd place winner",
+                "url": "http://blog.kaggle.com/2010/11/20/how-i-did-it-martin-reichert-on-3rd-place-in-elo-comp/"
+            },
+            {
+                "label": "4th place winner",
+                "url": "http://blog.kaggle.com/2010/11/30/how-i-did-it-diogo-ferreira-on-4th-place-in-elo-chess-ratings-competition/"
+            },
+            {
+                "label": "5th place winner",
+                "url": "http://blog.kaggle.com/2010/11/27/philipp-weidmann-5th-in-the-elo-comp-on-chess-ratings-and-numerical-optimization/"
+            },
+            {
+                "label": "9th place winner",
+                "url": "http://blog.kaggle.com/2010/11/23/how-we-did-it-david-slate-and-peter-frey-on-9th-place-in-elo-comp/"
+            }
+        ]
         },
     {
         "competitionId": 2439,
@@ -2090,7 +2266,13 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$0"
+        "rewardDisplay": "$0",
+        "interviews": [
+            {
+                "label": "Top 3 places",
+                "url": "http://blog.kaggle.com/2010/10/11/how-i-did-it-the-top-three-from-the-2010-informs-data-mining-contest/"
+            }
+        ]
         },
     {
         "competitionId": 2448,
@@ -2110,7 +2292,13 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$500"
+        "rewardDisplay": "$500",
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2010/09/27/how-i-did-it-lee-baker-on-winning-tourism-forecasting-part-one/"
+            }
+        ]
         },
     {
         "competitionId": 2435,
@@ -2130,7 +2318,13 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$500"
+        "rewardDisplay": "$500",
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2010/08/09/how-i-won-the-hiv-progression-prediction-data-mining-competition/"
+            }
+        ]
         },
     {
         "competitionId": 2438,
@@ -2190,7 +2384,13 @@
         "isPrivate": false,
         "isInClass": false,
         "userHasEntered": false,
-        "rewardDisplay": "$1,000"
+        "rewardDisplay": "$1,000",
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2010/06/09/computer-scientist-jure-zbontars-method-for-winning-the-eurovision-challenge/"
+            }
+        ]
         },
     {
         "competitionId": 5558,
