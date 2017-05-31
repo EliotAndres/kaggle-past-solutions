@@ -3078,5 +3078,71 @@
                 "url": "https://www.kaggle.com/c/two-sigma-financial-modeling/discussion/29518"
       }
     ]
+        },
+    {
+        "competitionId": 5390,
+        "competitionTitle": "Melbourne University AES/MathWorks/NIH Seizure Prediction",
+        "competitionDescription": "Predict seizures in long-term human intracranial EEG recordings",
+        "competitionUrl": "/c/melbourne-university-seizure-prediction#description",
+        "thumbnailImageUrl": "https://kaggle2.blob.core.windows.net/competitions/kaggle/5390/logos/front_page.png",
+        "deadline": "2016-12-01T23:59:00Z",
+        "totalTeams": 478,
+        "totalKernels": 0,
+        "rewardQuantity": 20000.0000,
+        "rewardTypeName": "USD",
+        "organizationName": null,
+        "organizationUrl": null,
+        "hostSegment": "research",
+        "isLimited": false,
+        "isPrivate": false,
+        "isInClass": false,
+        "userHasEntered": false,
+        "rewardDisplay": "$20,000",
+        "types": ["Time series", "Classification", "Prediction"],
+        "evaluation": "ROC AUC",
+        "solutions": [
+            {
+                "label": "Public LB #15, Private LB #3 (and other solutions)",
+                "url": "https://www.kaggle.com/c/melbourne-university-seizure-prediction/discussion/26039"
+      },
+            {
+                "label": "Public LB #27, Private LB #4",
+                "url": "https://www.kaggle.com/c/melbourne-university-seizure-prediction/discussion/26098"
+      },
+
+            {
+                "label": "Public LB #16, Private LB #5",
+                "url": "https://www.kaggle.com/c/melbourne-university-seizure-prediction/discussion/26117"
+      },
+
+            {
+                "label": "Public LB #22, Private LB #8",
+                "url": "https://www.kaggle.com/c/melbourne-university-seizure-prediction/discussion/26268"
+      }
+    ],
+        "repositories": [
+            {
+                "label": "4th place solution",
+                "url": "https://github.com/GainaTang/Melbourne-University-AES-MathWorks-NIH-Seizure-Prediction-4th-solution-"
+      },
+            {
+                "label": "5th place solution",
+                "url": "https://github.com/oleg-panichev/Melbourne-University-Seizure-Prediction-2016"
+      },
+            {
+                "label": "8th place solution",
+                "url": "https://github.com/nahlik-michal/kaggle-melbourne-seizure-prediction"
+      }
+    ],
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2017/02/06/seizure-prediction-competition-first-place-winners-interview-team-not-so-random-anymore-andriy-alexandre-feng-gilberto/"
+      },
+            {
+                "label": "3rd place winner",
+                "url": "http://blog.kaggle.com/2017/01/10/seizure-prediction-competition-3rd-place-winners-interview-gareth-jones/"
+      }
+    ]
         }
         ]
