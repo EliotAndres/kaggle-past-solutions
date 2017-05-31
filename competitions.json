@@ -181,6 +181,42 @@
 
   },
     {
+        "competitionId": 4521,
+        "competitionTitle": "Right Whale Recognition",
+        "competitionDescription": "Identify endangered right whales in aerial photographs",
+        "competitionUrl": "/c/noaa-right-whale-recognition",
+        "thumbnailImageUrl": "https://kaggle2.blob.core.windows.net/competitions/kaggle/4521/logos/thumb76_76.png",
+        "deadline": "2016-01-07T23:59:00Z",
+        "totalTeams": 364,
+        "totalKernels": 0,
+        "rewardQuantity": 10000,
+        "rewardTypeName": "USD",
+        "organizationName": "NOAA Fisheries",
+        "organizationUrl": "https://www.nefsc.noaa.gov/psb/",
+        "hostSegment": "featured",
+        "isLimited": false,
+        "isPrivate": false,
+        "isInClass": false,
+        "userHasEntered": false,
+        "rewardDisplay": "$10,000",
+        "repositories": [
+            {
+                "label": "2nd place solution",
+                "url": "https://github.com/felixlaumon/kaggle-right-whale"
+            }    
+        ],
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2016/01/29/noaa-right-whale-recognition-winners-interview-1st-place-deepsense-io/"
+            },
+            {
+                "label": "2nd place winner",
+                "url": "http://blog.kaggle.com/2016/02/04/noaa-right-whale-recognition-winners-interview-2nd-place-felix-lau/"
+            },
+        ]
+    },
+    {
         "competitionId": 4594,
         "competitionTitle": "Rossmann Store Sales",
         "competitionDescription": "Forecast sales using store, promotion, and competitor data",
