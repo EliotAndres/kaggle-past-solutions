@@ -1,5 +1,40 @@
 [
     {
+        "competitionId": 6004,
+        "competitionTitle": "Data Science Bowl 2017",
+        "competitionDescription": "Can you improve lung cancer detection?",
+        "competitionUrl": "/c/data-science-bowl-2017",
+        "thumbnailImageUrl": "https://kaggle2.blob.core.windows.net/competitions/kaggle/6004/logos/front_page.png",
+        "deadline": "2017-04-12T23:59:00Z",
+        "totalTeams": 1972,
+        "totalKernels": 0,
+        "rewardQuantity": 1000000,
+        "rewardTypeName": "USD",
+        "organizationName": null,
+        "organizationUrl": null,
+        "hostSegment": "featured",
+        "isLimited": false,
+        "isPrivate": false,
+        "isInClass": false,
+        "userHasEntered": false,
+        "rewardDisplay": "$1,000,000",
+        "interviews": [
+            {
+                "label": "2nd place winner",
+                "url": "http://juliandewit.github.io/kaggle-ndsb2017/"
+            },
+            {
+                "label": "9th place winner",
+                "url": "https://eliasvansteenkiste.github.io/machine%20learning/lung-cancer-pred/
+            }
+        ],
+        "repositories": [
+            {
+                "label": "2nd place solution",
+                "url": "https://github.com/juliandewit/kaggle_ndsb2017"
+            }
+    },
+    {
         "competitionId": 4699,
         "competitionTitle": "Prudential Life Insurance Assessment",
         "competitionDescription": "Can you make buying life insurance easier?",
