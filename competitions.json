@@ -18,6 +18,8 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$1,000,000",
+        "types": ["Image processing", "Classification"],
+        "evaluation": "Multi-class logarithmic loss (logloss)",
         "interviews": [
             {
                 "label": "2nd place winner",
