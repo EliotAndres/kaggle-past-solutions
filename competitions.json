@@ -3039,7 +3039,17 @@
                 "label": "9th place solution",
                 "url": "https://github.com/toshi-k/kaggle-satellite-imagery-feature-detection"
       }
-    ]
+    ],
+        "interviews": [
+            {
+                "label": "1st place winner",
+                "url": "http://blog.kaggle.com/2017/04/26/dstl-satellite-imagery-competition-1st-place-winners-interview-kyle-lee/"
+            },
+            {
+                "label": "4th place winner",
+                "url": "https://deepsense.io/deep-learning-for-satellite-imagery-via-image-segmentation/"
+            }
+        ]
         },
     {
         "competitionId": 5874,
