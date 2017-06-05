@@ -240,7 +240,7 @@
             {
                 "label": "2nd place solution",
                 "url": "https://github.com/felixlaumon/kaggle-right-whale"
-            }    
+            }
         ],
         "interviews": [
             {
@@ -3081,6 +3081,10 @@
             {
                 "label": "1st place winner",
                 "url": "http://blog.kaggle.com/2017/04/26/dstl-satellite-imagery-competition-1st-place-winners-interview-kyle-lee/"
+            },
+            {
+                "label": "3rd place winner",
+                "url": "http://blog.kaggle.com/2017/05/09/dstl-satellite-imagery-competition-3rd-place-winners-interview-vladimir-sergey/"
             },
             {
                 "label": "4th place winner",
