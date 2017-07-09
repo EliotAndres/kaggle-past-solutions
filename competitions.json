@@ -59,9 +59,9 @@
             {
                 "label": "2nd place winner",
                 "url": "http://blog.kaggle.com/2016/03/14/prudential-life-insurance-assessment-winners-interview-2nd-place-bogdan-zhurakovskyi/"
-      }
-    ]
-  },
+            }
+        ]
+    },
     {
         "competitionId": 4571,
         "competitionTitle": "The Allen AI Science Challenge",
@@ -85,15 +85,15 @@
             {
                 "label": "8th place solution",
                 "url": "https://github.com/5vision/kaggle_allen"
-      }
-    ],
+            }
+        ],
         "interviews": [
             {
                 "label": "3rd place winner",
                 "url": "http://blog.kaggle.com/2016/04/09/the-allen-ai-science-challenge-winners-interview-3rd-place-alejandro-mosquera/"
-      }
-    ]
-  },
+            }
+        ]
+    },
     {
         "competitionId": 4657,
         "competitionTitle": "Homesite Quote Conversion",
@@ -117,17 +117,17 @@
             {
                 "label": "1st place winner",
                 "url": "http://blog.kaggle.com/2016/04/08/homesite-quote-conversion-winners-write-up-1st-place-kazanova-faron-clobber/"
-      },
+            },
             {
                 "label": "2nd place winner",
                 "url": "http://blog.kaggle.com/2016/05/02/homesite-quote-conversion-winners-interview-2nd-place-team-frenchies-nicolas-florian-pierre/"
-      },
+            },
             {
                 "label": "3rd place winner",
                 "url": "http://blog.kaggle.com/2016/02/29/homesite-quote-conversion-winners-interview-3rd-place-team-new-model-army-cad-quy/"
-      }
-    ]
-  },
+            }
+        ]
+    },
     {
         "competitionId": 4494,
         "competitionTitle": "Cervical Cancer Screening",
@@ -151,9 +151,9 @@
             {
                 "label": "1st place winner",
                 "url": "http://blog.kaggle.com/2016/02/26/genentech-cervical-cancer-screening-winners-interview-1st-place-michael-giulio/"
-      }
-    ]
-  },
+            }
+        ]
+    },
     {
         "competitionId": 4504,
         "competitionTitle": "The Winton Stock Market Challenge",
@@ -177,9 +177,9 @@
             {
                 "label": "3rd place winner",
                 "url": "http://blog.kaggle.com/2016/02/12/winton-stock-market-challenge-winners-interview-3rd-place-mendrika-ramarlina/"
-      }
-    ]
-  },
+            }
+        ]
+    },
     {
         "competitionId": 4704,
         "competitionTitle": "Santa's Stolen Sleigh",
@@ -203,20 +203,20 @@
             {
                 "label": "2nd place solution",
                 "url": "https://github.com/woshialex/SantaStolenSleigh"
-      }
-    ],
+            }
+        ],
         "interviews": [
             {
                 "label": "2nd place winner",
                 "url": "http://blog.kaggle.com/2016/01/28/santas-stolen-sleigh-winners-interview-2nd-place-woshialex-weezy/"
-      },
+            },
             {
                 "label": "3rd place winner",
                 "url": "http://blog.kaggle.com/2016/03/03/santas-stolen-sleigh-winners-interview-3rd-place-marcin-marek/"
-      }
-    ]
+            }
+        ]
 
-  },
+    },
     {
         "competitionId": 4521,
         "competitionTitle": "Right Whale Recognition",
@@ -276,23 +276,23 @@
             {
                 "label": "3rd place solution",
                 "url": "https://github.com/entron/entity-embedding-rossmann"
-      }
-            ],
+            }
+        ],
         "interviews": [
             {
                 "label": "1st place winner",
                 "url": "http://blog.kaggle.com/2015/12/21/rossmann-store-sales-winners-interview-1st-place-gert/"
-      },
+            },
             {
                 "label": "2nd place winner",
                 "url": "http://blog.kaggle.com/2016/02/03/rossmann-store-sales-winners-interview-2nd-place-nima-shahbazi/"
-      },
+            },
             {
                 "label": "3rd place winner",
                 "url": "http://blog.kaggle.com/2016/01/22/rossmann-store-sales-winners-interview-3rd-place-cheng-gui/"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 4523,
         "competitionTitle": "Western Australia Rental Prices ",
@@ -312,7 +312,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$100,000"
-        },
+    },
     {
         "competitionId": 4487,
         "competitionTitle": "Springleaf Marketing Response",
@@ -332,7 +332,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$100,000"
-        },
+    },
     {
         "competitionId": 4493,
         "competitionTitle": "Truly Native? ",
@@ -356,14 +356,14 @@
             {
                 "label": "1st place winner",
                 "url": "http://blog.kaggle.com/2015/12/03/dato-winners-interview-1st-place-mad-professors/"
-      },
+            },
             {
                 "label": "2nd place winner",
                 "url": "http://blog.kaggle.com/2015/10/30/dato-winners-interview-2nd-place-mortehu/"
-      }
-    ]
+            }
+        ]
 
-        },
+    },
     {
         "competitionId": 4488,
         "competitionTitle": "Flavours of Physics: Finding τ  →  μμμ",
@@ -387,13 +387,13 @@
             {
                 "label": "1st place winner",
                 "url": "http://blog.kaggle.com/2015/11/30/flavour-of-physics-technical-write-up-1st-place-go-polar-bears/"
-      },
+            },
             {
                 "label": "3rd place winner",
                 "url": "http://blog.kaggle.com/2015/11/23/flavour-of-physics-winners-interview-3rd-place-josef-slavicek/"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 4481,
         "competitionTitle": "Coupon Purchase Prediction",
@@ -417,9 +417,9 @@
             {
                 "label": "2nd place winner",
                 "url": "http://blog.kaggle.com/2015/10/21/recruit-coupon-purchase-winners-interview-2nd-place-halla-yang/"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 4467,
         "competitionTitle": "Caterpillar Tube Pricing",
@@ -443,13 +443,13 @@
             {
                 "label": "1st place winner",
                 "url": "http://blog.kaggle.com/2015/09/22/caterpillar-winners-interview-1st-place-gilberto-josef-leustagos-mario/"
-      },
+            },
             {
                 "label": "3rd place winner",
                 "url": "http://blog.kaggle.com/2015/10/20/caterpillar-winners-interview-3rd-place-team-shift-workers/"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 4471,
         "competitionTitle": "Liberty Mutual Group: Property Inspection Prediction",
@@ -473,9 +473,9 @@
             {
                 "label": "1st place winner",
                 "url": "http://blog.kaggle.com/2015/09/28/liberty-mutual-property-inspection-winners-interview-qingchen-wang/"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 4453,
         "competitionTitle": "ICDM 2015: Drawbridge Cross-Device Connections",
@@ -495,7 +495,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$10,000"
-        },
+    },
     {
         "competitionId": 4438,
         "competitionTitle": "Avito Context Ad Clicks",
@@ -525,13 +525,13 @@
             {
                 "label": "1st place winner",
                 "url": "http://blog.kaggle.com/2015/08/26/avito-winners-interview-1st-place-owen-zhang/"
-      },
+            },
             {
                 "label": "2nd place winner",
                 "url": "http://blog.kaggle.com/2015/08/21/avito-winners-interview-2nd-place-changsheng-gu-aka-gzs_iceberg/"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 4104,
         "competitionTitle": "Diabetic Retinopathy Detection",
@@ -555,27 +555,27 @@
             {
                 "label": "1st place solution",
                 "url": "https://github.com/btgraham/SparseConvNet/tree/kaggle_Diabetic_Retinopathy_competition"
-      },
+            },
             {
                 "label": "3rd place solution",
                 "url": "https://www.kaggle.com/c/diabetic-retinopathy-detection/discussion/15845"
-      },
+            },
             {
                 "label": "5th place solution",
                 "url": "https://github.com/JeffreyDF/kaggle_diabetic_retinopathy"
-      }
-    ],
+            }
+        ],
         "interviews": [
             {
                 "label": "1st place winner",
                 "url": "http://blog.kaggle.com/2015/09/09/diabetic-retinopathy-winners-interview-1st-place-ben-graham/"
-      },
+            },
             {
                 "label": "4th place winner",
                 "url": "http://blog.kaggle.com/2015/08/14/diabetic-retinopathy-winners-interview-4th-place-julian-daniel/"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 4407,
         "competitionTitle": "Crowdflower Search Results Relevance",
@@ -599,28 +599,28 @@
             {
                 "label": "1rd place solution",
                 "url": "https://github.com/ChenglongChen/Kaggle_CrowdFlower"
-      },
+            },
             {
                 "label": "2nd place solution",
                 "url": "https://github.com/geffy/kaggle-crowdflower"
-      },
+            },
             {
                 "label": "3rd place solution",
                 "url": "https://github.com/skrypka/crowdflower-search"
-      }
-    ],
+            }
+        ],
         "interviews": [
             {
                 "label": "1st place winner",
                 "url": "http://blog.kaggle.com/2015/07/27/crowdflower-winners-interview-1st-place-chenglong-chen/"
-      },
+            },
             {
                 "label": "3rd place winner",
                 "url": "http://blog.kaggle.com/2015/07/22/crowdflower-winners-interview-3rd-place-team-quartet/"
-      }
-    ]
+            }
+        ]
 
-        },
+    },
     {
         "competitionId": 4366,
         "competitionTitle": "West Nile Virus Prediction",
@@ -644,9 +644,9 @@
             {
                 "label": "2nd place solution",
                 "url": "https://github.com/diefimov/west_nile_virus_2015"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 4280,
         "competitionTitle": "Otto Group Product Classification Challenge",
@@ -670,9 +670,9 @@
             {
                 "label": "2nd place winner",
                 "url": "http://blog.kaggle.com/2015/06/09/otto-product-classification-winners-interview-2nd-place-alexander-guschin/"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 4272,
         "competitionTitle": "Restaurant Revenue Prediction",
@@ -692,7 +692,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$30,000"
-        },
+    },
     {
         "competitionId": 4066,
         "competitionTitle": "March Machine Learning Mania 2015",
@@ -716,9 +716,9 @@
             {
                 "label": "1st place winner",
                 "url": "http://blog.kaggle.com/2015/04/17/predicting-march-madness-1st-place-finisher-zach-bradshaw/"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 3978,
         "competitionTitle": "National Data Science Bowl",
@@ -742,9 +742,9 @@
             {
                 "label": "1st place solution",
                 "url": "https://github.com/benanne/kaggle-ndsb"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 4031,
         "competitionTitle": "Driver Telematics Analysis",
@@ -768,9 +768,9 @@
             {
                 "label": "2nd place winner",
                 "url": "http://blog.kaggle.com/2015/04/20/axa-winners-interview-learning-telematic-fingerprints-from-gps-data/"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 4120,
         "competitionTitle": "Click-Through Rate Prediction",
@@ -794,9 +794,9 @@
             {
                 "label": "1st place solution",
                 "url": "https://github.com/guestwalk/kaggle-avazu"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 3973,
         "competitionTitle": "Helping Santa's Helpers",
@@ -816,7 +816,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$20,000"
-        },
+    },
     {
         "competitionId": 3984,
         "competitionTitle": "Tradeshift Text Classification",
@@ -840,9 +840,9 @@
             {
                 "label": "1st place solution",
                 "url": "https://github.com/daxiongshu/kaggle-tradeshift-winning-solution"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 3887,
         "competitionTitle": "Higgs Boson Machine Learning Challenge",
@@ -866,9 +866,9 @@
             {
                 "label": "2nd place solution",
                 "url": "https://github.com/TimSalimans/HiggsML"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 3951,
         "competitionTitle": "Liberty Mutual Group - Fire Peril Loss Cost",
@@ -888,7 +888,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$25,000"
-        },
+    },
     {
         "competitionId": 3929,
         "competitionTitle": "The Hunt for Prohibited Content",
@@ -908,7 +908,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$25,000"
-        },
+    },
     {
         "competitionId": 3897,
         "competitionTitle": "Acquire Valued Shoppers Challenge",
@@ -928,7 +928,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$30,000"
-        },
+    },
     {
         "competitionId": 3778,
         "competitionTitle": "Risky Business",
@@ -948,7 +948,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$100,000"
-        },
+    },
     {
         "competitionId": 3788,
         "competitionTitle": "Allstate Purchase Prediction Challenge",
@@ -968,7 +968,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$50,000"
-        },
+    },
     {
         "competitionId": 3706,
         "competitionTitle": "March Machine Learning Mania",
@@ -988,7 +988,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$15,000"
-        },
+    },
     {
         "competitionId": 3867,
         "competitionTitle": "The Random Number Grand Challenge",
@@ -1008,7 +1008,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$1,000"
-        },
+    },
     {
         "competitionId": 3757,
         "competitionTitle": "Flu Forecasting",
@@ -1028,7 +1028,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$125,000"
-        },
+    },
     {
         "competitionId": 3670,
         "competitionTitle": "Packing Santa's Sleigh",
@@ -1048,7 +1048,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$10,000"
-        },
+    },
     {
         "competitionId": 3532,
         "competitionTitle": "Personalized Web Search Challenge",
@@ -1068,7 +1068,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$9,000"
-        },
+    },
     {
         "competitionId": 3618,
         "competitionTitle": "As the World Churns",
@@ -1088,7 +1088,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$70,000"
-        },
+    },
     {
         "competitionId": 3599,
         "competitionTitle": "See Click Predict Fix",
@@ -1112,9 +1112,9 @@
             {
                 "label": "1st place solution",
                 "url": "https://github.com/BlindApe/SeeClickPredictFix"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 3504,
         "competitionTitle": "Personalize Expedia Hotel Searches - ICDM 2013",
@@ -1134,7 +1134,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$25,000"
-        },
+    },
     {
         "competitionId": 3526,
         "competitionTitle": "StumbleUpon Evergreen Classification Challenge",
@@ -1158,9 +1158,9 @@
             {
                 "label": "4th place solution",
                 "url": "https://github.com/saffsd/kaggle-stumbleupon2013"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 2969,
         "competitionTitle": "Belkin Energy Disaggregation Competition",
@@ -1180,7 +1180,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$25,000"
-        },
+    },
     {
         "competitionId": 3403,
         "competitionTitle": "See Click Predict Fix - Hackathon",
@@ -1200,7 +1200,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$1,000"
-        },
+    },
     {
         "competitionId": 3525,
         "competitionTitle": "MasterCard - Data Cleansing Competition",
@@ -1220,7 +1220,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$100,000"
-        },
+    },
     {
         "competitionId": 3338,
         "competitionTitle": "Amazon.com - Employee Access Challenge",
@@ -1244,9 +1244,9 @@
             {
                 "label": "1st place solution",
                 "url": "https://github.com/pyduan/amazonaccess"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 3445,
         "competitionTitle": "KDD Cup 2013 - Author-Paper Identification Challenge (Track 1)",
@@ -1266,7 +1266,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$7,500"
-        },
+    },
     {
         "competitionId": 3446,
         "competitionTitle": "KDD Cup 2013 - Author Disambiguation Challenge (Track 2)",
@@ -1286,7 +1286,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$7,500"
-        },
+    },
     {
         "competitionId": 3493,
         "competitionTitle": "dunnhumby & hack/reduce Product Launch Challenge",
@@ -1306,7 +1306,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$5,000"
-        },
+    },
     {
         "competitionId": 3316,
         "competitionTitle": "Blue Book for Bulldozers",
@@ -1326,7 +1326,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$10,000"
-        },
+    },
     {
         "competitionId": 3469,
         "competitionTitle": "Influencers in Social Networks",
@@ -1346,7 +1346,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$2,350"
-        },
+    },
     {
         "competitionId": 3353,
         "competitionTitle": "The Marinexplore and Cornell University Whale Detection Challenge",
@@ -1366,7 +1366,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$10,000"
-        },
+    },
     {
         "competitionId": 2496,
         "competitionTitle": "Heritage Health Prize",
@@ -1386,7 +1386,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$500,000"
-        },
+    },
     {
         "competitionId": 3342,
         "competitionTitle": "Job Salary Prediction",
@@ -1406,7 +1406,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$6,000"
-        },
+    },
     {
         "competitionId": 3288,
         "competitionTitle": "Event Recommendation Engine Challenge",
@@ -1426,7 +1426,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$5,000"
-        },
+    },
     {
         "competitionId": 3294,
         "competitionTitle": "Traveling Santa Problem",
@@ -1446,7 +1446,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$3,000"
-        },
+    },
     {
         "competitionId": 3108,
         "competitionTitle": "U.S. Census Return Rate Challenge",
@@ -1466,7 +1466,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$25,000"
-        },
+    },
     {
         "competitionId": 3043,
         "competitionTitle": "Predict Closed Questions on Stack Overflow",
@@ -1490,9 +1490,9 @@
             {
                 "label": "10th place solution",
                 "url": "https://github.com/saffsd/kaggle-stackoverflow2012"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 2975,
         "competitionTitle": "Merck Molecular Activity Challenge",
@@ -1512,7 +1512,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$40,000"
-        },
+    },
     {
         "competitionId": 2863,
         "competitionTitle": "Raising Money to Fund an Organizational Mission",
@@ -1532,7 +1532,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$10,000"
-        },
+    },
     {
         "competitionId": 2963,
         "competitionTitle": "EMI Music Data Science Hackathon - July 21st - 24 hours",
@@ -1552,7 +1552,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$10,000"
-        },
+    },
     {
         "competitionId": 2840,
         "competitionTitle": "Online Product Sales",
@@ -1572,7 +1572,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$22,500"
-        },
+    },
     {
         "competitionId": 2780,
         "competitionTitle": "Predicting a Biological Response",
@@ -1596,9 +1596,9 @@
             {
                 "label": "17th place solution",
                 "url": "https://github.com/emanuele/kaggle_pbr"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 2748,
         "competitionTitle": "KDD Cup 2012, Track 1",
@@ -1618,7 +1618,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$8,000"
-        },
+    },
     {
         "competitionId": 2749,
         "competitionTitle": "KDD Cup 2012, Track 2",
@@ -1638,7 +1638,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$8,000"
-        },
+    },
     {
         "competitionId": 2667,
         "competitionTitle": "The Hewlett Foundation: Automated Essay Scoring",
@@ -1658,7 +1658,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$100,000"
-        },
+    },
     {
         "competitionId": 2732,
         "competitionTitle": "Benchmark Bond Trade Price Challenge",
@@ -1678,7 +1678,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$17,500"
-        },
+    },
     {
         "competitionId": 2889,
         "competitionTitle": "EMC Data Science Global Hackathon (Air Quality Prediction)",
@@ -1698,7 +1698,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$7,030"
-        },
+    },
     {
         "competitionId": 2602,
         "competitionTitle": "CHALEARN Gesture Challenge",
@@ -1718,7 +1718,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$10,000"
-        },
+    },
     {
         "competitionId": 2606,
         "competitionTitle": "What Do You Know?",
@@ -1738,7 +1738,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$5,000"
-        },
+    },
     {
         "competitionId": 3321,
         "competitionTitle": "Getting Started",
@@ -1758,7 +1758,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$10,000"
-        },
+    },
     {
         "competitionId": 2589,
         "competitionTitle": "Algorithmic Trading Challenge",
@@ -1778,7 +1778,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$10,000"
-        },
+    },
     {
         "competitionId": 2564,
         "competitionTitle": "Don't Get Kicked!",
@@ -1798,7 +1798,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$10,000"
-        },
+    },
     {
         "competitionId": 2551,
         "competitionTitle": "Give Me Some Credit",
@@ -1832,7 +1832,7 @@
                 "url": "http://blog.kaggle.com/2011/12/20/credit-where-credits-due-joe-malicki-on-placing-third-in-give-me-some-credit-2/"
             }
         ]
-        },
+    },
     {
         "competitionId": 2609,
         "competitionTitle": "Photo Quality Prediction",
@@ -1862,7 +1862,7 @@
                 "url": "http://blog.kaggle.com/2011/11/27/smile-alexander-dyakonov-on-placing-third-in-the-photo-quality-prediction-competition/"
             }
         ]
-        },
+    },
     {
         "competitionId": 2549,
         "competitionTitle": "Semi-Supervised Feature Learning",
@@ -1882,7 +1882,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$500"
-        },
+    },
     {
         "competitionId": 2509,
         "competitionTitle": "Allstate Claim Prediction Challenge",
@@ -1906,9 +1906,9 @@
             {
                 "label": "2nd place winner",
                 "url": "http://blog.kaggle.com/2017/02/27/allstate-claims-severity-competition-2nd-place-winners-interview-alexey-noskov/"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 2518,
         "competitionTitle": "dunnhumby's Shopper Challenge",
@@ -1946,7 +1946,7 @@
                 "url": "http://blog.kaggle.com/2011/10/19/deceitful-beast-william-cukierski/"
             }
         ]
-        },
+    },
     {
         "competitionId": 2499,
         "competitionTitle": "Wikipedia's Participation Challenge",
@@ -1980,7 +1980,7 @@
                 "url": "http://blog.kaggle.com/2011/11/01/small-steps-gareth-campbell/"
             }
         ]
-        },
+    },
     {
         "competitionId": 2487,
         "competitionTitle": "Mapping Dark Matter",
@@ -2014,7 +2014,7 @@
                 "url": "http://blog.kaggle.com/2011/10/04/from-soundtracks-and-signatures/"
             }
         ]
-        },
+    },
     {
         "competitionId": 2489,
         "competitionTitle": "Don't Overfit!",
@@ -2034,7 +2034,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$500"
-        },
+    },
     {
         "competitionId": 2479,
         "competitionTitle": "Deloitte/FIDE Chess Rating Challenge",
@@ -2060,7 +2060,7 @@
                 "url": "http://blog.kaggle.com/2011/05/29/the-thrill-of-the-chase-tim-salisman-on-how-he-took-home-deloittefide-chess-comp/"
             }
         ]
-        },
+    },
     {
         "competitionId": 2488,
         "competitionTitle": "ICDAR 2011 - Arabic Writer Identification",
@@ -2086,7 +2086,7 @@
                 "url": "http://blog.kaggle.com/2011/05/04/andrew-newell-and-lewis-griffin-on-winning-the-icdar-2011-competition/"
             }
         ]
-        },
+    },
     {
         "competitionId": 2478,
         "competitionTitle": "Stay Alert! The Ford Challenge",
@@ -2120,7 +2120,7 @@
                 "url": "http://blog.kaggle.com/2011/03/16/junpei-komiyama-on-finishing-4th-in-the-ford-competition/"
             }
         ]
-        },
+    },
     {
         "competitionId": 2445,
         "competitionTitle": "Predict Grant Applications",
@@ -2150,7 +2150,7 @@
                 "url": "http://blog.kaggle.com/2011/02/21/quan-sun-on-finishing-in-second-place-in-predict-grant-applications/"
             }
         ]
-        },
+    },
     {
         "competitionId": 2467,
         "competitionTitle": "RTA Freeway Travel Time Prediction",
@@ -2176,7 +2176,7 @@
                 "url": "http://blog.kaggle.com/2011/03/25/jose-p-gonzalez-brenes-and-matias-cortes-on-winning-the-rta-challenge/"
             }
         ]
-        },
+    },
     {
         "competitionId": 2454,
         "competitionTitle": "R Package Recommendation Engine",
@@ -2210,7 +2210,7 @@
                 "url": "http://blog.kaggle.com/2011/02/11/how-i-did-it-ming-hen-tsai-on-finishing-third-in-the-r-competition/"
             }
         ]
-        },
+    },
     {
         "competitionId": 2464,
         "competitionTitle": "IJCNN Social Network Challenge ",
@@ -2244,7 +2244,7 @@
                 "url": "http://blog.kaggle.com/2011/01/19/how-i-did-it-finishing-second-from-bo-yangs-perspective/"
             }
         ]
-        },
+    },
     {
         "competitionId": 2452,
         "competitionTitle": "Tourism Forecasting Part Two",
@@ -2274,7 +2274,7 @@
                 "url": "http://blog.kaggle.com/2011/03/22/phil-brierley-on-winning-tourism-forecasting-part-two/"
             }
         ]
-        },
+    },
     {
         "competitionId": 2447,
         "competitionTitle": "Chess ratings - Elo versus the Rest of the World",
@@ -2320,7 +2320,7 @@
                 "url": "http://blog.kaggle.com/2010/11/23/how-we-did-it-david-slate-and-peter-frey-on-9th-place-in-elo-comp/"
             }
         ]
-        },
+    },
     {
         "competitionId": 2439,
         "competitionTitle": "INFORMS Data Mining Contest 2010",
@@ -2346,7 +2346,7 @@
                 "url": "http://blog.kaggle.com/2010/10/11/how-i-did-it-the-top-three-from-the-2010-informs-data-mining-contest/"
             }
         ]
-        },
+    },
     {
         "competitionId": 2448,
         "competitionTitle": "Tourism Forecasting Part One",
@@ -2372,7 +2372,7 @@
                 "url": "http://blog.kaggle.com/2010/09/27/how-i-did-it-lee-baker-on-winning-tourism-forecasting-part-one/"
             }
         ]
-        },
+    },
     {
         "competitionId": 2435,
         "competitionTitle": "Predict HIV Progression",
@@ -2398,7 +2398,7 @@
                 "url": "http://blog.kaggle.com/2010/08/09/how-i-won-the-hiv-progression-prediction-data-mining-competition/"
             }
         ]
-        },
+    },
     {
         "competitionId": 2438,
         "competitionTitle": "World Cup 2010 - Take on the Quants",
@@ -2418,7 +2418,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$100"
-        },
+    },
     {
         "competitionId": 2442,
         "competitionTitle": "World Cup 2010 - Confidence Challenge",
@@ -2438,7 +2438,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$100"
-        },
+    },
     {
         "competitionId": 2408,
         "competitionTitle": "Forecast Eurovision Voting ",
@@ -2464,7 +2464,7 @@
                 "url": "http://blog.kaggle.com/2010/06/09/computer-scientist-jure-zbontars-method-for-winning-the-eurovision-challenge/"
             }
         ]
-        },
+    },
     {
         "competitionId": 5558,
         "competitionTitle": "Santander Product Recommendation",
@@ -2490,29 +2490,29 @@
             {
                 "label": "All Solutions",
                 "url": "https://www.kaggle.com/c/santander-product-recommendation/forums/t/26831/all-solutions"
-      }
-    ],
+            }
+        ],
         "repositories": [
             {
                 "label": "2nd place solution",
                 "url": "https://github.com/ttvand/Santander-Product-Recommendation/"
-      },
+            },
             {
                 "label": "3rd place solution",
                 "url": "https://www.kaggle.com/c/santander-product-recommendation/discussion/26899"
-      }
-    ],
+            }
+        ],
         "interviews": [
             {
                 "label": "2nd place winner",
                 "url": "http://blog.kaggle.com/2017/01/12/santander-product-recommendation-competition-2nd-place-winners-solution-write-up-tom-van-de-wiele/"
-      },
+            },
             {
                 "label": "3rd place winner",
                 "url": "http://blog.kaggle.com/2017/02/22/santander-product-recommendation-competition-3rd-place-winners-interview-ryuji-sakata/"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 5357,
         "competitionTitle": "Bosch Production Line Performance",
@@ -2538,27 +2538,27 @@
             {
                 "label": "#1 place solution",
                 "url": "https://www.kaggle.com/c/bosch-production-line-performance/forums/t/25434/1st-place-solution"
-      },
+            },
             {
                 "label": "#3 place solution",
                 "url": "https://www.kaggle.com/c/bosch-production-line-performance/forums/t/25359/3-place-solution"
-      },
+            },
             {
                 "label": "General post",
                 "url": "https://www.kaggle.com/c/bosch-production-line-performance/forums/t/25348/solution-sharing"
-      }
-    ],
+            }
+        ],
         "interviews": [
             {
                 "label": "Travel grant winner",
                 "url": "http://blog.kaggle.com/2016/12/30/bosch-production-line-performance-competition-symposium-for-advanced-manufacturing-grant-winners-ankita-nishant-abhinav-bohdan/"
-      },
+            },
             {
                 "label": "3rd place winner",
                 "url": "http://blog.kaggle.com/2016/12/15/bosch-production-line-performance-competition-winners-interview-3rd-place-team-data-property-avengers-darragh-marios-mathias-stanislav/"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 5261,
         "competitionTitle": "Predicting Red Hat Business Value",
@@ -2584,19 +2584,19 @@
             {
                 "label": "#2 solution",
                 "url": "https://www.kaggle.com/c/predicting-red-hat-business-value/forums/t/23824/2-solution"
-      },
+            },
             {
                 "label": "#3 solution",
                 "url": "https://www.kaggle.com/c/predicting-red-hat-business-value/forums/t/23803/3-solution"
-      }
-    ],
+            }
+        ],
         "interviews": [
             {
                 "label": "1st place winner",
                 "url": "http://blog.kaggle.com/2016/11/03/red-hat-business-value-competition-1st-place-winners-interview-darius-barusauskas/"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 5340,
         "competitionTitle": "TalkingData Mobile User Demographics",
@@ -2622,19 +2622,19 @@
             {
                 "label": "Some of the 3rd place solution",
                 "url": "https://www.kaggle.com/c/talkingdata-mobile-user-demographics/forums/t/23465/some-of-the-3rd-place-solution-history-danijel-matias"
-      },
+            },
             {
                 "label": "5th place solution",
                 "url": "https://www.kaggle.com/c/talkingdata-mobile-user-demographics/forums/t/23445/5th-place-solution-kazanova-faron-and-some-thoughts"
-      }
-    ],
+            }
+        ],
         "interviews": [
             {
                 "label": "3rd place winner",
                 "url": "http://blog.kaggle.com/2016/10/19/talkingdata-mobile-user-demographics-competition-winners-interview-3rd-place-team-utc1-3-danijel-matias/"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 5260,
         "competitionTitle": "Grupo Bimbo Inventory Demand",
@@ -2660,19 +2660,19 @@
             {
                 "label": "#1 Place Solution",
                 "url": "https://www.kaggle.com/c/grupo-bimbo-inventory-demand/forums/t/23863/1-place-solution-of-the-slippery-appraisals-team"
-      },
+            },
             {
                 "label": "#3 Place Solution",
                 "url": "https://www.kaggle.com/c/grupo-bimbo-inventory-demand/forums/t/23633/a-quick-summary-of-team-mystic-3rd-place-solution"
-      }
-    ],
+            }
+        ],
         "interviews": [
             {
                 "label": "2nd place winner",
                 "url": "http://blog.kaggle.com/2016/09/27/grupo-bimbo-inventory-demand-winners-interviewclustifier-alex-andrey/"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 5144,
         "competitionTitle": "Ultrasound Nerve Segmentation",
@@ -2698,9 +2698,9 @@
             {
                 "label": "Host asked not to share",
                 "url": "https://www.kaggle.com/c/ultrasound-nerve-segmentation/forums/t/22905/when-the-competition-is-done-i-would-appreciate-for-people-willing-to-share?forumMessageId=131674#post131674"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 5048,
         "competitionTitle": "State Farm Distracted Driver Detection",
@@ -2726,19 +2726,19 @@
             {
                 "label": "#1 Solution",
                 "url": "https://www.kaggle.com/c/state-farm-distracted-driver-detection/forums/t/22906/a-brief-summary"
-      },
+            },
             {
                 "label": "#3 Solution",
                 "url": "https://www.kaggle.com/c/state-farm-distracted-driver-detection/forums/t/22631/3-br-power-solution"
-      }
-    ],
+            }
+        ],
         "repositories": [
             {
                 "label": "10th place solution",
                 "url": "https://github.com/toshi-k/kaggle-distracted-driver-detection"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 5174,
         "competitionTitle": "Avito Duplicate Ads Detection",
@@ -2764,33 +2764,33 @@
             {
                 "label": "#2 Solution",
                 "url": "https://www.kaggle.com/c/avito-duplicate-ads-detection/discussion/22205"
-      },
+            },
             {
                 "label": "Solution sharing",
                 "url": "https://www.kaggle.com/c/avito-duplicate-ads-detection/discussion/22190"
-      }
-    ],
+            }
+        ],
         "repositories": [
             {
                 "label": "2nd place solution",
                 "url": "https://github.com/mxbi/ftim"
-      }
-    ],
+            }
+        ],
         "interviews": [
             {
                 "label": "1st place winner",
                 "url": "http://blog.kaggle.com/2016/08/24/avito-duplicate-ads-detection-winners-interview-1st-place-team-devil-team-stanislav-dmitrii/"
-      },
+            },
             {
                 "label": "2nd place winner",
                 "url": "http://blog.kaggle.com/2016/08/31/avito-duplicate-ads-detection-winners-interview-2nd-place-team-the-quants-mikel-peter-marios-sonny/"
-      },
+            },
             {
                 "label": "3rd place winner",
                 "url": "http://blog.kaggle.com/2016/07/27/avito-duplicate-ads-detection-winners-interview-3rd-place-mario-gerard-kele-praveen-gilberto/"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 5229,
         "competitionTitle": "Draper Satellite Image Chronology",
@@ -2816,23 +2816,23 @@
             {
                 "label": "1st place",
                 "url": "https://www.kaggle.com/c/draper-satellite-image-chronology/discussion/21936"
-      },
+            },
             {
                 "label": "Solution sharing",
                 "url": "https://www.kaggle.com/c/draper-satellite-image-chronology/discussion/21822"
-      }
-    ],
+            }
+        ],
         "interviews": [
             {
                 "label": "Pure ML Solution 1",
                 "url": "http://blog.kaggle.com/2016/09/15/draper-satellite-image-chronology-machine-learning-solution-vicens-gaitan/"
-      },
+            },
             {
                 "label": "Pure ML Solution 2",
                 "url": "http://blog.kaggle.com/2016/09/08/draper-satellite-image-chronology-damien-soukhavong/"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 5056,
         "competitionTitle": "Expedia Hotel Recommendations",
@@ -2858,9 +2858,9 @@
             {
                 "label": "1st place",
                 "url": "https://www.kaggle.com/c/expedia-hotel-recommendations/discussion/21607"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 4986,
         "competitionTitle": "Santander Customer Satisfaction",
@@ -2880,7 +2880,7 @@
         "isInClass": false,
         "userHasEntered": false,
         "rewardDisplay": "$60,000"
-        },
+    },
     {
         "competitionId": 4853,
         "competitionTitle": "Home Depot Product Search Relevance",
@@ -2904,17 +2904,17 @@
             {
                 "label": "1st place winner",
                 "url": "http://blog.kaggle.com/2016/05/18/home-depot-product-search-relevance-winners-interview-1st-place-alex-andreas-nurlan/"
-      },
+            },
             {
                 "label": "2nd place winner",
                 "url": "http://blog.kaggle.com/2016/06/15/home-depot-product-search-relevance-winners-interview-2nd-place-thomas-sean-qingchen-nima/"
-      },
+            },
             {
                 "label": "3rd place winner",
                 "url": "http://blog.kaggle.com/2016/06/01/home-depot-product-search-relevance-winners-interview-3rd-place-team-turing-test-igor-kostia-chenglong/"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 4852,
         "competitionTitle": "BNP Paribas Cardif Claims Management",
@@ -2938,9 +2938,9 @@
             {
                 "label": "1st place winner",
                 "url": "http://blog.kaggle.com/2016/05/13/bnp-paribas-cardif-claims-management-winners-interview-1st-place-team-dexters-lab-darius-davut-song/"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 4862,
         "competitionTitle": "March Machine Learning Mania 2016",
@@ -2964,9 +2964,9 @@
             {
                 "label": "1st place winner",
                 "url": "http://blog.kaggle.com/2016/05/10/march-machine-learning-mania-2016-winners-interview-1st-place-miguel-alomar/"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 4729,
         "competitionTitle": "Second Annual Data Science Bowl",
@@ -2990,10 +2990,10 @@
             {
                 "label": "2nd place winner",
                 "url": "http://blog.kaggle.com/2016/04/13/diagnosing-heart-diseases-with-deep-neural-networks-2nd-place-ira-korshunova/"
-      }
-    ]
+            }
+        ]
 
-        },
+    },
     {
         "competitionId": 5497,
         "competitionTitle": "Outbrain Click Prediction",
@@ -3019,33 +3019,33 @@
             {
                 "label": "2nd place solution",
                 "url": "https://www.kaggle.com/c/outbrain-click-prediction/forums/t/27977/2nd-place-solution-team-brain-afk"
-      },
+            },
             {
                 "label": "3rd place solution",
                 "url": "https://www.kaggle.com/c/outbrain-click-prediction/forums/t/27923/3rd-place-solution"
-      },
+            },
             {
                 "label": "4th place solution",
                 "url": "https://www.kaggle.com/c/outbrain-click-prediction/forums/t/27926/4th-place-solution"
-      }
-    ],
+            }
+        ],
         "repositories": [
             {
                 "label": "2nd place solution",
                 "url": "https://github.com/alno/kaggle-outbrain-click-prediction"
-      },
+            },
             {
                 "label": "3rd place solution",
                 "url": "https://github.com/daxiongshu/light-ffm"
-      }
-    ],
+            }
+        ],
         "interviews": [
             {
                 "label": "2nd place winner",
                 "url": "http://blog.kaggle.com/2017/03/17/outbrain-click-prediction-competition-winners-interview-2nd-place-team-brain-afk-darragh-marios-mathias-alexey/"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 5916,
         "competitionTitle": "Dstl Satellite Imagery Feature Detection",
@@ -3071,12 +3071,12 @@
             {
                 "label": "5th place solution",
                 "url": "https://github.com/lopuhin/kaggle-dstl"
-      },
+            },
             {
                 "label": "9th place solution",
                 "url": "https://github.com/toshi-k/kaggle-satellite-imagery-feature-detection"
-      }
-    ],
+            }
+        ],
         "interviews": [
             {
                 "label": "1st place winner",
@@ -3091,7 +3091,7 @@
                 "url": "https://deepsense.io/deep-learning-for-satellite-imagery-via-image-segmentation/"
             }
         ]
-        },
+    },
     {
         "competitionId": 5874,
         "competitionTitle": "Two Sigma Financial Modeling Challenge",
@@ -3117,19 +3117,19 @@
             {
                 "label": "Public LB #15, Private LB #8",
                 "url": "https://www.kaggle.com/c/two-sigma-financial-modeling/discussion/29793"
-      },
+            },
 
             {
                 "label": "#34 on Public LB and #10 on Private LB",
                 "url": "https://www.kaggle.com/phegde/two-sigma-financial-modeling/team-pradeep-arthur-private-lb-10-solution/comments"
-      },
+            },
 
             {
                 "label": "#4 Public, #13 Private Solution",
                 "url": "https://www.kaggle.com/c/two-sigma-financial-modeling/discussion/29518"
-      }
-    ]
-        },
+            }
+        ]
+    },
     {
         "competitionId": 5390,
         "competitionTitle": "Melbourne University AES/MathWorks/NIH Seizure Prediction",
@@ -3155,45 +3155,45 @@
             {
                 "label": "Public LB #15, Private LB #3 (and other solutions)",
                 "url": "https://www.kaggle.com/c/melbourne-university-seizure-prediction/discussion/26039"
-      },
+            },
             {
                 "label": "Public LB #27, Private LB #4",
                 "url": "https://www.kaggle.com/c/melbourne-university-seizure-prediction/discussion/26098"
-      },
+            },
 
             {
                 "label": "Public LB #16, Private LB #5",
                 "url": "https://www.kaggle.com/c/melbourne-university-seizure-prediction/discussion/26117"
-      },
+            },
 
             {
                 "label": "Public LB #22, Private LB #8",
                 "url": "https://www.kaggle.com/c/melbourne-university-seizure-prediction/discussion/26268"
-      }
-    ],
+            }
+        ],
         "repositories": [
             {
                 "label": "4th place solution",
                 "url": "https://github.com/GainaTang/Melbourne-University-AES-MathWorks-NIH-Seizure-Prediction-4th-solution-"
-      },
+            },
             {
                 "label": "5th place solution",
                 "url": "https://github.com/oleg-panichev/Melbourne-University-Seizure-Prediction-2016"
-      },
+            },
             {
                 "label": "8th place solution",
                 "url": "https://github.com/nahlik-michal/kaggle-melbourne-seizure-prediction"
-      }
-    ],
+            }
+        ],
         "interviews": [
             {
                 "label": "1st place winner",
                 "url": "http://blog.kaggle.com/2017/02/06/seizure-prediction-competition-first-place-winners-interview-team-not-so-random-anymore-andriy-alexandre-feng-gilberto/"
-      },
+            },
             {
                 "label": "3rd place winner",
                 "url": "http://blog.kaggle.com/2017/01/10/seizure-prediction-competition-3rd-place-winners-interview-gareth-jones/"
-      }
-    ]
-        }
+            }
         ]
+    }
+]
