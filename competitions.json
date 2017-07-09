@@ -3195,5 +3195,163 @@
                 "url": "http://blog.kaggle.com/2017/01/10/seizure-prediction-competition-3rd-place-winners-interview-gareth-jones/"
             }
         ]
+    },
+    {
+        "competitionId": 6116,
+        "competitionTitle": "NOAA Fisheries Steller Sea Lion Population Count",
+        "competitionDescription": "How many sea lions do you see?",
+        "competitionUrl": "/c/noaa-fisheries-steller-sea-lion-population-count",
+        "thumbnailImageUrl": "https://kaggle2.blob.core.windows.net/competitions/kaggle/6116/logos/thumb76_76.png",
+        "deadline": "2017-06-27T23:59:00Z",
+        "totalTeams": 393,
+        "totalKernels": 0,
+        "rewardQuantity": 25000,
+        "rewardTypeName": "USD",
+        "organizationName": "NOAA",
+        "organizationUrl": "noaa",
+        "hostSegment": "featured",
+        "isLimited": false,
+        "isPrivate": false,
+        "isInClass": false,
+        "userHasEntered": false,
+        "rewardDisplay": "$25,000",
+        "evaluation": "RMSE",
+        "types": ["Image processing", "Classification", "Counting"],
+        "solutions": [
+            {
+                "label": "All solutions",
+                "url": "https://www.kaggle.com/c/noaa-fisheries-steller-sea-lion-population-count/discussion/35454"
+            }
+        ]
+    },
+    {
+        "competitionId": 6243,
+        "competitionTitle": "Intel & MobileODT Cervical Cancer Screening",
+        "competitionDescription": "Which cancer treatment will be most effective?",
+        "competitionUrl": "/c/intel-mobileodt-cervical-cancer-screening",
+        "thumbnailImageUrl": "https://kaggle2.blob.core.windows.net/competitions/kaggle/6243/logos/thumb76_76.png",
+        "deadline": "2017-06-21T23:59:00Z",
+        "totalTeams": 848,
+        "totalKernels": 0,
+        "rewardQuantity": 100000,
+        "rewardTypeName": "USD",
+        "organizationName": "Intel",
+        "organizationUrl": "intel",
+        "hostSegment": "featured",
+        "isLimited": false,
+        "isPrivate": false,
+        "isInClass": false,
+        "userHasEntered": false,
+        "rewardDisplay": "$100,000",
+        "evaluation": "Multiclass logarithmic loss (logloss)",
+        "types": ["Image processing", "Classification"],
+        "solutions": [
+            {
+                "label": "6th place solution",
+                "url": "https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening/discussion/35089"
+            },
+            {
+                "label": "9th place solution",
+                "url": "https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening/discussion/35104"
+            }
+        ]
+    },
+    {
+        "competitionId": 6277,
+        "competitionTitle": "Quora Question Pairs",
+        "competitionDescription": "Can you identify question pairs that have the same intent?",
+        "competitionUrl": "/c/quora-question-pairs",
+        "thumbnailImageUrl": "https://kaggle2.blob.core.windows.net/competitions/kaggle/6277/logos/thumb76_76.png",
+        "deadline": "2017-06-06T23:59:00Z",
+        "totalTeams": 3307,
+        "totalKernels": 0,
+        "rewardQuantity": 25000,
+        "rewardTypeName": "USD",
+        "organizationName": "Quora",
+        "organizationUrl": "quora",
+        "hostSegment": "featured",
+        "isLimited": false,
+        "isPrivate": false,
+        "isInClass": false,
+        "userHasEntered": false,
+        "rewardDisplay": "$25,000",
+        "evaluation": "Logarithmic loss (logloss)",
+        "types": ["Duplicate detection", "Natural Language Processing (NLP)"],
+        "solutions": [
+            {
+                "label": "All solutions",
+                "url": "https://www.kaggle.com/c/quora-question-pairs/discussion/34325"
+            }
+        ]
+    },
+    {
+        "competitionId": 6049,
+        "competitionTitle": "Google Cloud & YouTube-8M Video Understanding Challenge",
+        "competitionDescription": "Can you produce the best video tag predictions?",
+        "competitionUrl": "/c/youtube8m",
+        "thumbnailImageUrl": "https://kaggle2.blob.core.windows.net/competitions/kaggle/6049/logos/thumb76_76.png",
+        "deadline": "2017-06-02T23:59:00Z",
+        "totalTeams": 650,
+        "totalKernels": 0,
+        "rewardQuantity": 100000,
+        "rewardTypeName": "USD",
+        "organizationName": "Google Cloud",
+        "organizationUrl": "google-cloud",
+        "hostSegment": "featured",
+        "isLimited": false,
+        "isPrivate": false,
+        "isInClass": false,
+        "userHasEntered": false,
+        "rewardDisplay": "$100,000",
+        "evaluation": "Global Average Precision (GAP)",
+        "types": ["Multiclass Classification"],
+        "solutions": [
+            {
+                "label": "1st place solution",
+                "url": "https://www.kaggle.com/c/youtube8m/discussion/35063"
+            },
+            {
+                "label": "5th place solution",
+                "url": "https://www.kaggle.com/c/youtube8m/discussion/34751"
+            }
+        ],
+        "repositories": [
+            {
+                "label": "1st place solution",
+                "url": "https://github.com/antoine77340/Youtube-8M-WILLOW"
+            },
+            {
+                "label": "5th place solution",
+                "url": "https://github.com/mpekalski/Y8M"
+            }
+        ]
+    },
+    {
+        "competitionId": 5568,
+        "competitionTitle": "The Nature Conservancy Fisheries Monitoring",
+        "competitionDescription": "Can you detect and classify species of fish?",
+        "competitionUrl": "/c/the-nature-conservancy-fisheries-monitoring",
+        "thumbnailImageUrl": "https://kaggle2.blob.core.windows.net/competitions/kaggle/5568/logos/thumb76_76.png",
+        "deadline": "2017-04-12T23:59:00Z",
+        "totalTeams": 2293,
+        "totalKernels": 0,
+        "rewardQuantity": 150000,
+        "rewardTypeName": "USD",
+        "organizationName": "The Nature Conservancy",
+        "organizationUrl": "conserveca",
+        "hostSegment": "featured",
+        "isLimited": false,
+        "isPrivate": false,
+        "isInClass": false,
+        "userHasEntered": false,
+        "rewardDisplay": "$150,000",
+        "evaluation": "Multi-class logarithmic loss (logloss)",
+        "types": ["Image processing", "Classification"],
+        "solutions": [
+            {
+                "label": "Solution sharing post",
+                "url": "https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring/discussion/31538"
+            }
+        ]
     }
 ]
