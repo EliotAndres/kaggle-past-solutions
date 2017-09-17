@@ -1,0 +1,2999 @@
+---
+  - 
+    competitionId: 6004
+    competitionTitle: "Data Science Bowl 2017"
+    competitionDescription: "Can you improve lung cancer detection?"
+    competitionUrl: "/c/data-science-bowl-2017"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/6004/logos/front_page.png"
+    deadline: "2017-04-12T23:59:00Z"
+    totalTeams: 1972
+    totalKernels: 0
+    rewardQuantity: 1000000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$1,000,000"
+    types: 
+      - "Image processing"
+      - "Classification"
+    evaluation: "Multi-class logarithmic loss (logloss)"
+    interviews: 
+      - 
+        label: "2nd place winner"
+        url: "http://juliandewit.github.io/kaggle-ndsb2017/"
+      - 
+        label: "9th place winner"
+        url: "https://eliasvansteenkiste.github.io/machine%20learning/lung-cancer-pred/"
+    repositories: 
+      - 
+        label: "2nd place solution"
+        url: "https://github.com/juliandewit/kaggle_ndsb2017"
+  - 
+    competitionId: 4699
+    competitionTitle: "Prudential Life Insurance Assessment"
+    competitionDescription: "Can you make buying life insurance easier?"
+    competitionUrl: "/c/prudential-life-insurance-assessment"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4699/logos/thumb76_76.png"
+    deadline: "2016-02-15T23:59:00Z"
+    totalTeams: 2619
+    totalKernels: 371
+    rewardQuantity: 30000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$30,000"
+    interviews: 
+      - 
+        label: "2nd place winner"
+        url: "http://blog.kaggle.com/2016/03/14/prudential-life-insurance-assessment-winners-interview-2nd-place-bogdan-zhurakovskyi/"
+  - 
+    competitionId: 4571
+    competitionTitle: "The Allen AI Science Challenge"
+    competitionDescription: "Is your model smarter than an 8th grader?"
+    competitionUrl: "/c/the-allen-ai-science-challenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4571/logos/thumb76_76.png"
+    deadline: "2016-02-13T23:59:00Z"
+    totalTeams: 170
+    totalKernels: 0
+    rewardQuantity: 80000
+    rewardTypeName: "USD"
+    organizationName: "Allen Institute for Artificial Intelligence"
+    organizationUrl: "allenai"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$80,000"
+    repositories: 
+      - 
+        label: "8th place solution"
+        url: "https://github.com/5vision/kaggle_allen"
+    interviews: 
+      - 
+        label: "3rd place winner"
+        url: "http://blog.kaggle.com/2016/04/09/the-allen-ai-science-challenge-winners-interview-3rd-place-alejandro-mosquera/"
+  - 
+    competitionId: 4657
+    competitionTitle: "Homesite Quote Conversion"
+    competitionDescription: "Which customers will purchase a quoted insurance plan?"
+    competitionUrl: "/c/homesite-quote-conversion"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4657/logos/thumb76_76.png"
+    deadline: "2016-02-08T23:59:00Z"
+    totalTeams: 1764
+    totalKernels: 258
+    rewardQuantity: 20000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$20,000"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2016/04/08/homesite-quote-conversion-winners-write-up-1st-place-kazanova-faron-clobber/"
+      - 
+        label: "2nd place winner"
+        url: "http://blog.kaggle.com/2016/05/02/homesite-quote-conversion-winners-interview-2nd-place-team-frenchies-nicolas-florian-pierre/"
+      - 
+        label: "3rd place winner"
+        url: "http://blog.kaggle.com/2016/02/29/homesite-quote-conversion-winners-interview-3rd-place-team-new-model-army-cad-quy/"
+  - 
+    competitionId: 4494
+    competitionTitle: "Cervical Cancer Screening"
+    competitionDescription: "Help prevent cervical cancer by identifying at-risk populations"
+    competitionUrl: "/c/cervical-cancer-screening"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4494/logos/thumb76_76.png"
+    deadline: "2016-02-01T23:59:00Z"
+    totalTeams: 40
+    totalKernels: 13
+    rewardQuantity: 100000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: true
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$100,000"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2016/02/26/genentech-cervical-cancer-screening-winners-interview-1st-place-michael-giulio/"
+  - 
+    competitionId: 4504
+    competitionTitle: "The Winton Stock Market Challenge"
+    competitionDescription: "Join a multi-disciplinary team of research scientists"
+    competitionUrl: "/c/the-winton-stock-market-challenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4504/logos/thumb76_76.png"
+    deadline: "2016-01-26T23:59:00Z"
+    totalTeams: 832
+    totalKernels: 0
+    rewardQuantity: 50000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$50,000"
+    interviews: 
+      - 
+        label: "3rd place winner"
+        url: "http://blog.kaggle.com/2016/02/12/winton-stock-market-challenge-winners-interview-3rd-place-mendrika-ramarlina/"
+  - 
+    competitionId: 4704
+    competitionTitle: "Santa's Stolen Sleigh"
+    competitionDescription: "♫ Alarm bells ring, are you listening? Santa's sleigh has gone missing ♫"
+    competitionUrl: "/c/santas-stolen-sleigh"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4704/logos/thumb76_76.png"
+    deadline: "2016-01-08T23:59:00Z"
+    totalTeams: 1127
+    totalKernels: 152
+    rewardQuantity: 20000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$20,000"
+    repositories: 
+      - 
+        label: "2nd place solution"
+        url: "https://github.com/woshialex/SantaStolenSleigh"
+    interviews: 
+      - 
+        label: "2nd place winner"
+        url: "http://blog.kaggle.com/2016/01/28/santas-stolen-sleigh-winners-interview-2nd-place-woshialex-weezy/"
+      - 
+        label: "3rd place winner"
+        url: "http://blog.kaggle.com/2016/03/03/santas-stolen-sleigh-winners-interview-3rd-place-marcin-marek/"
+  - 
+    competitionId: 4521
+    competitionTitle: "Right Whale Recognition"
+    competitionDescription: "Identify endangered right whales in aerial photographs"
+    competitionUrl: "/c/noaa-right-whale-recognition"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4521/logos/thumb76_76.png"
+    deadline: "2016-01-07T23:59:00Z"
+    totalTeams: 364
+    totalKernels: 0
+    rewardQuantity: 10000
+    rewardTypeName: "USD"
+    organizationName: "NOAA Fisheries"
+    organizationUrl: "https://www.nefsc.noaa.gov/psb/"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$10,000"
+    repositories: 
+      - 
+        label: "2nd place solution"
+        url: "https://github.com/felixlaumon/kaggle-right-whale"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2016/01/29/noaa-right-whale-recognition-winners-interview-1st-place-deepsense-io/"
+      - 
+        label: "2nd place winner"
+        url: "http://blog.kaggle.com/2016/02/04/noaa-right-whale-recognition-winners-interview-2nd-place-felix-lau/"
+  - 
+    competitionId: 4594
+    competitionTitle: "Rossmann Store Sales"
+    competitionDescription: "Forecast sales using store, promotion, and competitor data"
+    competitionUrl: "/c/rossmann-store-sales"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4594/logos/thumb76_76.png"
+    deadline: "2015-12-14T23:59:00Z"
+    totalTeams: 3303
+    totalKernels: 466
+    rewardQuantity: 35000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$35,000"
+    repositories: 
+      - 
+        label: "3rd place solution"
+        url: "https://github.com/entron/entity-embedding-rossmann"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2015/12/21/rossmann-store-sales-winners-interview-1st-place-gert/"
+      - 
+        label: "2nd place winner"
+        url: "http://blog.kaggle.com/2016/02/03/rossmann-store-sales-winners-interview-2nd-place-nima-shahbazi/"
+      - 
+        label: "3rd place winner"
+        url: "http://blog.kaggle.com/2016/01/22/rossmann-store-sales-winners-interview-3rd-place-cheng-gui/"
+  - 
+    competitionId: 4523
+    competitionTitle: "Western Australia Rental Prices "
+    competitionDescription: "Predict rental prices for properties across Western Australia"
+    competitionUrl: "/c/deloitte-western-australia-rental-prices"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4523/logos/thumb76_76.png"
+    deadline: "2015-11-30T23:59:00Z"
+    totalTeams: 59
+    totalKernels: 0
+    rewardQuantity: 100000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: true
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$100,000"
+  - 
+    competitionId: 4487
+    competitionTitle: "Springleaf Marketing Response"
+    competitionDescription: "Determine whether to send a direct mail piece to a customer "
+    competitionUrl: "/c/springleaf-marketing-response"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4487/logos/thumb76_76.png"
+    deadline: "2015-10-19T23:59:00Z"
+    totalTeams: 2226
+    totalKernels: 334
+    rewardQuantity: 100000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$100,000"
+  - 
+    competitionId: 4493
+    competitionTitle: "Truly Native? "
+    competitionDescription: "Predict which web pages served by StumbleUpon are sponsored"
+    competitionUrl: "/c/dato-native"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4493/logos/thumb76_76.png"
+    deadline: "2015-10-14T23:59:00Z"
+    totalTeams: 274
+    totalKernels: 0
+    rewardQuantity: 10000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$10,000"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2015/12/03/dato-winners-interview-1st-place-mad-professors/"
+      - 
+        label: "2nd place winner"
+        url: "http://blog.kaggle.com/2015/10/30/dato-winners-interview-2nd-place-mortehu/"
+  - 
+    competitionId: 4488
+    competitionTitle: "Flavours of Physics: Finding τ  →  μμμ"
+    competitionDescription: "Identify a rare decay phenomenon"
+    competitionUrl: "/c/flavours-of-physics"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4488/logos/thumb76_76.png"
+    deadline: "2015-10-12T23:59:00Z"
+    totalTeams: 673
+    totalKernels: 189
+    rewardQuantity: 15000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$15,000"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2015/11/30/flavour-of-physics-technical-write-up-1st-place-go-polar-bears/"
+      - 
+        label: "3rd place winner"
+        url: "http://blog.kaggle.com/2015/11/23/flavour-of-physics-winners-interview-3rd-place-josef-slavicek/"
+  - 
+    competitionId: 4481
+    competitionTitle: "Coupon Purchase Prediction"
+    competitionDescription: "Predict which coupons a customer will buy"
+    competitionUrl: "/c/coupon-purchase-prediction"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4481/logos/thumb76_76.png"
+    deadline: "2015-09-30T23:59:00Z"
+    totalTeams: 1076
+    totalKernels: 171
+    rewardQuantity: 50000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$50,000"
+    interviews: 
+      - 
+        label: "2nd place winner"
+        url: "http://blog.kaggle.com/2015/10/21/recruit-coupon-purchase-winners-interview-2nd-place-halla-yang/"
+  - 
+    competitionId: 4467
+    competitionTitle: "Caterpillar Tube Pricing"
+    competitionDescription: "Model quoted prices for industrial tube assemblies"
+    competitionUrl: "/c/caterpillar-tube-pricing"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4467/logos/thumb76_76.png"
+    deadline: "2015-08-31T23:59:00Z"
+    totalTeams: 1323
+    totalKernels: 194
+    rewardQuantity: 30000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$30,000"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2015/09/22/caterpillar-winners-interview-1st-place-gilberto-josef-leustagos-mario/"
+      - 
+        label: "3rd place winner"
+        url: "http://blog.kaggle.com/2015/10/20/caterpillar-winners-interview-3rd-place-team-shift-workers/"
+  - 
+    competitionId: 4471
+    competitionTitle: "Liberty Mutual Group: Property Inspection Prediction"
+    competitionDescription: "Quantify property hazards before time of inspection"
+    competitionUrl: "/c/liberty-mutual-group-property-inspection-prediction"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4471/logos/thumb76_76.png"
+    deadline: "2015-08-28T23:59:00Z"
+    totalTeams: 2236
+    totalKernels: 412
+    rewardQuantity: 25000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$25,000"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2015/09/28/liberty-mutual-property-inspection-winners-interview-qingchen-wang/"
+  - 
+    competitionId: 4453
+    competitionTitle: "ICDM 2015: Drawbridge Cross-Device Connections"
+    competitionDescription: "Identify individual users across their digital devices"
+    competitionUrl: "/c/icdm-2015-drawbridge-cross-device-connections"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4453/logos/thumb76_76.png"
+    deadline: "2015-08-24T23:59:00Z"
+    totalTeams: 340
+    totalKernels: 47
+    rewardQuantity: 10000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$10,000"
+  - 
+    competitionId: 4438
+    competitionTitle: "Avito Context Ad Clicks"
+    competitionDescription: "Predict if context ads will earn a user's click "
+    competitionUrl: "/c/avito-context-ad-clicks"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4438/logos/thumb76_76.png"
+    deadline: "2015-07-28T23:59:00Z"
+    totalTeams: 414
+    totalKernels: 88
+    rewardQuantity: 20000
+    rewardTypeName: "USD"
+    organizationName: "Avito"
+    organizationUrl: "avitoru"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$20,000"
+    repositories: 
+      - 
+        label: "2nd place solution"
+        url: "https://github.com/Gzsiceberg/kaggle-avito"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2015/08/26/avito-winners-interview-1st-place-owen-zhang/"
+      - 
+        label: "2nd place winner"
+        url: "http://blog.kaggle.com/2015/08/21/avito-winners-interview-2nd-place-changsheng-gu-aka-gzs_iceberg/"
+  - 
+    competitionId: 4104
+    competitionTitle: "Diabetic Retinopathy Detection"
+    competitionDescription: "Identify signs of diabetic retinopathy in eye images"
+    competitionUrl: "/c/diabetic-retinopathy-detection"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4104/logos/thumb76_76.png"
+    deadline: "2015-07-27T23:59:00Z"
+    totalTeams: 661
+    totalKernels: 9
+    rewardQuantity: 100000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$100,000"
+    repositories: 
+      - 
+        label: "1st place solution"
+        url: "https://github.com/btgraham/SparseConvNet/tree/kaggle_Diabetic_Retinopathy_competition"
+      - 
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/diabetic-retinopathy-detection/discussion/15845"
+      - 
+        label: "5th place solution"
+        url: "https://github.com/JeffreyDF/kaggle_diabetic_retinopathy"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2015/09/09/diabetic-retinopathy-winners-interview-1st-place-ben-graham/"
+      - 
+        label: "4th place winner"
+        url: "http://blog.kaggle.com/2015/08/14/diabetic-retinopathy-winners-interview-4th-place-julian-daniel/"
+  - 
+    competitionId: 4407
+    competitionTitle: "Crowdflower Search Results Relevance"
+    competitionDescription: "Predict the relevance of search results from eCommerce sites"
+    competitionUrl: "/c/crowdflower-search-relevance"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4407/logos/thumb76_76.png"
+    deadline: "2015-07-06T23:59:00Z"
+    totalTeams: 1326
+    totalKernels: 225
+    rewardQuantity: 20000
+    rewardTypeName: "USD"
+    organizationName: "Crowdflower"
+    organizationUrl: "crowdflower"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$20,000"
+    repositories: 
+      - 
+        label: "1rd place solution"
+        url: "https://github.com/ChenglongChen/Kaggle_CrowdFlower"
+      - 
+        label: "2nd place solution"
+        url: "https://github.com/geffy/kaggle-crowdflower"
+      - 
+        label: "3rd place solution"
+        url: "https://github.com/skrypka/crowdflower-search"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2015/07/27/crowdflower-winners-interview-1st-place-chenglong-chen/"
+      - 
+        label: "3rd place winner"
+        url: "http://blog.kaggle.com/2015/07/22/crowdflower-winners-interview-3rd-place-team-quartet/"
+  - 
+    competitionId: 4366
+    competitionTitle: "West Nile Virus Prediction"
+    competitionDescription: "Predict West Nile virus in mosquitos across the city of Chicago"
+    competitionUrl: "/c/predict-west-nile-virus"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4366/logos/thumb76_76.png"
+    deadline: "2015-06-17T23:59:00Z"
+    totalTeams: 1306
+    totalKernels: 314
+    rewardQuantity: 40000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$40,000"
+    repositories: 
+      - 
+        label: "2nd place solution"
+        url: "https://github.com/diefimov/west_nile_virus_2015"
+  - 
+    competitionId: 4280
+    competitionTitle: "Otto Group Product Classification Challenge"
+    competitionDescription: "Classify products into the correct category"
+    competitionUrl: "/c/otto-group-product-classification-challenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4280/logos/thumb76_76.png"
+    deadline: "2015-05-18T23:59:00Z"
+    totalTeams: 3514
+    totalKernels: 179
+    rewardQuantity: 10000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$10,000"
+    interviews: 
+      - 
+        label: "2nd place winner"
+        url: "http://blog.kaggle.com/2015/06/09/otto-product-classification-winners-interview-2nd-place-alexander-guschin/"
+  - 
+    competitionId: 4272
+    competitionTitle: "Restaurant Revenue Prediction"
+    competitionDescription: "Predict annual restaurant sales based on objective measurements"
+    competitionUrl: "/c/restaurant-revenue-prediction"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4272/logos/thumb76_76.png"
+    deadline: "2015-05-04T23:59:00Z"
+    totalTeams: 2257
+    totalKernels: 53
+    rewardQuantity: 30000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$30,000"
+  - 
+    competitionId: 4066
+    competitionTitle: "March Machine Learning Mania 2015"
+    competitionDescription: "Predict the 2015 NCAA Basketball Tournament"
+    competitionUrl: "/c/march-machine-learning-mania-2015"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4066/logos/thumb76_76.png"
+    deadline: "2015-04-07T23:59:00Z"
+    totalTeams: 341
+    totalKernels: 0
+    rewardQuantity: 15000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$15,000"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2015/04/17/predicting-march-madness-1st-place-finisher-zach-bradshaw/"
+  - 
+    competitionId: 3978
+    competitionTitle: "National Data Science Bowl"
+    competitionDescription: "Predict ocean health, one plankton at a time"
+    competitionUrl: "/c/datasciencebowl"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3978/logos/thumb76_76.png"
+    deadline: "2015-03-16T23:59:00Z"
+    totalTeams: 1049
+    totalKernels: 0
+    rewardQuantity: 175000
+    rewardTypeName: "USD"
+    organizationName: "Booz Allen Hamilton"
+    organizationUrl: "BoozAllenHamilton"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$175,000"
+    repositories: 
+      - 
+        label: "1st place solution"
+        url: "https://github.com/benanne/kaggle-ndsb"
+  - 
+    competitionId: 4031
+    competitionTitle: "Driver Telematics Analysis"
+    competitionDescription: "Use telematic data to identify a driver signature"
+    competitionUrl: "/c/axa-driver-telematics-analysis"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4031/logos/thumb76_76.png"
+    deadline: "2015-03-16T23:59:00Z"
+    totalTeams: 1528
+    totalKernels: 0
+    rewardQuantity: 30000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$30,000"
+    interviews: 
+      - 
+        label: "2nd place winner"
+        url: "http://blog.kaggle.com/2015/04/20/axa-winners-interview-learning-telematic-fingerprints-from-gps-data/"
+  - 
+    competitionId: 4120
+    competitionTitle: "Click-Through Rate Prediction"
+    competitionDescription: "Predict whether a mobile ad will be clicked"
+    competitionUrl: "/c/avazu-ctr-prediction"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4120/logos/thumb76_76.png"
+    deadline: "2015-02-09T23:59:00Z"
+    totalTeams: 1604
+    totalKernels: 0
+    rewardQuantity: 15000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$15,000"
+    repositories: 
+      - 
+        label: "1st place solution"
+        url: "https://github.com/guestwalk/kaggle-avazu"
+  - 
+    competitionId: 3973
+    competitionTitle: "Helping Santa's Helpers"
+    competitionDescription: "Jingle bells, Santa tells ... "
+    competitionUrl: "/c/helping-santas-helpers"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3973/logos/thumb76_76.png"
+    deadline: "2015-01-07T23:59:00Z"
+    totalTeams: 439
+    totalKernels: 0
+    rewardQuantity: 20000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$20,000"
+  - 
+    competitionId: 3984
+    competitionTitle: "Tradeshift Text Classification"
+    competitionDescription: "Classify text blocks in documents"
+    competitionUrl: "/c/tradeshift-text-classification"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3984/logos/thumb76_76.png"
+    deadline: "2014-11-10T23:59:00Z"
+    totalTeams: 375
+    totalKernels: 0
+    rewardQuantity: 5000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$5,000"
+    repositories: 
+      - 
+        label: "1st place solution"
+        url: "https://github.com/daxiongshu/kaggle-tradeshift-winning-solution"
+  - 
+    competitionId: 3887
+    competitionTitle: "Higgs Boson Machine Learning Challenge"
+    competitionDescription: "Use the ATLAS experiment to identify the Higgs boson"
+    competitionUrl: "/c/higgs-boson"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3887/logos/thumb76_76.png"
+    deadline: "2014-09-15T23:59:00Z"
+    totalTeams: 1785
+    totalKernels: 0
+    rewardQuantity: 13000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$13,000"
+    repositories: 
+      - 
+        label: "2nd place solution"
+        url: "https://github.com/TimSalimans/HiggsML"
+  - 
+    competitionId: 3951
+    competitionTitle: "Liberty Mutual Group - Fire Peril Loss Cost"
+    competitionDescription: "Predict expected fire losses for insurance policies"
+    competitionUrl: "/c/liberty-mutual-fire-peril"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3951/logos/thumb76_76.png"
+    deadline: "2014-09-02T23:59:00Z"
+    totalTeams: 634
+    totalKernels: 0
+    rewardQuantity: 25000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$25,000"
+  - 
+    competitionId: 3929
+    competitionTitle: "The Hunt for Prohibited Content"
+    competitionDescription: "Predict which ads contain illicit content"
+    competitionUrl: "/c/avito-prohibited-content"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3929/logos/thumb76_76.png"
+    deadline: "2014-08-31T23:59:00Z"
+    totalTeams: 285
+    totalKernels: 0
+    rewardQuantity: 25000
+    rewardTypeName: "USD"
+    organizationName: "Avito"
+    organizationUrl: "avitoru"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$25,000"
+  - 
+    competitionId: 3897
+    competitionTitle: "Acquire Valued Shoppers Challenge"
+    competitionDescription: "Predict which shoppers will become repeat buyers"
+    competitionUrl: "/c/acquire-valued-shoppers-challenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3897/logos/thumb76_76.png"
+    deadline: "2014-07-14T23:59:00Z"
+    totalTeams: 952
+    totalKernels: 0
+    rewardQuantity: 30000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$30,000"
+  - 
+    competitionId: 3778
+    competitionTitle: "Risky Business"
+    competitionDescription: "Predict the risk of customer credit default"
+    competitionUrl: "/c/risky-business"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3778/logos/thumb76_76.png"
+    deadline: "2014-06-04T23:59:00Z"
+    totalTeams: 44
+    totalKernels: 0
+    rewardQuantity: 100000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "masters"
+    isLimited: true
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$100,000"
+  - 
+    competitionId: 3788
+    competitionTitle: "Allstate Purchase Prediction Challenge"
+    competitionDescription: "Predict a purchased policy based on transaction history"
+    competitionUrl: "/c/allstate-purchase-prediction-challenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3788/logos/thumb76_76.png"
+    deadline: "2014-05-19T23:59:00Z"
+    totalTeams: 1568
+    totalKernels: 0
+    rewardQuantity: 50000
+    rewardTypeName: "USD"
+    organizationName: "Allstate Insurance"
+    organizationUrl: "allstate"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$50,000"
+  - 
+    competitionId: 3706
+    competitionTitle: "March Machine Learning Mania"
+    competitionDescription: "Tip off college basketball by predicting the 2014 NCAA Tournament"
+    competitionUrl: "/c/march-machine-learning-mania"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3706/logos/thumb76_76.png"
+    deadline: "2014-04-08T23:59:00Z"
+    totalTeams: 248
+    totalKernels: 0
+    rewardQuantity: 15000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$15,000"
+  - 
+    competitionId: 3867
+    competitionTitle: "The Random Number Grand Challenge"
+    competitionDescription: "Decode a sequence of pseudorandom numbers"
+    competitionUrl: "/c/random-number-grand-challenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3867/logos/thumb76_76.png"
+    deadline: "2014-04-01T23:59:00Z"
+    totalTeams: 205
+    totalKernels: 0
+    rewardQuantity: 1000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$1,000"
+  - 
+    competitionId: 3757
+    competitionTitle: "Flu Forecasting"
+    competitionDescription: "Predict when, where and how strong the flu will be"
+    competitionUrl: "/c/genentech-flu-forecasting"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3757/logos/thumb76_76.png"
+    deadline: "2014-03-03T23:59:00Z"
+    totalTeams: 50
+    totalKernels: 0
+    rewardQuantity: 125000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "masters"
+    isLimited: true
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$125,000"
+  - 
+    competitionId: 3670
+    competitionTitle: "Packing Santa's Sleigh"
+    competitionDescription: "He's making a list, checking it twice; to fill up his sleigh, he needs your advice"
+    competitionUrl: "/c/packing-santas-sleigh"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3670/logos/thumb76_76.png"
+    deadline: "2014-01-26T23:59:00Z"
+    totalTeams: 362
+    totalKernels: 0
+    rewardQuantity: 10000
+    rewardTypeName: "USD"
+    organizationName: "The MathWorks"
+    organizationUrl: "mathworks"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$10,000"
+  - 
+    competitionId: 3532
+    competitionTitle: "Personalized Web Search Challenge"
+    competitionDescription: "Re-rank web documents using personal preferences"
+    competitionUrl: "/c/yandex-personalized-web-search-challenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3532/logos/thumb76_76.png"
+    deadline: "2014-01-10T23:59:00Z"
+    totalTeams: 194
+    totalKernels: 0
+    rewardQuantity: 9000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$9,000"
+  - 
+    competitionId: 3618
+    competitionTitle: "As the World Churns"
+    competitionDescription: "Predict which customers will leave an insurance company in the next 12 months."
+    competitionUrl: "/c/deloitte-churn-prediction"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3618/logos/thumb76_76.png"
+    deadline: "2013-12-21T23:59:00Z"
+    totalTeams: 37
+    totalKernels: 0
+    rewardQuantity: 70000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "masters"
+    isLimited: true
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$70,000"
+  - 
+    competitionId: 3599
+    competitionTitle: "See Click Predict Fix"
+    competitionDescription: "Predict which 311 issues are most important to citizens"
+    competitionUrl: "/c/see-click-predict-fix"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3599/logos/thumb76_76.png"
+    deadline: "2013-11-27T23:59:00Z"
+    totalTeams: 532
+    totalKernels: 0
+    rewardQuantity: 4000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$4,000"
+    repositories: 
+      - 
+        label: "1st place solution"
+        url: "https://github.com/BlindApe/SeeClickPredictFix"
+  - 
+    competitionId: 3504
+    competitionTitle: "Personalize Expedia Hotel Searches - ICDM 2013"
+    competitionDescription: "Learning to rank hotels to maximize purchases"
+    competitionUrl: "/c/expedia-personalized-sort"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3504/logos/thumb76_76.png"
+    deadline: "2013-11-04T23:59:00Z"
+    totalTeams: 337
+    totalKernels: 0
+    rewardQuantity: 25000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$25,000"
+  - 
+    competitionId: 3526
+    competitionTitle: "StumbleUpon Evergreen Classification Challenge"
+    competitionDescription: "Build a classifier to categorize webpages as evergreen or non-evergreen"
+    competitionUrl: "/c/stumbleupon"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3526/logos/thumb76_76.png"
+    deadline: "2013-10-31T23:59:59Z"
+    totalTeams: 625
+    totalKernels: 0
+    rewardQuantity: 5000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$5,000"
+    repositories: 
+      - 
+        label: "4th place solution"
+        url: "https://github.com/saffsd/kaggle-stumbleupon2013"
+  - 
+    competitionId: 2969
+    competitionTitle: "Belkin Energy Disaggregation Competition"
+    competitionDescription: "Disaggregate household energy consumption into individual appliances"
+    competitionUrl: "/c/belkin-energy-disaggregation-competition"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2969/logos/thumb76_76.png"
+    deadline: "2013-10-30T23:59:00Z"
+    totalTeams: 165
+    totalKernels: 0
+    rewardQuantity: 25000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$25,000"
+  - 
+    competitionId: 3403
+    competitionTitle: "See Click Predict Fix - Hackathon"
+    competitionDescription: "Predict which 311 issues are most important to citizens"
+    competitionUrl: "/c/the-seeclickfix-311-challenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3403/logos/thumb76_76.png"
+    deadline: "2013-09-29T01:00:00Z"
+    totalTeams: 80
+    totalKernels: 0
+    rewardQuantity: 1000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$1,000"
+  - 
+    competitionId: 3525
+    competitionTitle: "MasterCard - Data Cleansing Competition"
+    competitionDescription: "Improve the quality of information within transaction data"
+    competitionUrl: "/c/mastercard-data-cleansing-competition-finals"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3525/logos/thumb76_76.png"
+    deadline: "2013-08-07T23:59:00Z"
+    totalTeams: 6
+    totalKernels: 0
+    rewardQuantity: 100000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "masters"
+    isLimited: true
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$100,000"
+  - 
+    competitionId: 3338
+    competitionTitle: "Amazon.com - Employee Access Challenge"
+    competitionDescription: "Predict an employee's access needs, given his/her job role"
+    competitionUrl: "/c/amazon-employee-access-challenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3338/logos/thumb76_76.png"
+    deadline: "2013-07-31T23:59:00Z"
+    totalTeams: 1687
+    totalKernels: 0
+    rewardQuantity: 5000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$5,000"
+    repositories: 
+      - 
+        label: "1st place solution"
+        url: "https://github.com/pyduan/amazonaccess"
+  - 
+    competitionId: 3445
+    competitionTitle: "KDD Cup 2013 - Author-Paper Identification Challenge (Track 1)"
+    competitionDescription: "Determine whether an author has written a given paper"
+    competitionUrl: "/c/kdd-cup-2013-author-paper-identification-challenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3445/logos/thumb76_76.png"
+    deadline: "2013-06-26T23:59:00Z"
+    totalTeams: 553
+    totalKernels: 0
+    rewardQuantity: 7500
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$7,500"
+  - 
+    competitionId: 3446
+    competitionTitle: "KDD Cup 2013 - Author Disambiguation Challenge (Track 2)"
+    competitionDescription: "Identify which authors correspond to the same person"
+    competitionUrl: "/c/kdd-cup-2013-author-disambiguation"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3446/logos/thumb76_76.png"
+    deadline: "2013-06-12T23:59:00Z"
+    totalTeams: 237
+    totalKernels: 0
+    rewardQuantity: 7500
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$7,500"
+  - 
+    competitionId: 3493
+    competitionTitle: "dunnhumby & hack/reduce Product Launch Challenge"
+    competitionDescription: "The success or failure of a new product launch is often evident within the first few weeks of sales. Can you predict a product's destiny? "
+    competitionUrl: "/c/hack-reduce-dunnhumby-hackathon"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3493/logos/thumb76_76.png"
+    deadline: "2013-05-11T23:00:00Z"
+    totalTeams: 108
+    totalKernels: 0
+    rewardQuantity: 5000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$5,000"
+  - 
+    competitionId: 3316
+    competitionTitle: "Blue Book for Bulldozers"
+    competitionDescription: "Predict the auction sale price for a piece of heavy equipment to create a \"blue book\" for bulldozers."
+    competitionUrl: "/c/bluebook-for-bulldozers"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3316/logos/thumb76_76.png"
+    deadline: "2013-04-17T23:59:00Z"
+    totalTeams: 475
+    totalKernels: 0
+    rewardQuantity: 10000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$10,000"
+  - 
+    competitionId: 3469
+    competitionTitle: "Influencers in Social Networks"
+    competitionDescription: "Predict which people are influential in a social network"
+    competitionUrl: "/c/predict-who-is-more-influential-in-a-social-network"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3469/logos/thumb76_76.png"
+    deadline: "2013-04-14T12:00:00Z"
+    totalTeams: 132
+    totalKernels: 0
+    rewardQuantity: 2350
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$2,350"
+  - 
+    competitionId: 3353
+    competitionTitle: "The Marinexplore and Cornell University Whale Detection Challenge"
+    competitionDescription: "Create an algorithm to detect North Atlantic right whale calls from audio recordings, prevent collisions with shipping traffic"
+    competitionUrl: "/c/whale-detection-challenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3353/logos/thumb76_76.png"
+    deadline: "2013-04-08T00:00:00Z"
+    totalTeams: 245
+    totalKernels: 0
+    rewardQuantity: 10000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$10,000"
+  - 
+    competitionId: 2496
+    competitionTitle: "Heritage Health Prize"
+    competitionDescription: "Identify patients who will be admitted to a hospital within the next year using historical claims data. (Enter by 06:59:59 UTC Oct 4 2012) "
+    competitionUrl: "//www.heritagehealthprize.com/c/hhp"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/hhp/2496/logos/thumb76_76.png"
+    deadline: "2013-04-04T07:00:00Z"
+    totalTeams: 1353
+    totalKernels: 0
+    rewardQuantity: 500000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$500,000"
+  - 
+    competitionId: 3342
+    competitionTitle: "Job Salary Prediction"
+    competitionDescription: "Predict the salary of any UK job ad based on its contents"
+    competitionUrl: "/c/job-salary-prediction"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3342/logos/thumb76_76.png"
+    deadline: "2013-04-03T23:59:00Z"
+    totalTeams: 289
+    totalKernels: 0
+    rewardQuantity: 6000
+    rewardTypeName: "USD"
+    organizationName: "Adzuna"
+    organizationUrl: "adzuna"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$6,000"
+  - 
+    competitionId: 3288
+    competitionTitle: "Event Recommendation Engine Challenge"
+    competitionDescription: "Predict what events our users will be interested in based on user actions, event metadata, and demographic information."
+    competitionUrl: "/c/event-recommendation-engine-challenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3288/logos/thumb76_76.png"
+    deadline: "2013-02-20T23:59:00Z"
+    totalTeams: 223
+    totalKernels: 0
+    rewardQuantity: 5000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$5,000"
+  - 
+    competitionId: 3294
+    competitionTitle: "Traveling Santa Problem"
+    competitionDescription: "Solve ye olde traveling salesman problem to help Santa Claus deliver his presents"
+    competitionUrl: "/c/traveling-santa-problem"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3294/logos/thumb76_76.png"
+    deadline: "2013-01-19T00:00:00Z"
+    totalTeams: 355
+    totalKernels: 0
+    rewardQuantity: 3000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$3,000"
+  - 
+    competitionId: 3108
+    competitionTitle: "U.S. Census Return Rate Challenge"
+    competitionDescription: "Predict census mail return rates."
+    competitionUrl: "/c/us-census-challenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3108/logos/thumb76_76.png"
+    deadline: "2012-11-11T00:00:00Z"
+    totalTeams: 243
+    totalKernels: 0
+    rewardQuantity: 25000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$25,000"
+  - 
+    competitionId: 3043
+    competitionTitle: "Predict Closed Questions on Stack Overflow"
+    competitionDescription: "Predict which new questions asked on Stack Overflow will be closed"
+    competitionUrl: "/c/predict-closed-questions-on-stack-overflow"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/3043/logos/thumb76_76.png"
+    deadline: "2012-11-03T23:59:00Z"
+    totalTeams: 161
+    totalKernels: 0
+    rewardQuantity: 20000
+    rewardTypeName: "USD"
+    organizationName: "Stack Overflow"
+    organizationUrl: "stackoverflow"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$20,000"
+    repositories: 
+      - 
+        label: "10th place solution"
+        url: "https://github.com/saffsd/kaggle-stackoverflow2012"
+  - 
+    competitionId: 2975
+    competitionTitle: "Merck Molecular Activity Challenge"
+    competitionDescription: "Help develop safe and effective medicines by predicting molecular activity."
+    competitionUrl: "/c/MerckActivity"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2975/logos/thumb76_76.png"
+    deadline: "2012-10-16T23:59:00Z"
+    totalTeams: 236
+    totalKernels: 0
+    rewardQuantity: 40000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$40,000"
+  - 
+    competitionId: 2863
+    competitionTitle: "Raising Money to Fund an Organizational Mission"
+    competitionDescription: "Help worthy organizations more efficiently target and recruit loyal donors to support their causes. "
+    competitionUrl: "/c/Raising-Money-to-Fund-an-Organizational-Mission"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2863/logos/thumb76_76.png"
+    deadline: "2012-09-18T23:59:00Z"
+    totalTeams: 27
+    totalKernels: 0
+    rewardQuantity: 10000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$10,000"
+  - 
+    competitionId: 2963
+    competitionTitle: "EMI Music Data Science Hackathon - July 21st - 24 hours"
+    competitionDescription: "Can you predict if a listener will love a new song?"
+    competitionUrl: "/c/MusicHackathon"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2963/logos/thumb76_76.png"
+    deadline: "2012-07-22T12:00:00Z"
+    totalTeams: 133
+    totalKernels: 0
+    rewardQuantity: 10000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$10,000"
+  - 
+    competitionId: 2840
+    competitionTitle: "Online Product Sales"
+    competitionDescription: "Predict the online sales of a consumer product based on a data set of product features."
+    competitionUrl: "/c/online-sales"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2840/logos/thumb76_76.png"
+    deadline: "2012-07-03T23:59:00Z"
+    totalTeams: 363
+    totalKernels: 0
+    rewardQuantity: 22500
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$22,500"
+  - 
+    competitionId: 2780
+    competitionTitle: "Predicting a Biological Response"
+    competitionDescription: "Predict a biological response of molecules from their chemical properties"
+    competitionUrl: "/c/bioresponse"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2780/logos/thumb76_76.png"
+    deadline: "2012-06-15T23:59:59Z"
+    totalTeams: 699
+    totalKernels: 0
+    rewardQuantity: 20000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$20,000"
+    repositories: 
+      - 
+        label: "17th place solution"
+        url: "https://github.com/emanuele/kaggle_pbr"
+  - 
+    competitionId: 2748
+    competitionTitle: "KDD Cup 2012, Track 1"
+    competitionDescription: "Predict which users (or information sources) one user might follow in Tencent Weibo."
+    competitionUrl: "//www.kddcup2012.org/c/kddcup2012-track1"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kddcup2012/2748/logos/thumb76_76.png"
+    deadline: "2012-06-01T23:59:59Z"
+    totalTeams: 657
+    totalKernels: 0
+    rewardQuantity: 8000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$8,000"
+  - 
+    competitionId: 2749
+    competitionTitle: "KDD Cup 2012, Track 2"
+    competitionDescription: "Predict the click-through rate of ads given the query and user information."
+    competitionUrl: "//www.kddcup2012.org/c/kddcup2012-track2"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kddcup2012/2749/logos/thumb76_76.png"
+    deadline: "2012-06-01T23:59:59Z"
+    totalTeams: 163
+    totalKernels: 0
+    rewardQuantity: 8000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$8,000"
+  - 
+    competitionId: 2667
+    competitionTitle: "The Hewlett Foundation: Automated Essay Scoring"
+    competitionDescription: "Develop an automated scoring algorithm for student-written essays."
+    competitionUrl: "/c/asap-aes"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2667/logos/thumb76_76.png"
+    deadline: "2012-04-30T23:59:59Z"
+    totalTeams: 154
+    totalKernels: 0
+    rewardQuantity: 100000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$100,000"
+  - 
+    competitionId: 2732
+    competitionTitle: "Benchmark Bond Trade Price Challenge"
+    competitionDescription: "Develop models to accurately predict the trade price of a bond."
+    competitionUrl: "/c/benchmark-bond-trade-price-challenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2732/logos/thumb76_76.png"
+    deadline: "2012-04-30T23:59:59Z"
+    totalTeams: 264
+    totalKernels: 0
+    rewardQuantity: 17500
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$17,500"
+  - 
+    competitionId: 2889
+    competitionTitle: "EMC Data Science Global Hackathon (Air Quality Prediction)"
+    competitionDescription: "Build a local early warning systems to accurately predict dangerous levels of air pollutants on an hourly basis."
+    competitionUrl: "/c/dsg-hackathon"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2889/logos/thumb76_76.png"
+    deadline: "2012-04-29T12:00:00Z"
+    totalTeams: 110
+    totalKernels: 0
+    rewardQuantity: 7030
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$7,030"
+  - 
+    competitionId: 2602
+    competitionTitle: "CHALEARN Gesture Challenge"
+    competitionDescription: "Develop a Gesture Recognizer for Microsoft Kinect (TM)"
+    competitionUrl: "/c/GestureChallenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2602/logos/thumb76_76.png"
+    deadline: "2012-04-10T23:59:59Z"
+    totalTeams: 47
+    totalKernels: 0
+    rewardQuantity: 10000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$10,000"
+  - 
+    competitionId: 2606
+    competitionTitle: "What Do You Know?"
+    competitionDescription: "Improve the state of the art in student evaluation by predicting whether a student will answer the next test question correctly."
+    competitionUrl: "/c/WhatDoYouKnow"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2606/logos/thumb76_76.png"
+    deadline: "2012-02-29T23:59:59Z"
+    totalTeams: 239
+    totalKernels: 0
+    rewardQuantity: 5000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$5,000"
+  - 
+    competitionId: 3321
+    competitionTitle: "Getting Started"
+    competitionDescription: "Create a forum for New Users"
+    competitionUrl: "/c/getting-started"
+    thumbnailImageUrl: "/content/v/a67fc03b06bf/shared/img/competition-noimage.png"
+    deadline: "2012-02-26T00:00:00Z"
+    totalTeams: 0
+    totalKernels: 0
+    rewardQuantity: 10000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$10,000"
+  - 
+    competitionId: 2589
+    competitionTitle: "Algorithmic Trading Challenge"
+    competitionDescription: "Develop new models to accurately predict the market response to large trades."
+    competitionUrl: "/c/AlgorithmicTradingChallenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2589/logos/thumb76_76.png"
+    deadline: "2012-01-08T23:59:59Z"
+    totalTeams: 111
+    totalKernels: 0
+    rewardQuantity: 10000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$10,000"
+  - 
+    competitionId: 2564
+    competitionTitle: "Don't Get Kicked!"
+    competitionDescription: "Predict if a car purchased at auction is a lemon"
+    competitionUrl: "/c/DontGetKicked"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2564/logos/thumb76_76.png"
+    deadline: "2012-01-05T23:59:59Z"
+    totalTeams: 570
+    totalKernels: 0
+    rewardQuantity: 10000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$10,000"
+  - 
+    competitionId: 2551
+    competitionTitle: "Give Me Some Credit"
+    competitionDescription: "Improve on the state of the art in credit scoring by predicting the probability that somebody will experience financial distress in the next two years.  "
+    competitionUrl: "/c/GiveMeSomeCredit"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2551/logos/thumb76_76.png"
+    deadline: "2011-12-15T23:59:59Z"
+    totalTeams: 924
+    totalKernels: 0
+    rewardQuantity: 5000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$5,000"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2012/01/03/the-perfect-storm-meet-the-winners-of-give-me-some-credit/"
+      - 
+        label: "2nd place winner"
+        url: "http://blog.kaggle.com/2011/12/21/score-xavier-conort-on-coming-second-in-give-me-some-credit/"
+      - 
+        label: "3rd place winner"
+        url: "http://blog.kaggle.com/2011/12/20/credit-where-credits-due-joe-malicki-on-placing-third-in-give-me-some-credit-2/"
+  - 
+    competitionId: 2609
+    competitionTitle: "Photo Quality Prediction"
+    competitionDescription: "Given anonymized information on thousands of photo albums, predict whether a human evaluator would mark them as 'good'."
+    competitionUrl: "/c/PhotoQualityPrediction"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2609/logos/thumb76_76.png"
+    deadline: "2011-11-20T23:59:59Z"
+    totalTeams: 200
+    totalKernels: 0
+    rewardQuantity: 5000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$5,000"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2011/11/23/picture-perfect-bo-yang-on-winning-the-photo-quality-prediction-competition/"
+      - 
+        label: "3rd place winner"
+        url: "http://blog.kaggle.com/2011/11/27/smile-alexander-dyakonov-on-placing-third-in-the-photo-quality-prediction-competition/"
+  - 
+    competitionId: 2549
+    competitionTitle: "Semi-Supervised Feature Learning"
+    competitionDescription: "There's been a lot of recent work done in unsupervised feature learning for classification and there are a ton of older methods that also work well. The purpose of this competition is to find out which of these methods work best on relatively large-scale high dimensional learning tasks."
+    competitionUrl: "/c/SemiSupervisedFeatureLearning"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2549/logos/thumb76_76.png"
+    deadline: "2011-10-17T23:59:59Z"
+    totalTeams: 26
+    totalKernels: 0
+    rewardQuantity: 500
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$500"
+  - 
+    competitionId: 2509
+    competitionTitle: "Allstate Claim Prediction Challenge"
+    competitionDescription: "A key part of insurance is charging each customer the appropriate price for the risk they represent."
+    competitionUrl: "/c/ClaimPredictionChallenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2509/logos/thumb76_76.png"
+    deadline: "2011-10-12T23:59:59Z"
+    totalTeams: 102
+    totalKernels: 0
+    rewardQuantity: 10000
+    rewardTypeName: "USD"
+    organizationName: "Allstate Insurance"
+    organizationUrl: "allstate"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$10,000"
+    interviews: 
+      - 
+        label: "2nd place winner"
+        url: "http://blog.kaggle.com/2017/02/27/allstate-claims-severity-competition-2nd-place-winners-interview-alexey-noskov/"
+  - 
+    competitionId: 2518
+    competitionTitle: "dunnhumby's Shopper Challenge"
+    competitionDescription: "Going grocery shopping, we all have to do it, some even enjoy it, but can you predict it? dunnhumby is looking to build a model to better predict when supermarket shoppers will next visit the store and how much they will spend. "
+    competitionUrl: "/c/dunnhumbychallenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2518/logos/thumb76_76.png"
+    deadline: "2011-09-30T23:59:59Z"
+    totalTeams: 277
+    totalKernels: 0
+    rewardQuantity: 10000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$10,000"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2011/10/16/kernel-density-at-the-checkout/"
+      - 
+        label: "2nd place winner"
+        url: "http://blog.kaggle.com/2011/10/20/creatures-of-habit-neil-schneider/"
+      - 
+        label: "3rd place winner"
+        url: "http://blog.kaggle.com/2011/11/17/words-of-wisdom-from-ben-hamner-our-newest-recruit/"
+      - 
+        label: "4th place winner"
+        url: "http://blog.kaggle.com/2011/10/19/deceitful-beast-william-cukierski/"
+  - 
+    competitionId: 2499
+    competitionTitle: "Wikipedia's Participation Challenge"
+    competitionDescription: "This competition challenges data-mining experts to build a predictive model that predicts the number of edits an editor will make five months from the end date of the training dataset. "
+    competitionUrl: "/c/wikichallenge"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2499/logos/thumb76_76.png"
+    deadline: "2011-09-20T23:59:59Z"
+    totalTeams: 90
+    totalKernels: 0
+    rewardQuantity: 10000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$10,000"
+    interviews: 
+      - 
+        label: "2nd place winner"
+        url: "http://blog.kaggle.com/2011/10/06/like-popping-bubble-wrap/"
+      - 
+        label: "3rd place winner"
+        url: "http://blog.kaggle.com/2011/10/26/long-live-wikipedia-dell-zhang/"
+      - 
+        label: "4th place winner"
+        url: "http://blog.kaggle.com/2011/11/01/small-steps-gareth-campbell/"
+  - 
+    competitionId: 2487
+    competitionTitle: "Mapping Dark Matter"
+    competitionDescription: "Measure the small distortion in galaxy images caused by dark matter"
+    competitionUrl: "/c/mdm"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2487/logos/thumb76_76.png"
+    deadline: "2011-08-18T00:00:00Z"
+    totalTeams: 70
+    totalKernels: 0
+    rewardQuantity: 3000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$3,000"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2011/09/13/deepzot-on-dark-matter/"
+      - 
+        label: "2nd place winner"
+        url: "http://blog.kaggle.com/2011/09/02/mapping-matter-with-matlab/"
+      - 
+        label: "3rd place winner"
+        url: "http://blog.kaggle.com/2011/10/04/from-soundtracks-and-signatures/"
+  - 
+    competitionId: 2489
+    competitionTitle: "Don't Overfit!"
+    competitionDescription: "With nearly as many variables as training cases, what are the best techniques to avoid disaster? "
+    competitionUrl: "/c/overfitting"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2489/logos/thumb76_76.png"
+    deadline: "2011-05-15T00:00:00Z"
+    totalTeams: 259
+    totalKernels: 0
+    rewardQuantity: 500
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$500"
+  - 
+    competitionId: 2479
+    competitionTitle: "Deloitte/FIDE Chess Rating Challenge"
+    competitionDescription: "This contest, sponsored by professional services firm Deloitte, will find the most accurate system to predict chess outcomes, and FIDE will also bring a top finisher to Athens to present their system"
+    competitionUrl: "/c/ChessRatings2"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2479/logos/thumb76_76.png"
+    deadline: "2011-05-04T15:00:00Z"
+    totalTeams: 181
+    totalKernels: 0
+    rewardQuantity: 10000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$10,000"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2011/05/29/the-thrill-of-the-chase-tim-salisman-on-how-he-took-home-deloittefide-chess-comp/"
+  - 
+    competitionId: 2488
+    competitionTitle: "ICDAR 2011 - Arabic Writer Identification"
+    competitionDescription: "This competition require participants to develop an algorithm to identify who wrote which documents. The winner will be honored at a special session of the ICDAR 2011 conference. "
+    competitionUrl: "/c/WIC2011"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2488/logos/thumb76_76.png"
+    deadline: "2011-04-10T12:00:00Z"
+    totalTeams: 30
+    totalKernels: 0
+    rewardQuantity: 1000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$1,000"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2011/05/04/andrew-newell-and-lewis-griffin-on-winning-the-icdar-2011-competition/"
+  - 
+    competitionId: 2478
+    competitionTitle: "Stay Alert! The Ford Challenge"
+    competitionDescription: "Driving while not alert can be deadly. The objective is to design a classifier that will detect whether the driver is alert or not alert, employing data that are acquired while driving."
+    competitionUrl: "/c/stayalert"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2478/logos/thumb76_76.png"
+    deadline: "2011-03-09T13:00:00Z"
+    totalTeams: 176
+    totalKernels: 0
+    rewardQuantity: 950
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$950"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2011/03/25/inference-on-winning-the-ford-stay-alert-competition/"
+      - 
+        label: "2nd place winner"
+        url: "http://blog.kaggle.com/2011/04/20/mick-wagner-on-finishing-second-in-the-ford-challenge/"
+      - 
+        label: "4th place winner"
+        url: "http://blog.kaggle.com/2011/03/16/junpei-komiyama-on-finishing-4th-in-the-ford-competition/"
+  - 
+    competitionId: 2445
+    competitionTitle: "Predict Grant Applications"
+    competitionDescription: "This task requires participants to predict the outcome of grant applications for the University of Melbourne. "
+    competitionUrl: "/c/unimelb"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2445/logos/thumb76_76.png"
+    deadline: "2011-02-20T22:00:00Z"
+    totalTeams: 204
+    totalKernels: 0
+    rewardQuantity: 5000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$5,000"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2011/02/21/jeremy-howard-on-winning-the-predict-grant-applications-competition/"
+      - 
+        label: "2nd place winner"
+        url: "http://blog.kaggle.com/2011/02/21/quan-sun-on-finishing-in-second-place-in-predict-grant-applications/"
+  - 
+    competitionId: 2467
+    competitionTitle: "RTA Freeway Travel Time Prediction"
+    competitionDescription: "This competition requires participants to predict travel time on Sydney's M4 freeway from past travel time observations."
+    competitionUrl: "/c/RTA"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2467/logos/thumb76_76.png"
+    deadline: "2011-02-13T22:00:00Z"
+    totalTeams: 356
+    totalKernels: 0
+    rewardQuantity: 10000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$10,000"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2011/03/25/jose-p-gonzalez-brenes-and-matias-cortes-on-winning-the-rta-challenge/"
+  - 
+    competitionId: 2454
+    competitionTitle: "R Package Recommendation Engine"
+    competitionDescription: "The aim of this competition is to develop a recommendation engine for R libraries (or packages). (R is opensource statistics software.)"
+    competitionUrl: "/c/R"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2454/logos/thumb76_76.png"
+    deadline: "2011-02-08T09:00:00Z"
+    totalTeams: 57
+    totalKernels: 0
+    rewardQuantity: 150
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$150"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2011/02/15/dave-slate-on-winning-the-r-challenge/"
+      - 
+        label: "2nd place winner"
+        url: "http://blog.kaggle.com/2011/02/21/max-lin-on-finishing-second-in-the-r-challenge/"
+      - 
+        label: "3rd place winner"
+        url: "http://blog.kaggle.com/2011/02/11/how-i-did-it-ming-hen-tsai-on-finishing-third-in-the-r-competition/"
+  - 
+    competitionId: 2464
+    competitionTitle: "IJCNN Social Network Challenge "
+    competitionDescription: "This competition requires participants to predict edges in an online social network. The winner will receive free registration and the opportunity to present their solution at IJCNN 2011."
+    competitionUrl: "/c/socialNetwork"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2464/logos/thumb76_76.png"
+    deadline: "2011-01-11T22:00:00Z"
+    totalTeams: 117
+    totalKernels: 0
+    rewardQuantity: 950
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$950"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2011/01/15/how-we-did-it-the-winners-of-the-ijcnn-social-network-challenge/"
+      - 
+        label: "2nd place winner [1]"
+        url: "http://blog.kaggle.com/2011/01/14/how-i-did-it-will-cukierski-on-finishing-second-in-the-ijcnn-social-network-challenge/"
+      - 
+        label: "2nd place winner [2]"
+        url: "http://blog.kaggle.com/2011/01/19/how-i-did-it-finishing-second-from-bo-yangs-perspective/"
+  - 
+    competitionId: 2452
+    competitionTitle: "Tourism Forecasting Part Two"
+    competitionDescription: "Part two requires competitors to predict 793 tourism-related time series. The winner of this competition will be invited to contribute a discussion paper to the International Journal of Forecasting."
+    competitionUrl: "/c/tourism2"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2452/logos/thumb76_76.png"
+    deadline: "2010-11-21T23:00:00Z"
+    totalTeams: 42
+    totalKernels: 0
+    rewardQuantity: 500
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$500"
+    interviews: 
+      - 
+        label: "1st place winner [overall]"
+        url: "http://blog.kaggle.com/2010/11/24/how-we-did-it-jeremy-howard-on-winning-the-tourism-forecasting-competitoin/"
+      - 
+        label: "1st place winner [part two only]"
+        url: "http://blog.kaggle.com/2011/03/22/phil-brierley-on-winning-tourism-forecasting-part-two/"
+  - 
+    competitionId: 2447
+    competitionTitle: "Chess ratings - Elo versus the Rest of the World"
+    competitionDescription: "This competition aims to discover whether other approaches can predict the outcome of chess games more accurately than the workhorse Elo rating system."
+    competitionUrl: "/c/chess"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2447/logos/thumb76_76.png"
+    deadline: "2010-11-17T20:00:00Z"
+    totalTeams: 252
+    totalKernels: 0
+    rewardQuantity: 617
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$617"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2011/02/08/how-i-did-it-yannis-sismanis-on-winning-the-elo-chess-ratings-competition/"
+      - 
+        label: "2nd place winner"
+        url: "http://blog.kaggle.com/2010/11/19/how-i-did-it-jeremy-howard-on-finishing-second/"
+      - 
+        label: "3rd place winner"
+        url: "http://blog.kaggle.com/2010/11/20/how-i-did-it-martin-reichert-on-3rd-place-in-elo-comp/"
+      - 
+        label: "4th place winner"
+        url: "http://blog.kaggle.com/2010/11/30/how-i-did-it-diogo-ferreira-on-4th-place-in-elo-chess-ratings-competition/"
+      - 
+        label: "5th place winner"
+        url: "http://blog.kaggle.com/2010/11/27/philipp-weidmann-5th-in-the-elo-comp-on-chess-ratings-and-numerical-optimization/"
+      - 
+        label: "9th place winner"
+        url: "http://blog.kaggle.com/2010/11/23/how-we-did-it-david-slate-and-peter-frey-on-9th-place-in-elo-comp/"
+  - 
+    competitionId: 2439
+    competitionTitle: "INFORMS Data Mining Contest 2010"
+    competitionDescription: "The goal of this contest is to predict short term movements in stock prices. The winners of this contest will be honoured of the INFORMS Annual Meeting in Austin-Texas (November 7-10)."
+    competitionUrl: "/c/informs2010"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2439/logos/thumb76_76.png"
+    deadline: "2010-10-10T02:28:00Z"
+    totalTeams: 145
+    totalKernels: 0
+    rewardQuantity: 0
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$0"
+    interviews: 
+      - 
+        label: "Top 3 places"
+        url: "http://blog.kaggle.com/2010/10/11/how-i-did-it-the-top-three-from-the-2010-informs-data-mining-contest/"
+  - 
+    competitionId: 2448
+    competitionTitle: "Tourism Forecasting Part One"
+    competitionDescription: "Part one requires competitors to predict 518 tourism-related time series. The winner of this competition will be invited to contribute a discussion paper to the International Journal of Forecasting."
+    competitionUrl: "/c/tourism1"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2448/logos/thumb76_76.png"
+    deadline: "2010-09-19T23:00:00Z"
+    totalTeams: 55
+    totalKernels: 0
+    rewardQuantity: 500
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$500"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2010/09/27/how-i-did-it-lee-baker-on-winning-tourism-forecasting-part-one/"
+  - 
+    competitionId: 2435
+    competitionTitle: "Predict HIV Progression"
+    competitionDescription: "This contest requires competitors to predict the likelihood that an HIV patient's infection will become less severe, given a small dataset and limited clinical information. "
+    competitionUrl: "/c/hivprogression"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2435/logos/thumb76_76.png"
+    deadline: "2010-08-02T12:32:00Z"
+    totalTeams: 107
+    totalKernels: 0
+    rewardQuantity: 500
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$500"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2010/08/09/how-i-won-the-hiv-progression-prediction-data-mining-competition/"
+  - 
+    competitionId: 2438
+    competitionTitle: "World Cup 2010 - Take on the Quants"
+    competitionDescription: "Quants at Goldman Sachs and JP Morgan have modeled the likely outcomes of the 2010 World Cup. Can you do better?"
+    competitionUrl: "/c/worldcup2010"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2438/logos/thumb76_76.png"
+    deadline: "2010-06-11T13:29:00Z"
+    totalTeams: 0
+    totalKernels: 0
+    rewardQuantity: 100
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$100"
+  - 
+    competitionId: 2442
+    competitionTitle: "World Cup 2010 - Confidence Challenge"
+    competitionDescription: "The Confidence Challenge requires competitors to assign a level of confidence to their World Cup predictions. "
+    competitionUrl: "/c/worldcupconf"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2442/logos/thumb76_76.png"
+    deadline: "2010-06-11T13:28:00Z"
+    totalTeams: 63
+    totalKernels: 0
+    rewardQuantity: 100
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$100"
+  - 
+    competitionId: 2408
+    competitionTitle: "Forecast Eurovision Voting "
+    competitionDescription: "This competition requires contestants to forecast the voting for this year's Eurovision Song Contest in Norway on May 25th, 27th and 29th. "
+    competitionUrl: "/c/Eurovision2010"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/2408/logos/thumb76_76.png"
+    deadline: "2010-05-25T18:00:00Z"
+    totalTeams: 22
+    totalKernels: 0
+    rewardQuantity: 1000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$1,000"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2010/06/09/computer-scientist-jure-zbontars-method-for-winning-the-eurovision-challenge/"
+  - 
+    competitionId: 5558
+    competitionTitle: "Santander Product Recommendation"
+    competitionDescription: "Can you pair products with people?"
+    competitionUrl: "/c/santander-product-recommendation"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/5558/logos/thumb76_76.png"
+    deadline: "2016-12-21T23:59:00Z"
+    totalTeams: 1787
+    totalKernels: 545
+    rewardQuantity: 60000
+    rewardTypeName: "USD"
+    organizationName: "Banco Santander"
+    organizationUrl: "santander"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$60,000"
+    types: 
+      - "Recommendation"
+      - "Ranking"
+    evaluation: "MAP@7"
+    solutions: 
+      - 
+        label: "All Solutions"
+        url: "https://www.kaggle.com/c/santander-product-recommendation/forums/t/26831/all-solutions"
+    repositories: 
+      - 
+        label: "2nd place solution"
+        url: "https://github.com/ttvand/Santander-Product-Recommendation/"
+      - 
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/santander-product-recommendation/discussion/26899"
+    interviews: 
+      - 
+        label: "2nd place winner"
+        url: "http://blog.kaggle.com/2017/01/12/santander-product-recommendation-competition-2nd-place-winners-solution-write-up-tom-van-de-wiele/"
+      - 
+        label: "3rd place winner"
+        url: "http://blog.kaggle.com/2017/02/22/santander-product-recommendation-competition-3rd-place-winners-interview-ryuji-sakata/"
+  - 
+    competitionId: 5357
+    competitionTitle: "Bosch Production Line Performance"
+    competitionDescription: "Reduce manufacturing failures"
+    competitionUrl: "/c/bosch-production-line-performance"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/5357/logos/thumb76_76.png"
+    deadline: "2016-11-11T23:59:00Z"
+    totalTeams: 1373
+    totalKernels: 445
+    rewardQuantity: 30000
+    rewardTypeName: "USD"
+    organizationName: "Bosch"
+    organizationUrl: "bosch"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$30,000"
+    types: 
+      - "Anomaly Detection"
+      - "Classification"
+    evaluation: "Matthews correlation coefficient (MCC)"
+    solutions: 
+      - 
+        label: "#1 place solution"
+        url: "https://www.kaggle.com/c/bosch-production-line-performance/forums/t/25434/1st-place-solution"
+      - 
+        label: "#3 place solution"
+        url: "https://www.kaggle.com/c/bosch-production-line-performance/forums/t/25359/3-place-solution"
+      - 
+        label: "General post"
+        url: "https://www.kaggle.com/c/bosch-production-line-performance/forums/t/25348/solution-sharing"
+    interviews: 
+      - 
+        label: "Travel grant winner"
+        url: "http://blog.kaggle.com/2016/12/30/bosch-production-line-performance-competition-symposium-for-advanced-manufacturing-grant-winners-ankita-nishant-abhinav-bohdan/"
+      - 
+        label: "3rd place winner"
+        url: "http://blog.kaggle.com/2016/12/15/bosch-production-line-performance-competition-winners-interview-3rd-place-team-data-property-avengers-darragh-marios-mathias-stanislav/"
+  - 
+    competitionId: 5261
+    competitionTitle: "Predicting Red Hat Business Value"
+    competitionDescription: "Classify customer potential"
+    competitionUrl: "/c/predicting-red-hat-business-value"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/5261/logos/thumb76_76.png"
+    deadline: "2016-09-19T23:59:00Z"
+    totalTeams: 2271
+    totalKernels: 506
+    rewardQuantity: 50000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$50,000"
+    types: 
+      - "Classification"
+    evaluation: "Area under the ROC curve (AUC)"
+    solutions: 
+      - 
+        label: "#2 solution"
+        url: "https://www.kaggle.com/c/predicting-red-hat-business-value/forums/t/23824/2-solution"
+      - 
+        label: "#3 solution"
+        url: "https://www.kaggle.com/c/predicting-red-hat-business-value/forums/t/23803/3-solution"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2016/11/03/red-hat-business-value-competition-1st-place-winners-interview-darius-barusauskas/"
+  - 
+    competitionId: 5340
+    competitionTitle: "TalkingData Mobile User Demographics"
+    competitionDescription: "Get to know millions of mobile device users"
+    competitionUrl: "/c/talkingdata-mobile-user-demographics"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/5340/logos/thumb76_76.png"
+    deadline: "2016-09-05T23:59:00Z"
+    totalTeams: 1689
+    totalKernels: 603
+    rewardQuantity: 25000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$25,000"
+    types: 
+      - "Classification"
+    evaluation: "Multi-class logarithmic loss (logloss)"
+    solutions: 
+      - 
+        label: "Some of the 3rd place solution"
+        url: "https://www.kaggle.com/c/talkingdata-mobile-user-demographics/forums/t/23465/some-of-the-3rd-place-solution-history-danijel-matias"
+      - 
+        label: "5th place solution"
+        url: "https://www.kaggle.com/c/talkingdata-mobile-user-demographics/forums/t/23445/5th-place-solution-kazanova-faron-and-some-thoughts"
+    interviews: 
+      - 
+        label: "3rd place winner"
+        url: "http://blog.kaggle.com/2016/10/19/talkingdata-mobile-user-demographics-competition-winners-interview-3rd-place-team-utc1-3-danijel-matias/"
+  - 
+    competitionId: 5260
+    competitionTitle: "Grupo Bimbo Inventory Demand"
+    competitionDescription: "Maximize sales and minimize returns of bakery goods"
+    competitionUrl: "/c/grupo-bimbo-inventory-demand"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/5260/logos/thumb76_76.png"
+    deadline: "2016-08-30T23:59:00Z"
+    totalTeams: 1969
+    totalKernels: 554
+    rewardQuantity: 25000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$25,000"
+    types: 
+      - "Forecast"
+    evaluation: "Root Mean Squared Logarithmic Error (RMSLE)"
+    solutions: 
+      - 
+        label: "#1 Place Solution"
+        url: "https://www.kaggle.com/c/grupo-bimbo-inventory-demand/forums/t/23863/1-place-solution-of-the-slippery-appraisals-team"
+      - 
+        label: "#3 Place Solution"
+        url: "https://www.kaggle.com/c/grupo-bimbo-inventory-demand/forums/t/23633/a-quick-summary-of-team-mystic-3rd-place-solution"
+    interviews: 
+      - 
+        label: "2nd place winner"
+        url: "http://blog.kaggle.com/2016/09/27/grupo-bimbo-inventory-demand-winners-interviewclustifier-alex-andrey/"
+  - 
+    competitionId: 5144
+    competitionTitle: "Ultrasound Nerve Segmentation"
+    competitionDescription: "Identify nerve structures in ultrasound images of the neck"
+    competitionUrl: "/c/ultrasound-nerve-segmentation"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/5144/logos/thumb76_76.png"
+    deadline: "2016-08-18T23:59:00Z"
+    totalTeams: 923
+    totalKernels: 198
+    rewardQuantity: 100000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$100,000"
+    types: 
+      - "Image Processing"
+    evaluation: "Dice coefficient"
+    solutions: 
+      - 
+        label: "Host asked not to share"
+        url: "https://www.kaggle.com/c/ultrasound-nerve-segmentation/forums/t/22905/when-the-competition-is-done-i-would-appreciate-for-people-willing-to-share?forumMessageId=131674#post131674"
+  - 
+    competitionId: 5048
+    competitionTitle: "State Farm Distracted Driver Detection"
+    competitionDescription: "Can computer vision spot distracted drivers?"
+    competitionUrl: "/c/state-farm-distracted-driver-detection"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/5048/logos/thumb76_76.png"
+    deadline: "2016-08-01T23:59:00Z"
+    totalTeams: 1440
+    totalKernels: 154
+    rewardQuantity: 65000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$65,000"
+    types: 
+      - "Image Detection"
+      - "Classification"
+    evaluation: "Multi-class logarithmic loss (logloss)"
+    solutions: 
+      - 
+        label: "#1 Solution"
+        url: "https://www.kaggle.com/c/state-farm-distracted-driver-detection/forums/t/22906/a-brief-summary"
+      - 
+        label: "#3 Solution"
+        url: "https://www.kaggle.com/c/state-farm-distracted-driver-detection/forums/t/22631/3-br-power-solution"
+    repositories: 
+      - 
+        label: "10th place solution"
+        url: "https://github.com/toshi-k/kaggle-distracted-driver-detection"
+  - 
+    competitionId: 5174
+    competitionTitle: "Avito Duplicate Ads Detection"
+    competitionDescription: "Can you detect duplicitous duplicate ads?"
+    competitionUrl: "/c/avito-duplicate-ads-detection"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/5174/logos/thumb76_76.png"
+    deadline: "2016-07-11T23:59:00Z"
+    totalTeams: 548
+    totalKernels: 89
+    rewardQuantity: 20000
+    rewardTypeName: "USD"
+    organizationName: "Avito"
+    organizationUrl: "avitoru"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$20,000"
+    types: 
+      - "Natural Language Processing (NLP)"
+      - "Duplicate Detection"
+    evaluation: "Area Under Curve (AUC)"
+    solutions: 
+      - 
+        label: "#2 Solution"
+        url: "https://www.kaggle.com/c/avito-duplicate-ads-detection/discussion/22205"
+      - 
+        label: "Solution sharing"
+        url: "https://www.kaggle.com/c/avito-duplicate-ads-detection/discussion/22190"
+    repositories: 
+      - 
+        label: "2nd place solution"
+        url: "https://github.com/mxbi/ftim"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2016/08/24/avito-duplicate-ads-detection-winners-interview-1st-place-team-devil-team-stanislav-dmitrii/"
+      - 
+        label: "2nd place winner"
+        url: "http://blog.kaggle.com/2016/08/31/avito-duplicate-ads-detection-winners-interview-2nd-place-team-the-quants-mikel-peter-marios-sonny/"
+      - 
+        label: "3rd place winner"
+        url: "http://blog.kaggle.com/2016/07/27/avito-duplicate-ads-detection-winners-interview-3rd-place-mario-gerard-kele-praveen-gilberto/"
+  - 
+    competitionId: 5229
+    competitionTitle: "Draper Satellite Image Chronology"
+    competitionDescription: "Can you put order to space and time? "
+    competitionUrl: "/c/draper-satellite-image-chronology"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/5229/logos/thumb76_76.png"
+    deadline: "2016-06-27T23:59:00Z"
+    totalTeams: 401
+    totalKernels: 78
+    rewardQuantity: 75000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$75,000"
+    types: 
+      - "Image processing"
+    evaluation: "Spearman's correlation coefficient"
+    solutions: 
+      - 
+        label: "1st place"
+        url: "https://www.kaggle.com/c/draper-satellite-image-chronology/discussion/21936"
+      - 
+        label: "Solution sharing"
+        url: "https://www.kaggle.com/c/draper-satellite-image-chronology/discussion/21822"
+    interviews: 
+      - 
+        label: "Pure ML Solution 1"
+        url: "http://blog.kaggle.com/2016/09/15/draper-satellite-image-chronology-machine-learning-solution-vicens-gaitan/"
+      - 
+        label: "Pure ML Solution 2"
+        url: "http://blog.kaggle.com/2016/09/08/draper-satellite-image-chronology-damien-soukhavong/"
+  - 
+    competitionId: 5056
+    competitionTitle: "Expedia Hotel Recommendations"
+    competitionDescription: "Which hotel type will an Expedia customer book?"
+    competitionUrl: "/c/expedia-hotel-recommendations"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/5056/logos/thumb76_76.png"
+    deadline: "2016-06-10T23:59:00Z"
+    totalTeams: 1974
+    totalKernels: 473
+    rewardQuantity: 25000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$25,000"
+    types: 
+      - "Recommendations"
+      - "Ranking"
+    evaluation: "Mean Average Precision @ 5 (MAP@5)"
+    solutions: 
+      - 
+        label: "1st place"
+        url: "https://www.kaggle.com/c/expedia-hotel-recommendations/discussion/21607"
+  - 
+    competitionId: 4986
+    competitionTitle: "Santander Customer Satisfaction"
+    competitionDescription: "Which customers are happy customers?"
+    competitionUrl: "/c/santander-customer-satisfaction"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4986/logos/thumb76_76.png"
+    deadline: "2016-05-02T23:59:00Z"
+    totalTeams: 5123
+    totalKernels: 1038
+    rewardQuantity: 60000
+    rewardTypeName: "USD"
+    organizationName: "Banco Santander"
+    organizationUrl: "santander"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$60,000"
+  - 
+    competitionId: 4853
+    competitionTitle: "Home Depot Product Search Relevance"
+    competitionDescription: "Predict the relevance of search results on homedepot.com"
+    competitionUrl: "/c/home-depot-product-search-relevance"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4853/logos/thumb76_76.png"
+    deadline: "2016-04-25T23:59:00Z"
+    totalTeams: 2125
+    totalKernels: 394
+    rewardQuantity: 40000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$40,000"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2016/05/18/home-depot-product-search-relevance-winners-interview-1st-place-alex-andreas-nurlan/"
+      - 
+        label: "2nd place winner"
+        url: "http://blog.kaggle.com/2016/06/15/home-depot-product-search-relevance-winners-interview-2nd-place-thomas-sean-qingchen-nima/"
+      - 
+        label: "3rd place winner"
+        url: "http://blog.kaggle.com/2016/06/01/home-depot-product-search-relevance-winners-interview-3rd-place-team-turing-test-igor-kostia-chenglong/"
+  - 
+    competitionId: 4852
+    competitionTitle: "BNP Paribas Cardif Claims Management"
+    competitionDescription: "Can you accelerate BNP Paribas Cardif's claims management process?"
+    competitionUrl: "/c/bnp-paribas-cardif-claims-management"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4852/logos/thumb76_76.png"
+    deadline: "2016-04-18T23:59:00Z"
+    totalTeams: 2926
+    totalKernels: 344
+    rewardQuantity: 30000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$30,000"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2016/05/13/bnp-paribas-cardif-claims-management-winners-interview-1st-place-team-dexters-lab-darius-davut-song/"
+  - 
+    competitionId: 4862
+    competitionTitle: "March Machine Learning Mania 2016"
+    competitionDescription: "Predict the 2016 NCAA Basketball Tournament"
+    competitionUrl: "/c/march-machine-learning-mania-2016"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4862/logos/thumb76_76.png"
+    deadline: "2016-04-05T06:00:00Z"
+    totalTeams: 598
+    totalKernels: 110
+    rewardQuantity: 25000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$25,000"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2016/05/10/march-machine-learning-mania-2016-winners-interview-1st-place-miguel-alomar/"
+  - 
+    competitionId: 4729
+    competitionTitle: "Second Annual Data Science Bowl"
+    competitionDescription: "Transforming How We Diagnose Heart Disease"
+    competitionUrl: "/c/second-annual-data-science-bowl"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/4729/logos/thumb76_76.png"
+    deadline: "2016-03-14T23:59:00Z"
+    totalTeams: 192
+    totalKernels: 0
+    rewardQuantity: 200000
+    rewardTypeName: "USD"
+    organizationName: "Booz Allen Hamilton"
+    organizationUrl: "BoozAllenHamilton"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$200,000"
+    interviews: 
+      - 
+        label: "2nd place winner"
+        url: "http://blog.kaggle.com/2016/04/13/diagnosing-heart-diseases-with-deep-neural-networks-2nd-place-ira-korshunova/"
+  - 
+    competitionId: 5497
+    competitionTitle: "Outbrain Click Prediction"
+    competitionDescription: "Can you predict which recommended content each user will click?"
+    competitionUrl: "/c/outbrain-click-prediction"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/5497/logos/thumb76_76.png"
+    deadline: "2017-01-18T23:59:00Z"
+    totalTeams: 979
+    totalKernels: 359
+    rewardQuantity: 25000
+    rewardTypeName: "USD"
+    organizationName: "Outbrain"
+    organizationUrl: "outbrain"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: true
+    rewardDisplay: "$25,000"
+    types: 
+      - "Click Prediction"
+      - "Ranking"
+    evaluation: "MAP@12"
+    solutions: 
+      - 
+        label: "2nd place solution"
+        url: "https://www.kaggle.com/c/outbrain-click-prediction/forums/t/27977/2nd-place-solution-team-brain-afk"
+      - 
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/outbrain-click-prediction/forums/t/27923/3rd-place-solution"
+      - 
+        label: "4th place solution"
+        url: "https://www.kaggle.com/c/outbrain-click-prediction/forums/t/27926/4th-place-solution"
+    repositories: 
+      - 
+        label: "2nd place solution"
+        url: "https://github.com/alno/kaggle-outbrain-click-prediction"
+      - 
+        label: "3rd place solution"
+        url: "https://github.com/daxiongshu/light-ffm"
+    interviews: 
+      - 
+        label: "2nd place winner"
+        url: "http://blog.kaggle.com/2017/03/17/outbrain-click-prediction-competition-winners-interview-2nd-place-team-brain-afk-darragh-marios-mathias-alexey/"
+  - 
+    competitionId: 5916
+    competitionTitle: "Dstl Satellite Imagery Feature Detection"
+    competitionDescription: "Can you train an eye in the sky?"
+    competitionUrl: "/c/dstl-satellite-imagery-feature-detection"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/5916/logos/thumb76_76.png"
+    deadline: "2017-03-07T23:59:00Z"
+    totalTeams: 419
+    totalKernels: 0
+    rewardQuantity: 100000
+    rewardTypeName: "USD"
+    organizationName: "Defence Science & Technology Laboratory"
+    organizationUrl: "dstl"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$100,000"
+    types: 
+      - "Image processing"
+      - "Classification"
+    evaluation: "Average Jaccard Index"
+    repositories: 
+      - 
+        label: "5th place solution"
+        url: "https://github.com/lopuhin/kaggle-dstl"
+      - 
+        label: "9th place solution"
+        url: "https://github.com/toshi-k/kaggle-satellite-imagery-feature-detection"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2017/04/26/dstl-satellite-imagery-competition-1st-place-winners-interview-kyle-lee/"
+      - 
+        label: "3rd place winner"
+        url: "http://blog.kaggle.com/2017/05/09/dstl-satellite-imagery-competition-3rd-place-winners-interview-vladimir-sergey/"
+      - 
+        label: "4th place winner"
+        url: "https://deepsense.io/deep-learning-for-satellite-imagery-via-image-segmentation/"
+  - 
+    competitionId: 5874
+    competitionTitle: "Two Sigma Financial Modeling Challenge"
+    competitionDescription: "Can you uncover predictive value in an uncertain world?"
+    competitionUrl: "/c/two-sigma-financial-modeling"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/5874/logos/thumb76_76.png"
+    deadline: "2017-03-01T23:59:00Z"
+    totalTeams: 2070
+    totalKernels: 0
+    rewardQuantity: 100000
+    rewardTypeName: "USD"
+    organizationName: "Two Sigma"
+    organizationUrl: "two-sigma"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$100,000"
+    types: 
+      - "Image processing"
+      - "Classification"
+    evaluation: "R value or coefficient of determination"
+    solutions: 
+      - 
+        label: "Public LB #15, Private LB #8"
+        url: "https://www.kaggle.com/c/two-sigma-financial-modeling/discussion/29793"
+      - 
+        label: "#34 on Public LB and #10 on Private LB"
+        url: "https://www.kaggle.com/phegde/two-sigma-financial-modeling/team-pradeep-arthur-private-lb-10-solution/comments"
+      - 
+        label: "#4 Public, #13 Private Solution"
+        url: "https://www.kaggle.com/c/two-sigma-financial-modeling/discussion/29518"
+  - 
+    competitionId: 5390
+    competitionTitle: "Melbourne University AES/MathWorks/NIH Seizure Prediction"
+    competitionDescription: "Predict seizures in long-term human intracranial EEG recordings"
+    competitionUrl: "/c/melbourne-university-seizure-prediction#description"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/5390/logos/front_page.png"
+    deadline: "2016-12-01T23:59:00Z"
+    totalTeams: 478
+    totalKernels: 0
+    rewardQuantity: 20000
+    rewardTypeName: "USD"
+    organizationName: null
+    organizationUrl: null
+    hostSegment: "research"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$20,000"
+    types: 
+      - "Time series"
+      - "Classification"
+      - "Prediction"
+    evaluation: "ROC AUC"
+    solutions: 
+      - 
+        label: "Public LB #15, Private LB #3 (and other solutions)"
+        url: "https://www.kaggle.com/c/melbourne-university-seizure-prediction/discussion/26039"
+      - 
+        label: "Public LB #27, Private LB #4"
+        url: "https://www.kaggle.com/c/melbourne-university-seizure-prediction/discussion/26098"
+      - 
+        label: "Public LB #16, Private LB #5"
+        url: "https://www.kaggle.com/c/melbourne-university-seizure-prediction/discussion/26117"
+      - 
+        label: "Public LB #22, Private LB #8"
+        url: "https://www.kaggle.com/c/melbourne-university-seizure-prediction/discussion/26268"
+    repositories: 
+      - 
+        label: "4th place solution"
+        url: "https://github.com/GainaTang/Melbourne-University-AES-MathWorks-NIH-Seizure-Prediction-4th-solution-"
+      - 
+        label: "5th place solution"
+        url: "https://github.com/oleg-panichev/Melbourne-University-Seizure-Prediction-2016"
+      - 
+        label: "8th place solution"
+        url: "https://github.com/nahlik-michal/kaggle-melbourne-seizure-prediction"
+    interviews: 
+      - 
+        label: "1st place winner"
+        url: "http://blog.kaggle.com/2017/02/06/seizure-prediction-competition-first-place-winners-interview-team-not-so-random-anymore-andriy-alexandre-feng-gilberto/"
+      - 
+        label: "3rd place winner"
+        url: "http://blog.kaggle.com/2017/01/10/seizure-prediction-competition-3rd-place-winners-interview-gareth-jones/"
+  - 
+    competitionId: 6116
+    competitionTitle: "NOAA Fisheries Steller Sea Lion Population Count"
+    competitionDescription: "How many sea lions do you see?"
+    competitionUrl: "/c/noaa-fisheries-steller-sea-lion-population-count"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/6116/logos/thumb76_76.png"
+    deadline: "2017-06-27T23:59:00Z"
+    totalTeams: 393
+    totalKernels: 0
+    rewardQuantity: 25000
+    rewardTypeName: "USD"
+    organizationName: "NOAA"
+    organizationUrl: "noaa"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$25,000"
+    evaluation: "RMSE"
+    types: 
+      - "Image processing"
+      - "Classification"
+      - "Counting"
+    solutions: 
+      - 
+        label: "All solutions"
+        url: "https://www.kaggle.com/c/noaa-fisheries-steller-sea-lion-population-count/discussion/35454"
+  - 
+    competitionId: 6243
+    competitionTitle: "Intel & MobileODT Cervical Cancer Screening"
+    competitionDescription: "Which cancer treatment will be most effective?"
+    competitionUrl: "/c/intel-mobileodt-cervical-cancer-screening"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/6243/logos/thumb76_76.png"
+    deadline: "2017-06-21T23:59:00Z"
+    totalTeams: 848
+    totalKernels: 0
+    rewardQuantity: 100000
+    rewardTypeName: "USD"
+    organizationName: "Intel"
+    organizationUrl: "intel"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$100,000"
+    evaluation: "Multiclass logarithmic loss (logloss)"
+    types: 
+      - "Image processing"
+      - "Classification"
+    solutions: 
+      - 
+        label: "6th place solution"
+        url: "https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening/discussion/35089"
+      - 
+        label: "9th place solution"
+        url: "https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening/discussion/35104"
+  - 
+    competitionId: 6277
+    competitionTitle: "Quora Question Pairs"
+    competitionDescription: "Can you identify question pairs that have the same intent?"
+    competitionUrl: "/c/quora-question-pairs"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/6277/logos/thumb76_76.png"
+    deadline: "2017-06-06T23:59:00Z"
+    totalTeams: 3307
+    totalKernels: 0
+    rewardQuantity: 25000
+    rewardTypeName: "USD"
+    organizationName: "Quora"
+    organizationUrl: "quora"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$25,000"
+    evaluation: "Logarithmic loss (logloss)"
+    types: 
+      - "Duplicate detection"
+      - "Natural Language Processing (NLP)"
+    solutions: 
+      - 
+        label: "All solutions"
+        url: "https://www.kaggle.com/c/quora-question-pairs/discussion/34325"
+  - 
+    competitionId: 6049
+    competitionTitle: "Google Cloud & YouTube-8M Video Understanding Challenge"
+    competitionDescription: "Can you produce the best video tag predictions?"
+    competitionUrl: "/c/youtube8m"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/6049/logos/thumb76_76.png"
+    deadline: "2017-06-02T23:59:00Z"
+    totalTeams: 650
+    totalKernels: 0
+    rewardQuantity: 100000
+    rewardTypeName: "USD"
+    organizationName: "Google Cloud"
+    organizationUrl: "google-cloud"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$100,000"
+    evaluation: "Global Average Precision (GAP)"
+    types: 
+      - "Multiclass Classification"
+    solutions: 
+      - 
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/youtube8m/discussion/35063"
+      - 
+        label: "5th place solution"
+        url: "https://www.kaggle.com/c/youtube8m/discussion/34751"
+    repositories: 
+      - 
+        label: "1st place solution"
+        url: "https://github.com/antoine77340/Youtube-8M-WILLOW"
+      - 
+        label: "5th place solution"
+        url: "https://github.com/mpekalski/Y8M"
+  - 
+    competitionId: 5568
+    competitionTitle: "The Nature Conservancy Fisheries Monitoring"
+    competitionDescription: "Can you detect and classify species of fish?"
+    competitionUrl: "/c/the-nature-conservancy-fisheries-monitoring"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/5568/logos/thumb76_76.png"
+    deadline: "2017-04-12T23:59:00Z"
+    totalTeams: 2293
+    totalKernels: 0
+    rewardQuantity: 150000
+    rewardTypeName: "USD"
+    organizationName: "The Nature Conservancy"
+    organizationUrl: "conserveca"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$150,000"
+    evaluation: "Multi-class logarithmic loss (logloss)"
+    types: 
+      - "Image processing"
+      - "Classification"
+    solutions: 
+      - 
+        label: "Solution sharing post"
+        url: "https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring/discussion/31538"
+

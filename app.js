@@ -6,9 +6,9 @@ app
 
     $http({
       method: 'GET',
-      url: 'competitions.json'
+      url: 'competitions.yaml'
     }).then(function successCallback(response) {
-      $scope.competitions = response.data; // response data
+      $scope.competitions = jsyaml.load(response.data); // response data
     }, function errorCallback(error) {
       console.error(error);
     });
