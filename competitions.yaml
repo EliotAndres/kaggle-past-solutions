@@ -2996,4 +2996,117 @@
       - 
         label: "Solution sharing post"
         url: "https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring/discussion/31538"
+  -
+    competitionId: 6644
+    competitionTitle: "Instacart Market Basket Analysis"
+    competitionDescription: "Which products will an Instacart consumer purchase again?"
+    competitionUrl: "/c/instacart-market-basket-analysis"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/6644/logos/thumb76_76.png"
+    deadline: "2017-08-14T23:59:00Z"
+    totalTeams: 2623
+    totalKernels: 0
+    rewardQuantity: 25000
+    rewardTypeName: "USD"
+    organizationName: "Instacart"
+    organizationUrl: "instacart"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$25,000"
+    types:
+      - "Cart prediction"
+    solutions:
+      -
+        label: "2nd place solution"
+        url: "https://www.kaggle.com/c/instacart-market-basket-analysis/discussion/38143"
+      -
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/instacart-market-basket-analysis/discussion/38097"
+  -
+    competitionId: 6322
+    competitionTitle: "Planet: Understanding the Amazon from Space"
+    competitionDescription: "Use satellite data to track the human footprint in the Amazon rainforest"
+    competitionUrl: "/c/planet-understanding-the-amazon-from-space"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/6322/logos/thumb76_76.png"
+    deadline: "2017-07-20T23:59:00Z"
+    totalTeams: 938
+    totalKernels: 0
+    rewardQuantity: 60000
+    rewardTypeName: "USD"
+    organizationName: "Planet"
+    organizationUrl: "planet"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$60,000"
+    evaluation: "Coefficient of determination"
+    types:
+      - "Image processing"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/discussion/36809"
+      -
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/discussion/38831"
 
+  -
+    competitionId: 6565
+    competitionTitle: "Mercedes-Benz Greener Manufacturing"
+    competitionDescription: "Can you cut the time a Mercedes-Benz spends on the test bench?"
+    competitionUrl: "/c/mercedes-benz-greener-manufacturing"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/6565/logos/thumb76_76.png"
+    deadline: "2017-07-10T23:59:00Z"
+    totalTeams: 3835
+    totalKernels: 0
+    rewardQuantity: 25000
+    rewardTypeName: "USD"
+    organizationName: "Daimler"
+    organizationUrl: "daimler"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$25,000"
+    evaluation: "Coefficient of determination"
+    types:
+      - "Regression"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/mercedes-benz-greener-manufacturing/discussion/37700"
+      -
+        label: "2nd place solution"
+        url: "https://www.kaggle.com/c/mercedes-benz-greener-manufacturing/discussion/36390"
+
+  -
+    competitionId: 6392
+    competitionTitle: "Sberbank Russian Housing Market"
+    competitionDescription: "Can you predict realty price fluctuations in Russia’s volatile economy?"
+    competitionUrl: "/c/sberbank-russian-housing-market"
+    thumbnailImageUrl: "https://kaggle2.blob.core.windows.net/competitions/kaggle/6392/logos/thumb76_76.png"
+    deadline: "2017-06-29T23:59:00Z"
+    totalTeams: 3274
+    totalKernels: 0
+    rewardQuantity: 25000
+    rewardTypeName: "USD"
+    organizationName: "Sberbank"
+    organizationUrl: "sberbank"
+    hostSegment: "featured"
+    isLimited: false
+    isPrivate: false
+    isInClass: false
+    userHasEntered: false
+    rewardDisplay: "$25,000"
+    evaluation: "Root Mean Squared Logarithmic Error (RMSLE)"
+    types:
+      - "Price prediction"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/sberbank-russian-housing-market/discussion/35684"
