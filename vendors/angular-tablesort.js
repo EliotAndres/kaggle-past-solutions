@@ -16,7 +16,7 @@ tableSortModule.provider( 'tableSortConfig', function () {
     this.perPageDefault = this.perPageOptions[0];      //Select the first option by default
     this.itemNameSingular = 'item';                    //Default name
     this.itemNamePlural = this.itemNameSingular + 's'; //Default way to make an item plural for English
-    this.noDataText = 'No ' + this.itemNamePlural;     //Default text to show that there are no items
+    this.noDataText = 'Loading...';     //Default text to show that there are no items
     this.wrappingElementClass = "";                    //Empty by default
 
     if( !isNaN(this.perPageDefault) && this.perPageOptions.indexOf(this.perPageDefault) === -1 ) {
