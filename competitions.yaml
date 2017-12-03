@@ -30,6 +30,9 @@
         label: "9th place winner"
         url: "https://eliasvansteenkiste.github.io/machine%20learning/lung-cancer-pred/"
     repositories: 
+     -
+        label: "1st place solution"
+        url: "https://github.com/lfz/DSB2017"
       - 
         label: "2nd place solution"
         url: "https://github.com/juliandewit/kaggle_ndsb2017"
