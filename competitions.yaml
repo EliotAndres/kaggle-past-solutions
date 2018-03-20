@@ -19,9 +19,9 @@
     userHasEntered: false
     rewardDisplay: "$1,000,000"
     types: 
-      - "Image processing"
+      - "Image processing / Vision"
       - "Classification"
-    evaluation: "Multi-class logarithmic loss (logloss)"
+    evaluationMetric: "Multi-class logarithmic loss (logloss)"
     interviews: 
       - 
         label: "2nd place winner"
@@ -2238,7 +2238,7 @@
     types: 
       - "Recommendation"
       - "Ranking"
-    evaluation: "MAP@7"
+    evaluationMetric: "MAP@7"
     solutions: 
       - 
         label: "All Solutions"
@@ -2279,7 +2279,7 @@
     types: 
       - "Anomaly Detection"
       - "Classification"
-    evaluation: "Matthews correlation coefficient (MCC)"
+    evaluationMetric: "Matthews correlation coefficient (MCC)"
     solutions: 
       - 
         label: "#1 place solution"
@@ -2318,7 +2318,7 @@
     rewardDisplay: "$50,000"
     types: 
       - "Classification"
-    evaluation: "Area under the ROC curve (AUC)"
+    evaluationMetric: "Area under the ROC curve (AUC)"
     solutions: 
       - 
         label: "#2 solution"
@@ -2351,7 +2351,7 @@
     rewardDisplay: "$25,000"
     types: 
       - "Classification"
-    evaluation: "Multi-class logarithmic loss (logloss)"
+    evaluationMetric: "Multi-class logarithmic loss (logloss)"
     solutions: 
       - 
         label: "Some of the 3rd place solution"
@@ -2384,7 +2384,7 @@
     rewardDisplay: "$25,000"
     types: 
       - "Forecast"
-    evaluation: "Root Mean Squared Logarithmic Error (RMSLE)"
+    evaluationMetric: "Root Mean Squared Logarithmic Error (RMSLE)"
     solutions: 
       - 
         label: "#1 Place Solution"
@@ -2416,8 +2416,8 @@
     userHasEntered: false
     rewardDisplay: "$100,000"
     types: 
-      - "Image Processing"
-    evaluation: "Dice coefficient"
+      - "Image processing / Vision"
+    evaluationMetric: "Dice coefficient"
     solutions: 
       - 
         label: "Host asked not to share"
@@ -2444,7 +2444,7 @@
     types: 
       - "Image Detection"
       - "Classification"
-    evaluation: "Multi-class logarithmic loss (logloss)"
+    evaluationMetric: "Multi-class logarithmic loss (logloss)"
     solutions: 
       - 
         label: "#1 Solution"
@@ -2478,7 +2478,7 @@
     types: 
       - "Natural Language Processing (NLP)"
       - "Duplicate Detection"
-    evaluation: "Area Under Curve (AUC)"
+    evaluationMetric: "Area Under Curve (AUC)"
     solutions: 
       - 
         label: "#2 Solution"
@@ -2520,8 +2520,8 @@
     userHasEntered: false
     rewardDisplay: "$75,000"
     types: 
-      - "Image processing"
-    evaluation: "Spearman's correlation coefficient"
+      - "Image processing / Vision"
+    evaluationMetric: "Spearman's correlation coefficient"
     solutions: 
       - 
         label: "1st place"
@@ -2558,7 +2558,7 @@
     types: 
       - "Recommendations"
       - "Ranking"
-    evaluation: "Mean Average Precision @ 5 (MAP@5)"
+    evaluationMetric: "Mean Average Precision @ 5 (MAP@5)"
     solutions: 
       - 
         label: "1st place"
@@ -2702,7 +2702,7 @@
     types: 
       - "Click Prediction"
       - "Ranking"
-    evaluation: "MAP@12"
+    evaluationMetric: "MAP@12"
     solutions: 
       - 
         label: "2nd place solution"
@@ -2744,9 +2744,9 @@
     userHasEntered: false
     rewardDisplay: "$100,000"
     types: 
-      - "Image processing"
+      - "Image processing / Vision"
       - "Classification"
-    evaluation: "Average Jaccard Index"
+    evaluationMetric: "Average Jaccard Index"
     repositories: 
       - 
         label: "5th place solution"
@@ -2784,9 +2784,9 @@
     userHasEntered: false
     rewardDisplay: "$100,000"
     types: 
-      - "Image processing"
+      - "Image processing / Vision"
       - "Classification"
-    evaluation: "R value or coefficient of determination"
+    evaluationMetric: "R value or coefficient of determination"
     solutions: 
       - 
         label: "Public LB #15, Private LB #8"
@@ -2820,7 +2820,7 @@
       - "Time series"
       - "Classification"
       - "Prediction"
-    evaluation: "ROC AUC"
+    evaluationMetric: "ROC AUC"
     solutions: 
       - 
         label: "Public LB #15, Private LB #3 (and other solutions)"
@@ -2870,9 +2870,9 @@
     isInClass: false
     userHasEntered: false
     rewardDisplay: "$25,000"
-    evaluation: "RMSE"
+    evaluationMetric: "RMSE"
     types: 
-      - "Image processing"
+      - "Image processing / Vision"
       - "Classification"
       - "Counting"
     solutions: 
@@ -2898,9 +2898,9 @@
     isInClass: false
     userHasEntered: false
     rewardDisplay: "$100,000"
-    evaluation: "Multiclass logarithmic loss (logloss)"
+    evaluationMetric: "Multiclass logarithmic loss (logloss)"
     types: 
-      - "Image processing"
+      - "Image processing / Vision"
       - "Classification"
     solutions: 
       - 
@@ -2928,7 +2928,7 @@
     isInClass: false
     userHasEntered: false
     rewardDisplay: "$25,000"
-    evaluation: "Logarithmic loss (logloss)"
+    evaluationMetric: "Logarithmic loss (logloss)"
     types: 
       - "Duplicate detection"
       - "Natural Language Processing (NLP)"
@@ -2955,7 +2955,7 @@
     isInClass: false
     userHasEntered: false
     rewardDisplay: "$100,000"
-    evaluation: "Global Average Precision (GAP)"
+    evaluationMetric: "Global Average Precision (GAP)"
     types: 
       - "Multiclass Classification"
     solutions: 
@@ -2991,9 +2991,9 @@
     isInClass: false
     userHasEntered: false
     rewardDisplay: "$150,000"
-    evaluation: "Multi-class logarithmic loss (logloss)"
+    evaluationMetric: "Multi-class logarithmic loss (logloss)"
     types: 
-      - "Image processing"
+      - "Image processing / Vision"
       - "Classification"
     solutions: 
       - 
@@ -3046,9 +3046,9 @@
     isInClass: false
     userHasEntered: false
     rewardDisplay: "$60,000"
-    evaluation: "Coefficient of determination"
+    evaluationMetric: "Coefficient of determination"
     types:
-      - "Image processing"
+      - "Image processing / Vision"
     solutions:
       -
         label: "1st place solution"
@@ -3076,7 +3076,7 @@
     isInClass: false
     userHasEntered: false
     rewardDisplay: "$25,000"
-    evaluation: "Coefficient of determination"
+    evaluationMetric: "Coefficient of determination"
     types:
       - "Regression"
     solutions:
@@ -3106,10 +3106,256 @@
     isInClass: false
     userHasEntered: false
     rewardDisplay: "$25,000"
-    evaluation: "Root Mean Squared Logarithmic Error (RMSLE)"
+    evaluationMetric: "Root Mean Squared Logarithmic Error (RMSLE)"
     types:
-      - "Price prediction"
+      - "Price regression"
     solutions:
       -
         label: "1st place solution"
         url: "https://www.kaggle.com/c/sberbank-russian-housing-market/discussion/35684"
+  -
+    competitionDescription: Can you improve the algorithm that changed the world of
+      real estate?
+    competitionId: 6649
+    competitionName: null
+    competitionTitle: "Zillow Prize: Zillow\u2019s Home Value Prediction (Zestimate)"
+    competitionUrl: /c/zillow-prize-1
+    coverImageUrl: null
+    deadline: '2018-01-10T15:59:00Z'
+    evaluationMetric: ZillowMAE
+    hostSegment: Featured
+    organizationAvatarUrl: null
+    organizationName: Zillow
+    organizationUrl: zillow
+    rewardQuantity: 1200000.0
+    rewardTypeName: USD
+    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/6649/logos/thumb76_76.png
+    types:
+      - "Price regression"
+  -
+    competitionDescription: Improve the accuracy of the Department of Homeland Security's
+      threat recognition algorithms
+    competitionId: 6775
+    competitionName: null
+    competitionTitle: Passenger Screening Algorithm Challenge
+    competitionUrl: /c/passenger-screening-algorithm-challenge
+    coverImageUrl: null
+    deadline: '2017-12-15T23:59:00Z'
+    evaluationMetric: Log Loss
+    hostSegment: Featured
+    organizationAvatarUrl: null
+    organizationName: Department of Homeland Security
+    organizationUrl: dhs
+    rewardQuantity: 1500000.0
+    rewardTypeName: USD
+    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/6775/logos/thumb76_76.png
+    types:
+      - "Image processing / Vision"
+    solutions:
+      -
+        label: "Solution sharing thread"
+        url: "https://www.kaggle.com/c/passenger-screening-algorithm-challenge/discussion/45805"
+  -
+    competitionDescription: Categorize e-commerce photos
+    competitionId: 7115
+    competitionName: null
+    competitionTitle: "Cdiscount\u2019s Image Classification Challenge"
+    competitionUrl: /c/cdiscount-image-classification-challenge
+    coverImageUrl: null
+    deadline: '2017-12-14T23:59:00Z'
+    evaluationMetric: Categorization Accuracy
+    hostSegment: Featured
+    organizationAvatarUrl: null
+    organizationName: Cdiscount
+    organizationUrl: cdiscount
+    rewardQuantity: 35000.0
+    rewardTypeName: USD
+    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/7115/logos/thumb76_76.png
+    types:
+      - "Image processing / Vision"
+      - "Classification"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/cdiscount-image-classification-challenge/discussion/45863"
+      -
+        label: "2nd place solution"
+        url: "https://www.kaggle.com/c/cdiscount-image-classification-challenge/discussion/45709"
+  -
+    competitionDescription: Predict if a driver will file an insurance claim next year.
+    competitionId: 7082
+    competitionName: null
+    competitionTitle: "Porto Seguro\u2019s Safe Driver Prediction"
+    competitionUrl: /c/porto-seguro-safe-driver-prediction
+    coverImageUrl: null
+    deadline: '2017-11-29T23:59:00Z'
+    evaluationMetric: Normalized Gini Index
+    hostSegment: Featured
+    organizationAvatarUrl: null
+    organizationName: Porto Seguro
+    organizationUrl: porto-seguro
+    rewardQuantity: 25000.0
+    rewardTypeName: USD
+    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/7082/logos/thumb76_76.png
+    types:
+      - "Event prediction"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/porto-seguro-safe-driver-prediction/discussion/44629"
+      -
+        label: "2nd place solution"
+        url: "https://www.kaggle.com/xiaozhouwang/2nd-place-solution-nn-model/comments"
+      -
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/porto-seguro-safe-driver-prediction/discussion/44608"
+  -
+    competitionDescription: Automatically identify the boundaries of the car in an image
+    competitionId: 6927
+    competitionName: null
+    competitionTitle: Carvana Image Masking Challenge
+    competitionUrl: /c/carvana-image-masking-challenge
+    coverImageUrl: null
+    deadline: '2017-09-27T23:59:00Z'
+    hostSegment: Featured
+    organizationAvatarUrl: null
+    organizationName: Carvana
+    organizationUrl: carvana
+    rewardQuantity: 25000.0
+    rewardTypeName: USD
+    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/6927/logos/thumb76_76.png
+    evaluationMetric: "Dice coefficient"
+    types:
+      - "Semantic segmentation"
+      - "Image processing / Vision"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/carvana-image-masking-challenge/discussion/46176"
+      -
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/carvana-image-masking-challenge/discussion/40199"
+  -
+    competitionDescription: Can you accurately predict sales for a large grocery chain?
+    competitionId: 7391
+    competitionName: null
+    competitionTitle: "Corporaci\xF3n Favorita Grocery Sales Forecasting"
+    competitionUrl: /c/favorita-grocery-sales-forecasting
+    coverImageUrl: null
+    deadline: '2018-01-15T23:59:00Z'
+    evaluationMetric: Normalized Weighted Root Mean Squared Logarithmic Error
+    hostSegment: Featured
+    organizationAvatarUrl: null
+    organizationName: "Corporaci\xF3n Favorita"
+    organizationUrl: "Corporaci\xF3n-Favorita"
+    rewardQuantity: 30000.0
+    rewardTypeName: USD
+    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/7391/logos/thumb76_76.png
+    types:
+      - "Sales Regression"
+      - "Sales forecast"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47582"
+      -
+        label: "2nd place solution"
+        url: "https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47568"
+      -
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47560"
+  -
+    competitionDescription: Can you build an algorithm that understands simple speech
+      commands?
+    competitionId: 7634
+    competitionName: null
+    competitionTitle: TensorFlow Speech Recognition Challenge
+    competitionUrl: /c/tensorflow-speech-recognition-challenge
+    coverImageUrl: null
+    deadline: '2018-01-16T23:59:00Z'
+    evaluationMetric: Categorization Accuracy
+    hostSegment: Featured
+    organizationAvatarUrl: null
+    organizationName: Google Brain
+    organizationUrl: google-brain
+    rewardQuantity: 25000.0
+    rewardTypeName: USD
+    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/7634/logos/thumb76_76.png?t=2017-11-01-00-40-32
+    types:
+      - "Speech recognition"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/discussion/46988"
+      -
+        label: "2nd place solution"
+        url: "https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/discussion/47715"
+      -
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/discussion/47722"
+#
+#  -
+#    competitionDescription: Can you automatically suggest product prices to online sellers?
+#    competitionId: 7559
+#    competitionName: null
+#    competitionTitle: Mercari Price Suggestion Challenge
+#    competitionUrl: /c/mercari-price-suggestion-challenge
+#    coverImageUrl: null
+#    deadline: '2018-02-21T20:03:00Z'
+#    evaluationMetric: Root Mean Squared Logarithmic Error
+#    hostSegment: Featured
+#    organizationAvatarUrl: null
+#    organizationName: Mercari
+#    organizationUrl: mercari-team
+#    rewardQuantity: 100000.0
+#    rewardTypeName: USD
+#    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/7559/logos/thumb76_76.png
+#
+#  -
+#    competitionDescription: Identify from which camera an image was taken
+#    competitionId: 8078
+#    competitionName: null
+#    competitionTitle: IEEE's Signal Processing Society - Camera Model Identification
+#    competitionUrl: /c/sp-society-camera-model-identification
+#    coverImageUrl: null
+#    deadline: '2018-02-08T23:59:00Z'
+#    evaluationMetric: Weighted Categorization Accuracy
+#    hostSegment: Featured
+#    organizationAvatarUrl: null
+#    organizationName: IEEE Signal Processing Society
+#    organizationUrl: IEEESPCup
+#    rewardQuantity: 25000.0
+#    rewardTypeName: USD
+#    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/8078/logos/thumb76_76.png?t=2017-12-14-07-23-21
+#  -
+#    competitionDescription: Predict how many future visitors a restaurant will receive
+#    competitionId: 7277
+#    competitionName: null
+#    competitionTitle: Recruit Restaurant Visitor Forecasting
+#    competitionUrl: /c/recruit-restaurant-visitor-forecasting
+#    coverImageUrl: null
+#    deadline: '2018-02-06T23:59:00Z'
+#    evaluationMetric: Root Mean Squared Logarithmic Error
+#    hostSegment: Featured
+#    organizationAvatarUrl: null
+#    organizationName: Recruit Holdings
+#    organizationUrl: recruitholdings
+#    rewardQuantity: 25000.0
+#    rewardTypeName: USD
+#    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/7277/logos/thumb76_76.png?t=2017-11-28-20-05-09
+#  -
+#    competitionDescription: Ship or iceberg, can you decide from space?
+#    competitionId: 7380
+#    competitionName: null
+#    competitionTitle: Statoil/C-CORE Iceberg Classifier Challenge
+#    competitionUrl: /c/statoil-iceberg-classifier-challenge
+#    coverImageUrl: null
+#    deadline: '2018-01-23T23:59:00Z'
+#    evaluationMetric: Log Loss
+#    hostSegment: Featured
+#    organizationAvatarUrl: null
+#    organizationName: Statoil
+#    organizationUrl: statoil
+#    rewardQuantity: 50000.0
+#    rewardTypeName: USD
+#    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/7380/logos/thumb76_76.png
