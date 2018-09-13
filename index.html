@@ -57,7 +57,7 @@
                 <th ts-criteria="deadline|parseDate" ts-default="descending" style="min-width: 100px;">Deadline</th>
                 <th ts-criteria="types" >Type</th>
                 <th ts-criteria="evaluationMetric" style="min-width: 100px;">Evaluation</th>
-                <th ts-criteria="rewardDisplay | parseCurrency | parseFloat" style="min-width: 100px;">Reward</th>
+                <th ts-criteria="rewardQuantity | parseFloat" style="min-width: 100px;">Reward</th>
                 <th>Solutions</th>
                 <th>Inverviews and articles</th>
             </tr>
@@ -76,7 +76,7 @@
                 <td>{{competition.deadline | date:'yyyy-MM-dd'}}</td>
                 <td><span ng-repeat="type in competition.types">{{type}}{{$last ? '' : ', '}} </span></td>
                 <td>{{competition.evaluationMetric}}</td>
-                <td>{{competition.rewardDisplay}}</td>
+                <td>{{competition.rewardDisplay || ('$' + competition.rewardQuantity)}}</td>
                 <td style="min-width: 300px;">
                     <p>
                         <a target="_blank" ng-href="https://www.kaggle.com{{competition.competitionUrl}}/forums">Forum</a>

@@ -3293,69 +3293,493 @@
       -
         label: "3rd place solution"
         url: "https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/discussion/47722"
-#
-#  -
-#    competitionDescription: Can you automatically suggest product prices to online sellers?
-#    competitionId: 7559
+
+  -
+    competitionDescription: Can you automatically suggest product prices to online sellers?
+    competitionId: 7559
+    competitionName: null
+    competitionTitle: Mercari Price Suggestion Challenge
+    competitionUrl: /c/mercari-price-suggestion-challenge
+    coverImageUrl: null
+    deadline: '2018-02-21T20:03:00Z'
+    evaluationMetric: Root Mean Squared Logarithmic Error
+    hostSegment: Featured
+    organizationAvatarUrl: null
+    organizationName: Mercari
+    organizationUrl: mercari-team
+    rewardQuantity: 100000.0
+    rewardTypeName: USD
+    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/7559/logos/thumb76_76.png
+    types:
+      - "Price regression"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/mercari-price-suggestion-challenge/discussion/50256"
+      -
+        label: "2nd place solution"
+        url: "https://www.kaggle.com/c/mercari-price-suggestion-challenge/discussion/50499"
+      -
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/mercari-price-suggestion-challenge/discussion/50272"
+
+  -
+    competitionDescription: Identify from which camera an image was taken
+    competitionId: 8078
+    competitionName: null
+    competitionTitle: IEEE's Signal Processing Society - Camera Model Identification
+    competitionUrl: /c/sp-society-camera-model-identification
+    coverImageUrl: null
+    deadline: '2018-02-08T23:59:00Z'
+    evaluationMetric: Weighted Categorization Accuracy
+    hostSegment: Featured
+    organizationAvatarUrl: null
+    organizationName: IEEE Signal Processing Society
+    organizationUrl: IEEESPCup
+    rewardQuantity: 25000.0
+    rewardTypeName: USD
+    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/8078/logos/thumb76_76.png?t=2017-12-14-07-23-21
+    types:
+      - "Computer vision"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/sp-society-camera-model-identification/discussion/49367"
+      -
+        label: "2nd place solution"
+        url: "https://www.kaggle.com/c/sp-society-camera-model-identification/discussion/49299"
+      -
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/sp-society-camera-model-identification/discussion/49602"
+      -
+        label: "4th place solution"
+        url: "https://www.kaggle.com/c/sp-society-camera-model-identification/discussion/49298"
+
+  -
+    competitionDescription: Predict how many future visitors a restaurant will receive
+    competitionId: 7277
+    competitionName: null
+    competitionTitle: Recruit Restaurant Visitor Forecasting
+    competitionUrl: /c/recruit-restaurant-visitor-forecasting
+    coverImageUrl: null
+    deadline: '2018-02-06T23:59:00Z'
+    evaluationMetric: Root Mean Squared Logarithmic Error
+    hostSegment: Featured
+    organizationAvatarUrl: null
+    organizationName: Recruit Holdings
+    organizationUrl: recruitholdings
+    rewardQuantity: 25000.0
+    rewardTypeName: USD
+    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/7277/logos/thumb76_76.png?t=2017-11-28-20-05-09
+    types:
+      - "Speech recognition"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/pureheart/1st-place-lgb-model-public-0-470-private-0-502/comments"
+  -
+    competitionDescription: Ship or iceberg, can you decide from space?
+    competitionId: 7380
+    competitionName: null
+    competitionTitle: Statoil/C-CORE Iceberg Classifier Challenge
+    competitionUrl: /c/statoil-iceberg-classifier-challenge
+    coverImageUrl: null
+    deadline: '2018-01-23T23:59:00Z'
+    evaluationMetric: Log Loss
+    hostSegment: Featured
+    organizationAvatarUrl: null
+    organizationName: Statoil
+    organizationUrl: statoil
+    rewardQuantity: 50000.0
+    rewardTypeName: USD
+    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/7380/logos/thumb76_76.png
+    types:
+      - "Computer vision"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/discussion/48241"
+      -
+        label: "2nd place solution"
+        url: "https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/discussion/48294"
+      -
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/discussion/48207"
+      -
+        label: "4th place solution"
+        url: "https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/discussion/48163"
+  -
+    competitionDescription: Detect objects in varied and complex images.
+    competitionId: 9949
+    competitionName: null
+    competitionTitle: Google AI Open Images - Object Detection Track
+    competitionUrl: /c/google-ai-open-images-object-detection-track
+    coverImageUrl: null
+    deadline: '2018-08-30T23:59:00Z'
+    evaluationMetric: OpenImagesObjectDetectionAP
+    hostSegment: featured
+    organizationAvatarUrl: null
+    organizationName: Google AI
+    organizationUrl: googleai
+    rewardQuantity: 30000.0
+    rewardTypeName: USD
+    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/9949/logos/thumb76_76.png?t=2018-06-15-18-14-35
+    types:
+      - "Computer vision"
+      - "Object detection"
+    solutions:
+      -
+        label: "2nd place solution"
+        url: "https://www.kaggle.com/c/google-ai-open-images-object-detection-track/discussion/64986"
+  -
+    competitionDescription: Detect pairs of objects in particular relationships.
+    competitionId: 9951
+    competitionName: null
+    competitionTitle: Google AI Open Images - Visual Relationship Track
+    competitionUrl: /c/google-ai-open-images-visual-relationship-track
+    coverImageUrl: null
+    deadline: '2018-08-30T23:59:00Z'
+    evaluationMetric: OpenImagesVisualRelations
+    hostSegment: featured
+    organizationAvatarUrl: null
+    organizationName: Google AI
+    organizationUrl: googleai
+    rewardQuantity: 20000.0
+    rewardTypeName: USD
+    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/9951/logos/thumb76_76.png?t=2018-06-15-18-26-44
+    types:
+      - "Computer vision"
+      - "Object detection"
+    solutions:
+      -
+        label: "2nd place solution"
+        url: "https://www.kaggle.com/c/google-ai-open-images-visual-relationship-track/discussion/64651"
+      -
+        label: "4th place solution"
+        url: "https://www.kaggle.com/c/google-ai-open-images-visual-relationship-track/discussion/64642"
+  -
+    competitionDescription: Can you predict how capable each applicant is of repaying
+      a loan?
+    competitionId: 9120
+    competitionName: null
+    competitionTitle: Home Credit Default Risk
+    competitionUrl: /c/home-credit-default-risk
+    coverImageUrl: null
+    deadline: '2018-08-29T23:59:00Z'
+    evaluationMetric: Area Under Receiver Operating Characteristic Curve
+    hostSegment: featured
+    organizationAvatarUrl: null
+    organizationName: Home Credit Group
+    organizationUrl: home-credit-group
+    rewardQuantity: 70000.0
+    rewardTypeName: USD
+    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/9120/logos/thumb76_76.png?t=2018-04-02-23-45-04
+    types:
+      - "Risk scoring"
+      - "Risk prediction"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/home-credit-default-risk/discussion/64821#latest-386723"
+      -
+        label: "2nd place solution"
+        url: "https://www.kaggle.com/c/home-credit-default-risk/discussion/64722"
+      -
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/home-credit-default-risk/discussion/64596"
+  -
+    competitionDescription: Predict the value of transactions for potential customers.
+    competitionId: 9717
+    competitionName: null
+    competitionTitle: Santander Value Prediction Challenge
+    competitionUrl: /c/santander-value-prediction-challenge
+    coverImageUrl: null
+    deadline: '2018-08-20T23:59:00Z'
+    evaluationMetric: Root Mean Squared Logarithmic Error
+    hostSegment: featured
+    organizationAvatarUrl: null
+    organizationName: Banco Santander
+    organizationUrl: santander
+    rewardQuantity: 60000.0
+    rewardTypeName: USD
+    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/9717/logos/thumb76_76.png?t=2018-05-15-23-01-37
+    types:
+      - "Price regression"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/santander-value-prediction-challenge/discussion/63907"
+      -
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/santander-value-prediction-challenge/discussion/63864"
+  -
+    competitionDescription: High Energy Physics particle tracking in CERN detectors
+    competitionId: 7878
+    competitionName: null
+    competitionTitle: TrackML Particle Tracking Challenge
+    competitionUrl: /c/trackml-particle-identification
+    coverImageUrl: null
+    deadline: '2018-08-13T23:59:00Z'
+    evaluationMetric: TrackML
+    hostSegment: featured
+    organizationAvatarUrl: null
+    organizationName: CERN
+    organizationUrl: cern
+    rewardQuantity: 25000.0
+    rewardTypeName: USD
+    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/7707/logos/thumb76_76.png?t=2017-11-07-20-43-58
+    types:
+      - "Particle path reconstruction"
+      - "Particle tracking"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/trackml-particle-identification/discussion/63249"
+      -
+        label: "2nd place solution"
+        url: "https://www.kaggle.com/c/trackml-particle-identification/discussion/63256"
+      -
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/trackml-particle-identification/discussion/63330"
+  -
+    competitionDescription: Can you create a constrained-size model to predict video
+      labels?
+    competitionId: 9301
+    competitionName: null
+    competitionTitle: The 2nd YouTube-8M Video Understanding Challenge
+    competitionUrl: /c/youtube8m-2018
+    coverImageUrl: null
+    deadline: '2018-08-06T23:59:00Z'
+    evaluationMetric: GoogleGlobalAP
+    hostSegment: featured
+    organizationAvatarUrl: null
+    organizationName: Google AI
+    organizationUrl: googleai
+    rewardQuantity: 25000.0
+    rewardTypeName: USD
+    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/9301/logos/thumb76_76.png?t=2018-05-02-23-17-21
+    types:
+      - "Multiclass Classification"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/youtube8m-2018/discussion/62781"
+      -
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/youtube8m-2018/discussion/63223"
+  -
+    competitionDescription: Predict demand for an online classified ad
+    competitionId: 8586
+    competitionName: null
+    competitionTitle: Avito Demand Prediction Challenge
+    competitionUrl: /c/avito-demand-prediction
+    coverImageUrl: null
+    deadline: '2018-06-27T23:59:00Z'
+    evaluationMetric: Root Mean Squared Error
+    hostSegment: featured
+    organizationAvatarUrl: null
+    organizationName: Avito
+    organizationUrl: avitoru
+    rewardQuantity: 25000.0
+    rewardTypeName: USD
+    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/8586/logos/thumb76_76.png?t=2018-02-21-01-56-29
+    types:
+      - "Demand prediction"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/avito-demand-prediction/discussion/59880"
+      -
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/avito-demand-prediction/discussion/59885"
+      -
+        label: "4th place solution"
+        url: "https://www.kaggle.com/c/avito-demand-prediction/discussion/59881#latest-351946"
+  -
+    competitionDescription: Can you detect fraudulent click traffic for mobile app ads?
+    competitionId: 8540
+    competitionName: null
+    competitionTitle: TalkingData AdTracking Fraud Detection Challenge
+    competitionUrl: /c/talkingdata-adtracking-fraud-detection
+    coverImageUrl: null
+    deadline: '2018-05-07T23:59:00Z'
+    evaluationMetric: Area Under Receiver Operating Characteristic Curve
+    hostSegment: featured
+    organizationAvatarUrl: null
+    organizationName: TalkingData
+    organizationUrl: talkingdata
+    rewardQuantity: 25000.0
+    rewardTypeName: USD
+    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/8540/logos/thumb76_76.png?t=2018-02-13-18-59-39
+    types:
+      - "Fraud detection"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/56475"
+      -
+        label: "4th place solution"
+        url: "https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/56243"
+  -
+    competitionDescription: Find the nuclei in divergent images to advance medical discovery
+    competitionId: 8089
+    competitionName: null
+    competitionTitle: '2018 Data Science Bowl '
+    competitionUrl: /c/data-science-bowl-2018
+    coverImageUrl: null
+    deadline: '2018-04-16T23:59:00Z'
+    evaluationMetric: IntersectionOverUnionObjectSegmentation
+    hostSegment: featured
+    organizationAvatarUrl: null
+    organizationName: Booz Allen Hamilton
+    organizationUrl: BoozAllenHamilton
+    rewardQuantity: 100000.0
+    rewardTypeName: USD
+    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/8089/logos/thumb76_76.png?t=2018-01-09-00-16-57
+    types:
+      - "Computer vision"
+      - "Image segmentation"
+    solutions:
+      -
+        label: "2nd place solution"
+        url: "https://www.kaggle.com/c/data-science-bowl-2018/discussion/61170"
+      -
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/data-science-bowl-2018/discussion/56393"
+  -
+    competitionDescription: "Apply Machine Learning to NCAA\xAE March Madness\xAE"
+    competitionId: 8310
+    competitionName: null
+    competitionTitle: "Google Cloud & NCAA\xAE ML Competition 2018-Men's"
+    competitionUrl: /c/mens-machine-learning-competition-2018
+    coverImageUrl: null
+    deadline: '2018-04-02T23:59:00Z'
+    evaluationMetric: Log Loss
+    hostSegment: featured
+    organizationAvatarUrl: null
+    organizationName: Google Cloud
+    organizationUrl: google-cloud
+    rewardQuantity: 50000.0
+    rewardTypeName: USD
+    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/8310/logos/thumb76_76.png?t=2018-02-08-17-13-34
+    types:
+      - "Sport forecasting"
+  -
+    competitionDescription: "Apply machine learning to NCAA\xAE March Madness\xAE"
+    competitionId: 8311
+    competitionName: null
+    competitionTitle: "Google Cloud & NCAA\xAE ML Competition 2018-Women's"
+    competitionUrl: /c/womens-machine-learning-competition-2018
+    coverImageUrl: null
+    deadline: '2018-04-01T23:59:00Z'
+    evaluationMetric: Log Loss
+    hostSegment: featured
+    organizationAvatarUrl: null
+    organizationName: Google Cloud
+    organizationUrl: google-cloud
+    rewardQuantity: 50000.0
+    rewardTypeName: USD
+    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/8311/logos/thumb76_76.png?t=2018-02-08-17-11-37
+    types:
+      - "Sport forecasting"
+    solutions:
+      -
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/womens-machine-learning-competition-2018/discussion/53597"
+  -
+    competitionDescription: Identify and classify toxic online comments
+    competitionId: 8076
+    competitionName: null
+    competitionTitle: Toxic Comment Classification Challenge
+    competitionUrl: /c/jigsaw-toxic-comment-classification-challenge
+    coverImageUrl: null
+    deadline: '2018-03-20T23:59:00Z'
+    evaluationMetric: Mean Columnwise Area Under Receiver Operating Characteristic Curve
+    hostSegment: featured
+    organizationAvatarUrl: null
+    organizationName: Jigsaw
+    organizationUrl: jigsaw-team
+    rewardQuantity: 35000.0
+    rewardTypeName: USD
+    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/8076/logos/thumb76_76.png?t=2017-12-15-21-29-57
+    types:
+      - "Natural Language Processing (NLP)"
+      - "Sentiment analysis"
+    solutions:
+      -
+        label: "2nd place solution"
+        url: "https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52612"
+      -
+        label: "3rd place solution"
+        url: "https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52762"
+
+    #  -
+#    competitionDescription: Can you build an algorithm that automatically detects potential
+#      pneumonia cases?
+#    competitionId: 10338
 #    competitionName: null
-#    competitionTitle: Mercari Price Suggestion Challenge
-#    competitionUrl: /c/mercari-price-suggestion-challenge
+#    competitionTitle: RSNA Pneumonia Detection Challenge
+#    competitionUrl: /c/rsna-pneumonia-detection-challenge
 #    coverImageUrl: null
-#    deadline: '2018-02-21T20:03:00Z'
-#    evaluationMetric: Root Mean Squared Logarithmic Error
-#    hostSegment: Featured
+#    deadline: '2018-10-24T23:59:00Z'
+#    evaluationMetric: RSNAObjectDetectionAP
+#    hostSegment: featured
 #    organizationAvatarUrl: null
-#    organizationName: Mercari
-#    organizationUrl: mercari-team
+#    organizationName: Radiological Society of North America
+#    organizationUrl: RSNA
+#    rewardQuantity: 30000.0
+#    rewardTypeName: USD
+#    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/10338/logos/thumb76_76.png?t=2018-08-21-19-43-54
+#    types:
+#      - "Computer vision"
+#  -
+#    competitionDescription: Segment salt deposits beneath the Earth's surface
+#    competitionId: 10151
+#    competitionName: null
+#    competitionTitle: TGS Salt Identification Challenge
+#    competitionUrl: /c/tgs-salt-identification-challenge
+#    coverImageUrl: null
+#    deadline: '2018-10-19T23:59:00Z'
+#    evaluationMetric: IntersectionOverUnionObjectSegmentation
+#    hostSegment: featured
+#    organizationAvatarUrl: null
+#    organizationName: TGS
+#    organizationUrl: tgscompany
 #    rewardQuantity: 100000.0
 #    rewardTypeName: USD
-#    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/7559/logos/thumb76_76.png
+#    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/10151/logos/thumb76_76.png?t=2018-07-16-22-08-04
+#    types:
+#      - "Speech recognition"
 #
+#    solutions:
+#      -
+#        label: "1st place solution"
+#        url: "https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/discussion/48241"
+#      -
+#        label: "2nd place solution"
+#        url: "https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/discussion/48294"
+#      -
+#        label: "3rd place solution"
+#        url: "https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/discussion/48207"
 #  -
-#    competitionDescription: Identify from which camera an image was taken
-#    competitionId: 8078
+#    competitionDescription: Find ships on satellite images as quickly as possible
+#    competitionId: 9988
 #    competitionName: null
-#    competitionTitle: IEEE's Signal Processing Society - Camera Model Identification
-#    competitionUrl: /c/sp-society-camera-model-identification
+#    competitionTitle: Airbus Ship Detection Challenge
+#    competitionUrl: /c/airbus-ship-detection
 #    coverImageUrl: null
-#    deadline: '2018-02-08T23:59:00Z'
-#    evaluationMetric: Weighted Categorization Accuracy
-#    hostSegment: Featured
+#    deadline: '2018-10-04T23:59:00Z'
+#    evaluationMetric: IntersectionOverUnionObjectSegmentationBeta
+#    hostSegment: featured
 #    organizationAvatarUrl: null
-#    organizationName: IEEE Signal Processing Society
-#    organizationUrl: IEEESPCup
-#    rewardQuantity: 25000.0
+#    organizationName: Airbus
+#    organizationUrl: airbus
+#    rewardQuantity: 60000.0
 #    rewardTypeName: USD
-#    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/8078/logos/thumb76_76.png?t=2017-12-14-07-23-21
-#  -
-#    competitionDescription: Predict how many future visitors a restaurant will receive
-#    competitionId: 7277
-#    competitionName: null
-#    competitionTitle: Recruit Restaurant Visitor Forecasting
-#    competitionUrl: /c/recruit-restaurant-visitor-forecasting
-#    coverImageUrl: null
-#    deadline: '2018-02-06T23:59:00Z'
-#    evaluationMetric: Root Mean Squared Logarithmic Error
-#    hostSegment: Featured
-#    organizationAvatarUrl: null
-#    organizationName: Recruit Holdings
-#    organizationUrl: recruitholdings
-#    rewardQuantity: 25000.0
-#    rewardTypeName: USD
-#    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/7277/logos/thumb76_76.png?t=2017-11-28-20-05-09
-#  -
-#    competitionDescription: Ship or iceberg, can you decide from space?
-#    competitionId: 7380
-#    competitionName: null
-#    competitionTitle: Statoil/C-CORE Iceberg Classifier Challenge
-#    competitionUrl: /c/statoil-iceberg-classifier-challenge
-#    coverImageUrl: null
-#    deadline: '2018-01-23T23:59:00Z'
-#    evaluationMetric: Log Loss
-#    hostSegment: Featured
-#    organizationAvatarUrl: null
-#    organizationName: Statoil
-#    organizationUrl: statoil
-#    rewardQuantity: 50000.0
-#    rewardTypeName: USD
-#    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/7380/logos/thumb76_76.png
+#    thumbnailImageUrl: https://kaggle2.blob.core.windows.net/competitions/kaggle/9988/logos/thumb76_76.png?t=2018-07-16-11-19-09
+#    types:
+#      - "Speech recognition"
+#    solutions:
+#      -
+#        label: "1st place solution"
+#        url: "https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/discussion/46988"
