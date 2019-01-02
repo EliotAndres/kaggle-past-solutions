@@ -3706,12 +3706,18 @@
       - "Natural Language Processing (NLP)"
       - "Sentiment analysis"
     solutions:
-      -
+      - 
+        label: "1st place solution"
+        url: "https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52557"
+      - 
         label: "2nd place solution"
         url: "https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52612"
       -
         label: "3rd place solution"
         url: "https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52762"
+      -
+        label: "Solution sharing thread"
+        url: "https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/72597"
 
     #  -
 #    competitionDescription: Can you build an algorithm that automatically detects potential
