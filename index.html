@@ -58,8 +58,7 @@
                 <th ts-criteria="types" >Type</th>
                 <th ts-criteria="evaluationMetric" style="min-width: 100px;">Evaluation</th>
                 <th ts-criteria="rewardQuantity | parseFloat" style="min-width: 100px;">Reward</th>
-                <th>Solutions</th>
-                <th>Inverviews and articles</th>
+                <th>Solutions, interviews and articles</th>
             </tr>
             </thead>
             <tbody>
@@ -96,8 +95,8 @@
                             </a>
                         </li>
                     </ul>
-                </td>
-                <td style="min-width: 300px;">
+                    <p ng-if="competition.interviews">Interviews</p>
+
                     <ul>
                         <li ng-repeat="interview in competition.interviews">
                             <a target="_blank" ng-href="{{interview.url}}">
@@ -105,7 +104,9 @@
                             </a>
                         </li>
                     </ul>
+
                 </td>
+
             </tr>
             </tbody>
         </table>
