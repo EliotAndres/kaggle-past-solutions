@@ -1,3 +1,733 @@
+- competitionDescription: Can you classify cloud structures from satellites?
+  competitionId: 13333
+  competitionName: null
+  competitionTitle: Understanding Clouds from Satellite Images
+  competitionUrl: /c/understanding_cloud_organization
+  coverImageUrl: null
+  deadline: '2019-11-18T23:59:00Z'
+  evaluationMetric: Dice coefficient
+  hostSegment: Research
+  organizationAvatarUrl: null
+  organizationName: Max Planck Institute for Meteorology
+  organizationUrl:
+  rewardQuantity: 10000.0
+  rewardTypeName: USD
+  solutions:
+  - label: 1st place solution
+    url: https://www.kaggle.com/c/understanding_cloud_organization/discussion/118080
+    tags: resnet34, efficientnet-b1, resnext10132x8dwsl, resnext10132x16dwsl
+  - label: 3rd place solution
+    url: https://www.kaggle.com/c/understanding_cloud_organization/discussion/117949
+    tags: resnet34-FPN, soft DICE loss, BCE loss
+  - label: 4th place solution
+    url: https://www.kaggle.com/c/understanding_cloud_organization/discussion/118016
+    tags: Resnet34, SE-ResNext-50, EfficientNet-B4
+  - label: 5th place solution
+    url: https://www.kaggle.com/c/understanding_cloud_organization/discussion/117987
+    tags: efficientnet-b1, resnet50, efficientnet-b3, fpn, unet
+  - label: 6th place solution
+    url: https://www.kaggle.com/c/understanding_cloud_organization/discussion/118017
+    tags: efficientnet-b4, unet, efficientnet-b4, fpn
+  - label: 7th place solution
+    url: https://www.kaggle.com/c/understanding_cloud_organization/discussion/117974
+    tags: efficientnet e5/7-FPNï¼Œse101-FPN, se101-linket, Dice loss
+  repositories:
+  - label: 2nd place code
+    url: https://github.com/darraghdog/rsna
+  - label: 3rd place code
+    url: https://github.com/okotaku/kaggle_rsna2019_3rd_solution
+  - label: 5th place code
+    url: https://github.com/ngxbac/Kaggle-RSNA
+  thumbnailImageUrl: https://storage.googleapis.com/kaggle-competitions/kaggle/13333/logos/thumb76_76.png?t=2019-06-07-19-19-14
+  types:
+  - image data
+  - Atmospheric sciences
+- competitionDescription: Identify acute intracranial hemorrhage and its subtypes
+  competitionId: 13451
+  competitionName: null
+  competitionTitle: RSNA Intracranial Hemorrhage Detection
+  competitionUrl: /c/rsna-intracranial-hemorrhage-detection
+  coverImageUrl: null
+  deadline: '2019-11-13T23:59:00Z'
+  evaluationMetric: weighted multi-label logarithmic loss
+  hostSegment: Featured
+  organizationAvatarUrl: null
+  organizationName: Radiological Society of North America
+  organizationUrl:
+  rewardQuantity: 25000.0
+  rewardTypeName: USD
+  solutions:
+  - label: 2nd place solution
+    url: https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/discussion/117228
+    tags: Resnext101, LSTM, Bi-BLSTM
+  - label: 3rd place solution
+    url: https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/discussion/117223
+    tags: SeResNeXt50, SeResNeXt101
+  - label: 5th place solution
+    url: https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/discussion/117232
+    tags: Resnet, Densenet
+  - label: 6th place solution
+    url: https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/discussion/117301
+    tags: xception, inception, EfficientnetB0, Resnet50, ResInc
+  - label: 7th place solution
+    url: https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/discussion/117293
+    tags: efficientnetb5, efficientnetb6, inceptionresnetv2, inception_v4, senet154, seresnext50, seresnext101
+  - label: 9th place solution
+    url: https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/discussion/117211
+    tags: resnet
+  repositories:
+  - label: 2nd place code
+    url: https://github.com/darraghdog/rsna
+  - label: 3rd place code
+    url: https://github.com/okotaku/kaggle_rsna2019_3rd_solution
+  - label: 5th place code
+    url: https://github.com/ngxbac/Kaggle-RSNA
+  thumbnailImageUrl: https://storage.googleapis.com/kaggle-competitions/kaggle/13451/logos/thumb76_76.png?t=2019-08-26-19-58-36
+  types:
+  - image data
+- competitionDescription: Can you advance the state of the art in 3D object detection?
+  competitionId: 15768
+  competitionName: null
+  competitionTitle: Lyft 3D Object Detection for Autonomous Vehicles
+  competitionUrl: /c/3d-object-detection-for-autonomous-vehicles
+  coverImageUrl: null
+  deadline: '2019-11-12T23:59:00Z'
+  evaluationMetric: intersection over union (IoU)
+  hostSegment: Featured
+  organizationAvatarUrl: null
+  organizationName: Lyft
+  organizationUrl:
+  rewardQuantity: 25000.0
+  rewardTypeName: USD
+  solutions:
+  - label: 4th place solution
+    url: https://www.kaggle.com/c/3d-object-detection-for-autonomous-vehicles/discussion/117269
+    tags: VoxelNet, PointPillars, PyTorch
+  - label: 20th place solution
+    url: https://www.kaggle.com/c/3d-object-detection-for-autonomous-vehicles/discussion/117560
+    tags: VoxelNet, PillarFeatureNet
+  - label: 27th place solution
+    url: https://www.kaggle.com/c/3d-object-detection-for-autonomous-vehicles/discussion/117809
+    tags: PointPillars, second.pytorch, VoxelNet
+  repositories:
+  - label: 20th place solution
+    url: https://github.com/pyaf/second.pytorch
+  - label: Second.pytorch original repository
+    url: https://github.com/traveller59/second.pytorch
+  thumbnailImageUrl: https://storage.googleapis.com/kaggle-competitions/kaggle/15768/logos/thumb76_76.png?t=2019-08-27-22-43-26
+  types:
+  - image data
+  - Object detection
+- competitionDescription: Can you detect and classify defects in steel?
+  competitionId: 14241
+  competitionName: null
+  competitionTitle: Severstal Steel Defect Detection
+  competitionUrl: /c/severstal-steel-defect-detection
+  coverImageUrl: null
+  deadline: '2019-10-17T23:59:00Z'
+  evaluationMetric: Dice coefficient
+  hostSegment: Featured
+  organizationAvatarUrl: null
+  organizationName: Severstal
+  organizationUrl:
+  rewardQuantity: 120000.0
+  rewardTypeName: USD
+  solutions:
+  - label: 1st place solution
+    url: https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/114254
+    tags: efficientnet-b1, resnet34, efficientnet-b3, Unet, FPN
+  - label: 4th place solution
+    url: https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/114716
+    tags: resnet34
+  - label: 7th place solution
+    url: https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/114215
+    tags: AdamW, efficientnet-b4, efficientnet-b7, UNet
+  - label: 8th place solution
+    url: https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/114696
+    tags: FPN, Seresnext50, UNet, Seresnext50, Resnet34
+  - label: 10th place solution
+    url: https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/114465
+    tags: Unet, FPN, PSPNet
+  thumbnailImageUrl: https://storage.googleapis.com/kaggle-competitions/kaggle/14241/logos/thumb76_76.png?t=2019-06-17-15-52-14
+  types:
+  - image data
+- competitionDescription: Opening the door to a thousand years of Japanese culture
+  competitionId: 13578
+  competitionName: null
+  competitionTitle: Kuzushiji Recognition
+  competitionUrl: /c/kuzushiji-recognition
+  coverImageUrl: null
+  deadline: '2019-10-14T23:59:00Z'
+  evaluationMetric: F1 score
+  hostSegment: Playground
+  organizationAvatarUrl: null
+  organizationName: ROIS-DS Center for Open Data in the Humanities
+  organizationUrl:
+  rewardQuantity: 15000.0
+  rewardTypeName: USD
+  solutions:
+  - label: 1st place solution
+    url: https://www.kaggle.com/c/kuzushiji-recognition/discussion/112788
+    tags: Cascade R-CNN, HRNet w32, HRNet w48
+  - label: 2nd place solution
+    url: https://www.kaggle.com/c/kuzushiji-recognition/discussion/112712
+    tags: resnet152, pretrained on ImageNet, resnext101_32x8d_wsl, Faster-RCNN
+  - label: 3rd place solution
+    url: https://www.kaggle.com/c/kuzushiji-recognition/discussion/113049
+    tags: Faster R-CNN, ResNet101, EfficientNet, SE-ResNeXt101, ResNet152, LightGBM
+  - label: 7th place solution
+    url: https://www.kaggle.com/c/kuzushiji-recognition/discussion/112899
+    tags: CenterNet,
+  - label: 9th place solution
+    url: https://www.kaggle.com/c/kuzushiji-recognition/discussion/112807
+  thumbnailImageUrl: https://storage.googleapis.com/kaggle-competitions/kaggle/13578/logos/thumb76_76.png?t=2019-04-24-22-48-08
+  repositories:
+  - label: 1st place solution
+    url: https://github.com/tascj/kaggle-kuzushiji-recognition
+  - label: 2nd place solution
+    url: https://github.com/lopuhin/kaggle-kuzushiji-2019
+  - label: 3rd place solution
+    url: https://github.com/knjcode/kaggle-kuzushiji-recognition-2019
+  types:
+  - history
+  - image data
+  - multiclass classification
+- competitionDescription: Temporal localization of topics within video
+  competitionId: 12716
+  competitionName: null
+  competitionTitle: The 3rd YouTube-8M Video Understanding Challenge
+  competitionUrl: /c/youtube8m-2019
+  coverImageUrl: null
+  deadline: '2019-10-11T23:59:00Z'
+  evaluationMetric: Mean Average Precision @ K (MAP@K)
+  hostSegment: Research
+  organizationAvatarUrl: null
+  organizationName: Google Research
+  organizationUrl:
+  rewardQuantity: 25000.0
+  rewardTypeName: USD
+  solutions:
+  - label: 1st place solution
+    url: https://www.kaggle.com/c/youtube8m-2019/discussion/112869
+    tags: LSTM, NetVLAD/LF
+  - label: 2nd place solution
+    url: https://www.kaggle.com/c/youtube8m-2019/discussion/113663
+    tags: NeXtVLAD, LightNetVLAD, GatedDBOF, SoftDBOF, NetFV, GRU, ResNetLike
+  - label: 3rd place solution
+    url: https://www.kaggle.com/c/youtube8m-2019/discussion/112929
+    tags: MixNeXtVLAD
+  - label: 6th place solution
+    url: https://www.kaggle.com/c/youtube8m-2019/discussion/112403
+    tags: NeXtVLAD
+  - label: 7th place solution
+    url: https://www.kaggle.com/c/youtube8m-2019/discussion/112349
+    tags: NeXtVLAD ,context-gated DBoF, mixture-of-experts
+  thumbnailImageUrl: https://storage.googleapis.com/kaggle-competitions/kaggle/12716/logos/thumb76_76.png?t=2019-04-29-17-48-06
+  types:
+  - video data
+  - object detection
+- competitionDescription: Can you detect fraud from customer transactions?
+  competitionId: 14242
+  competitionName: null
+  competitionTitle: IEEE-CIS Fraud Detection
+  competitionUrl: /c/ieee-fraud-detection
+  coverImageUrl: null
+  deadline: '2019-10-03T23:59:00Z'
+  evaluationMetric: area under the ROC curve (AUC)
+  hostSegment: Research
+  organizationAvatarUrl: null
+  organizationName: IEEE Computational Intelligence Society
+  organizationUrl:
+  rewardQuantity: 25000.0
+  rewardTypeName: USD
+  solutions:
+  - label: 1st place solution - part 1
+    url: https://www.kaggle.com/c/ieee-fraud-detection/discussion/111284
+  - label: 1st place solution - part 2
+    url: https://www.kaggle.com/c/ieee-fraud-detection/discussion/111308
+  - label: 2nd place solution - cpmp view
+    url: https://www.kaggle.com/c/ieee-fraud-detection/discussion/111321
+  - label: 2nd place solution - sggpls view
+    url: https://www.kaggle.com/c/ieee-fraud-detection/discussion/111554
+  - label: 5th place solution
+    url: https://www.kaggle.com/c/ieee-fraud-detection/discussion/111735
+  - label: 6th place solution
+    url: https://www.kaggle.com/c/ieee-fraud-detection/discussion/111247
+  - label: 9th place solution
+    url: https://www.kaggle.com/c/ieee-fraud-detection/discussion/111234
+  thumbnailImageUrl: https://storage.googleapis.com/kaggle-competitions/kaggle/14242/logos/thumb76_76.png?t=2019-07-11-17-50-36
+  types:
+  - Tabular
+- competitionDescription: Detect objects in varied and complex images
+  competitionId: 14315
+  competitionName: null
+  competitionTitle: Open Images 2019 - Object Detection
+  competitionUrl: /c/open-images-2019-object-detection
+  coverImageUrl: null
+  deadline: '2019-10-01T23:59:00Z'
+  evaluationMetric: mean Average Precision (mAP)
+  hostSegment: Research
+  organizationAvatarUrl: null
+  organizationName: Google Research
+  organizationUrl:
+  rewardQuantity: 25000.0
+  rewardTypeName: USD
+  solutions:
+  - label: 6th place solution
+    url: https://www.kaggle.com/c/open-images-2019-object-detection/discussion/110953
+    tags: ResNeXt 152 / 101
+  - label: 10th place solution
+    url: https://www.kaggle.com/c/open-images-2019-object-detection/discussion/111266
+    tags: resnext101, TTA, rcnn+resnext101
+  - label: 32nd place solution
+    url: https://www.kaggle.com/c/open-images-2019-object-detection/discussion/111022
+    tags: FRCNN resnet50, Inception resnet v2, YOLO v3
+  thumbnailImageUrl: https://storage.googleapis.com/kaggle-competitions/kaggle/14315/logos/thumb76_76.png?t=2019-04-24-05-15-38
+  types:
+  - Computer vision
+  - Object detection
+- competitionDescription: Detect pairs of objects in particular relationships
+  competitionId: 14316
+  competitionName: null
+  competitionTitle: Open Images 2019 - Visual Relationship
+  competitionUrl: /c/open-images-2019-visual-relationship
+  coverImageUrl: null
+  deadline: '2019-10-01T23:59:00Z'
+  evaluationMetric: weighted mean of (1) mean Average Precision (mAP) on relationships detection, (2) Recall@N (where N=50), and (3) mean Average Precision on phrase detection
+  hostSegment: Research
+  organizationAvatarUrl: null
+  organizationName: Google Research
+  organizationUrl:
+  rewardQuantity: 25000.0
+  rewardTypeName: USD
+  solutions:
+  - label: 13th place solution
+    url: https://www.kaggle.com/c/open-images-2019-visual-relationship/discussion/110935
+    tags: mmdet
+  thumbnailImageUrl: https://storage.googleapis.com/kaggle-competitions/kaggle/14316/logos/thumb76_76.png?t=2019-04-24-05-15-47
+  types:
+  - Computer vision
+- competitionDescription: Outline segmentation masks of objects in images
+  competitionId: 15043
+  competitionName: null
+  competitionTitle: Open Images 2019 - Instance Segmentation
+  competitionUrl: /c/open-images-2019-instance-segmentation
+  coverImageUrl: null
+  deadline: '2019-10-01T23:59:00Z'
+  evaluationMetric: mean Average Precision (mAP)
+  hostSegment: Research
+  organizationAvatarUrl: null
+  organizationName: Google Research
+  organizationUrl:
+  rewardQuantity: 25000.0
+  rewardTypeName: USD
+  solutions:
+  - label: 7th place solution
+    url: https://www.kaggle.com/c/open-images-2019-instance-segmentation/discussion/110983
+    tags: mmdetection, backbone x101,
+  - label: 11th place solution
+    url: https://www.kaggle.com/c/open-images-2019-instance-segmentation/discussion/111351
+    tags: ResNeXt152, ResNet152-C4
+  - label: 20th place solution
+    url: https://www.kaggle.com/c/open-images-2019-instance-segmentation/discussion/110908
+    tags: maskrcnn-benchmark
+  repositories:
+  - label: 7th place solution
+    url: https://github.com/boliu61/open-images-2019-instance-segmentation
+  thumbnailImageUrl: https://storage.googleapis.com/kaggle-competitions/kaggle/15043/logos/thumb76_76.png?t=2019-06-18-19-30-08
+  types:
+  - Computer vision
+  - Instance Segmentation
+- competitionDescription: CellSignal Disentangling biological signal from experimental noise in cellular images
+  competitionId: 14420
+  competitionName: null
+  competitionTitle: Recursion Cellular Image Classification
+  competitionUrl: /c/recursion-cellular-image-classification
+  coverImageUrl: null
+  deadline: '2019-09-26T23:59:00Z'
+  evaluationMetric: Multiclass Accuracy
+  hostSegment: Research
+  organizationAvatarUrl: null
+  organizationName: Recursion Pharmaceuticals
+  organizationUrl:
+  rewardQuantity: 13000.0
+  rewardTypeName: USD
+  solutions:
+  - label: 4th place solution
+    url: https://www.kaggle.com/c/recursion-cellular-image-classification/discussion/110337
+    tags: seresnext50, efficientnet, psuedo label
+  - label: 5th place solution
+    url: https://www.kaggle.com/c/recursion-cellular-image-classification/discussion/110362
+    tags: DenseNet201, ResNeXt101_32x8d, HRNet-W18, HRNet-W30
+  - label: 6th place solution
+    url: https://www.kaggle.com/c/recursion-cellular-image-classification/discussion/110391
+    tags: efficientnet-b0
+  - label: 7th place solution
+    url: https://www.kaggle.com/c/recursion-cellular-image-classification/discussion/110335
+    tags: Resnet50
+  - label: 9th place solution
+    url: https://www.kaggle.com/c/recursion-cellular-image-classification/discussion/110366
+    tags: CosFace loss, Unsupervised Domain Adaptation by Backpropagation, seresnet50, senet154, xception, inceptionresnetv2, densenet161, densenet201
+  - label: 10th place solution
+    url: https://www.kaggle.com/c/recursion-cellular-image-classification/discussion/110375
+    tags: Pytorch, Center Loss for embeddings, SeNet154, SeResnext50, SeResnext101, Polynet, EfficientNet-b6, ResNeXt101-wsl
+  - label: 11th place solution
+    url: https://www.kaggle.com/c/recursion-cellular-image-classification/discussion/110394
+    tags: Polyak averaging, EfficientNets B0 and B5, Cross Entropy
+  repositories:
+  - label: 4th place solution
+    url: https://github.com/ngxbac/Kaggle-Recursion-Cellular
+  thumbnailImageUrl: https://storage.googleapis.com/kaggle-competitions/kaggle/14420/logos/thumb76_76.png?t=2019-06-26-02-51-45
+  types:
+  - Research
+  - Biology
+  - Classification
+  - Image data
+  - Computer vision
+- competitionDescription: Help understand customer loyalty
+  competitionId: 10445
+  competitionName: null
+  competitionTitle: Elo Merchant Category Recommendation
+  competitionUrl: /c/elo-merchant-category-recommendation
+  coverImageUrl: null
+  deadline: '2019-02-26T23:59:00Z'
+  evaluationMetric: Root mean square error (RMSE)
+  hostSegment: Featured
+  organizationAvatarUrl: null
+  organizationName: Elo
+  organizationUrl:
+  rewardQuantity: 50000.0
+  rewardTypeName: USD
+  solutions:
+  - label: 5th place solution
+    url: https://www.kaggle.com/c/elo-merchant-category-recommendation/discussion/82314
+  - label: 7th place solution
+    url: https://www.kaggle.com/c/elo-merchant-category-recommendation/discussion/82055
+    tags: word2vec features, Lightgbm, neural network
+  - label: 10th place solution
+    url: https://www.kaggle.com/c/elo-merchant-category-recommendation/discussion/82093
+  - label: 11th place solution
+    url: https://www.kaggle.com/c/elo-merchant-category-recommendation/discussion/82127
+  - label: 16th place solution
+    url: https://www.kaggle.com/c/elo-merchant-category-recommendation/discussion/82166
+  - label: 18th place solution
+    url: https://www.kaggle.com/c/elo-merchant-category-recommendation/discussion/82107
+  thumbnailImageUrl: https://storage.googleapis.com/kaggle-competitions/kaggle/10445/logos/thumb76_76.png?t=2018-10-24-17-14-05
+  types:
+  - Regression
+- competitionDescription: Detect diabetic retinopathy to stop blindness before it's too late
+  competitionId: 14774
+  competitionName: null
+  competitionTitle: APTOS 2019 Blindness Detection
+  competitionUrl: /c/aptos2019-blindness-detection
+  coverImageUrl: null
+  deadline: '2019-09-07T23:59:00Z'
+  evaluationMetric: quadratic weighted kappa
+  hostSegment: Featured
+  organizationAvatarUrl: null
+  organizationName: Asia Pacific Tele-Ophthalmology Society (APTOS)
+  organizationUrl:
+  rewardQuantity: 50000.0
+  rewardTypeName: USD
+  solutions:
+  - label: 1st place solution
+    url: https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/108065
+    tags: inception_resnet_v2, inception_v4, seresnext50, seresnext101
+  - label: 2nd place solution
+    url: https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/108122
+    tags: efficientnet b5
+  - label: 4th place solution
+    url: https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/107926
+    tags: efficient-net b3 b4 b5
+  - label: 7th place solution
+    url: https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/107987
+    tags: EfficientNet B2 B3 B4 B5 B6 B7
+  - label: 8th place solution
+    url: https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/107960
+    tags: efficientnet b0 b1 b2 b3, Torch
+  - label: 10th place solution
+    url: https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/108058
+    tags: SeResNext50, SeResNext101, InceptionV4
+  - label: 11th place solution
+    url: https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/108030
+    tags: EfficientNet-B4 B5
+  thumbnailImageUrl: https://storage.googleapis.com/kaggle-competitions/kaggle/14774/logos/thumb76_76.png?t=2019-06-24-18-15-40
+  types:
+  - Computer vision
+  - Classification
+- competitionDescription: Automatically recognize sounds and apply tags of varying natures
+  competitionId: 10700
+  competitionName: null
+  competitionTitle: Freesound Audio Tagging 2019
+  competitionUrl: /c/freesound-audio-tagging-2019
+  coverImageUrl: null
+  deadline: '2019-06-11T23:59:00Z'
+  evaluationMetric: label-weighted label-ranking average precision (lwlrap)
+  hostSegment: Research
+  organizationAvatarUrl: null
+  organizationName: Freesound
+  organizationUrl:
+  rewardQuantity: 5000.0
+  rewardTypeName: USD
+  solutions:
+  - label: 1st place solution
+    url: https://www.kaggle.com/c/freesound-audio-tagging-2019/discussion/95924
+  - label: 2nd place solution
+    url: https://www.kaggle.com/c/freesound-audio-tagging-2019/discussion/97815
+  - label: 3rd place solution
+    url: https://www.kaggle.com/c/freesound-audio-tagging-2019/discussion/97926
+  - label: 4th place solution
+    url: https://www.kaggle.com/c/freesound-audio-tagging-2019/discussion/96440
+  - label: 6th place solution
+    url: https://www.kaggle.com/c/freesound-audio-tagging-2019/discussion/96440
+  - label: 7th place solution
+    url: https://www.kaggle.com/c/freesound-audio-tagging-2019/discussion/97812
+  - label: 8th place solution
+    url: https://www.kaggle.com/c/freesound-audio-tagging-2019/discussion/96446
+  - label: 9th place solution (by Iafoss)
+    url: https://www.kaggle.com/c/freesound-audio-tagging-2019/discussion/95409
+  - label: 9th place solution (by Theo Viel)
+    url: https://www.kaggle.com/c/freesound-audio-tagging-2019/discussion/97736
+  - label: 11th place solution
+    url: https://www.kaggle.com/c/freesound-audio-tagging-2019/discussion/95344
+  thumbnailImageUrl: https://storage.googleapis.com/kaggle-competitions/kaggle/10700/logos/thumb76_76.png?t=2019-03-08-16-57-45
+  types:
+  - Audio
+  - Signal
+- competitionDescription: Identify Pneumothorax disease in chest x-rays
+  competitionId: 14652
+  competitionName: null
+  competitionTitle: SIIM-ACR Pneumothorax Segmentation
+  competitionUrl: /c/siim-acr-pneumothorax-segmentation
+  coverImageUrl: null
+  deadline: '2019-09-04T23:59:00Z'
+  evaluationMetric: Dice coefficient
+  hostSegment: Featured
+  organizationAvatarUrl: null
+  organizationName: Society for Imaging Informatics in Medicine (SIIM)
+  organizationUrl:
+  rewardQuantity: 30000.0
+  rewardTypeName: USD
+  solutions:
+  - label: 5th place solution
+    url: https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107603
+    tags: Network= Unet with Aspp, Backbone= se50 & se101
+  - label: 6th place solution
+    url: https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107743
+    tags: EncodingNet (ResNets, 512 and 1024 size), UNet (EfficientNet4, se-resnext50, SENet154 with 512, 640 and 1024 sizes)
+  - label: 8th place solution
+    url: https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107522
+    tags: Architecture= DeepLabV3+, Backbone= ResNet50/101 and ResNeXt50/101
+  - label: 10th place solution
+    url: https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107687
+    tags: classification models= se_resnext101, senet154, segmentation models= Unets dpn98, se_resnet101, se_densenet121
+  - label: 11th place solution
+    url: https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107518
+  - label: 12th place solution
+    url: https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107757
+  thumbnailImageUrl: https://storage.googleapis.com/kaggle-competitions/kaggle/14652/logos/thumb76_76.png?t=2019-05-15-19-37-10
+  types:
+  - Computer vision
+- competitionDescription: Can you identify who will make a transaction?
+  competitionId: 10385
+  competitionName: null
+  competitionTitle: Santander Customer Transaction Prediction
+  competitionUrl: /c/santander-customer-transaction-prediction
+  coverImageUrl: null
+  deadline: '2019-04-10T23:59:00Z'
+  evaluationMetric: area under the ROC curve
+  hostSegment: Featured
+  organizationAvatarUrl: null
+  organizationName: Banco Santander
+  organizationUrl:
+  rewardQuantity: 65000.0
+  rewardTypeName: USD
+  solutions:
+  - label: 1st place solution
+    url: https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/89003
+  - label: 2nd place solution
+    url: https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/88939
+  - label: 3rd place solution
+    url: https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/88902
+  - label: 4th place solution
+    url: https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/88891
+  - label: 5th place solution
+    url: https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/88897
+  - label: 7th place solution
+    url: https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/89023
+  - label: 8th place solution
+    url: https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/88886
+  - label: 9th place solution
+    url: https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/88913
+  - label: 10th place solution
+    url: https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/88997
+  thumbnailImageUrl: https://storage.googleapis.com/kaggle-competitions/kaggle/10385/logos/thumb76_76.png?t=2019-02-15-16-53-52
+  types:
+  - Bank data
+  - Tabular
+- competitionDescription: Experiment with creating puppy pics
+  competitionId: 15062
+  competitionName: null
+  competitionTitle: Generative Dog Images
+  competitionUrl: /c/generative-dog-images
+  coverImageUrl: null
+  deadline: '2019-08-14T23:59:00Z'
+  evaluationMetric: Memorization-informed FrÃ©chet Inception Distance
+  hostSegment: Featured
+  organizationAvatarUrl: null
+  organizationName: Kaggle
+  organizationUrl:
+  rewardQuantity: 10000.0
+  rewardTypeName: USD
+  solutions:
+  - label: 1st place solution
+    url: https://www.kaggle.com/c/generative-dog-images/discussion/106324
+  - label: 2nd place solution
+    url: https://www.kaggle.com/c/generative-dog-images/discussion/104211
+  - label: 3rd place solution
+    url: https://www.kaggle.com/c/generative-dog-images/discussion/106514
+  - label: 4th place solution
+    url: https://www.kaggle.com/c/generative-dog-images/discussion/104281
+  - label: 5th place solution
+    url: https://www.kaggle.com/c/generative-dog-images/discussion/104287
+  - label: 6th place solution
+    url: https://www.kaggle.com/c/generative-dog-images/discussion/104215
+  - label: 8th place solution
+    url: https://www.kaggle.com/c/generative-dog-images/discussion/106452
+  - label: 10th place solution
+    url: https://www.kaggle.com/johannl/sn-dcgan?scriptVersionId=18544882
+  - label: 11th place solution
+    url: https://www.kaggle.com/leonshangguan/dcgan-data-cleaning-sub-v1?scriptVersionId=18470145
+  thumbnailImageUrl: https://storage.googleapis.com/kaggle-competitions/kaggle/15062/logos/thumb76_76.png?t=2019-06-20-21-52-51
+  types:
+  - GAN
+- competitionDescription: A synchronous Kernels-only competition
+  competitionId: 14239
+  competitionName: null
+  competitionTitle: Instant Gratification
+  competitionUrl: /c/instant-gratification
+  coverImageUrl: null
+  deadline: '2019-06-20T23:59:00Z'
+  evaluationMetric: area under the ROC curve
+  hostSegment: Featured
+  organizationAvatarUrl: null
+  organizationName: Kaggle
+  organizationUrl:
+  rewardQuantity: 5000.0
+  rewardTypeName: USD
+  solutions:
+  - label: 1st place solution
+    url: https://www.kaggle.com/c/instant-gratification/discussion/96549
+  - label: 2nd place solution
+    url: https://www.kaggle.com/qiaoshiji/asdfghjkl?scriptVersionId=16011704
+  - label: 3rd place solution
+    url: https://www.kaggle.com/c/instant-gratification/discussion/96504
+  - label: 4th place solution
+    url: https://www.kaggle.com/rsakata/gmm-with-target-perfect-pred-random-shuffle
+  - label: 5th place solution
+    url: https://www.kaggle.com/c/instant-gratification/discussion/96510
+  - label: 6th place solution
+    url: https://www.kaggle.com/c/instant-gratification/discussion/96496
+  - label: 7th place solution
+    url: https://www.kaggle.com/c/instant-gratification/discussion/96506
+  - label: 8th place solution
+    url: https://www.kaggle.com/c/instant-gratification/discussion/96568
+  - label: 10th place solution
+    url: https://www.kaggle.com/c/instant-gratification/discussion/96556
+  - label: 13th place solution
+    url: https://www.kaggle.com/c/instant-gratification/discussion/96531
+  thumbnailImageUrl: https://storage.googleapis.com/kaggle-competitions/kaggle/14239/logos/thumb76_76.png?t=2019-04-23-02-08-49
+  types:
+  - Tabular
+- competitionDescription: Predicting Molecular Properties
+  competitionId: 14313
+  competitionName: null
+  competitionTitle: Predicting Molecular Properties
+  competitionUrl: /c/champs-scalar-coupling
+  coverImageUrl: null
+  deadline: '2019-08-28T23:59:00Z'
+  evaluationMetric: Log of the Mean Absolute Error
+  hostSegment: Featured
+  organizationAvatarUrl: null
+  organizationName: CHAMPS
+  organizationUrl:
+  rewardQuantity: 30000.0
+  rewardTypeName: USD
+  solutions:
+  - label: 1st place solution
+    url: https://www.kaggle.com/c/champs-scalar-coupling/discussion/106575
+    tags: soft graph transformer
+  - label: 2nd place solution
+    url: https://www.kaggle.com/c/champs-scalar-coupling/discussion/106468
+    tags: Pointnet architecture, Atomic Transformer, No Graph Neural Networks
+  - label: 3rd place solution
+    url: https://www.kaggle.com/c/champs-scalar-coupling/discussion/106572
+    tags: BERT
+  - label: 4th place solution
+    url: https://www.kaggle.com/c/champs-scalar-coupling/discussion/106534
+    tags: graph attention network, gated residual connections, Stochastic Weight Averaging
+  - label: 6th place solution
+    url: https://www.kaggle.com/c/champs-scalar-coupling/discussion/106407
+    tags: custom GNN architecture, MPNN model, multi-head attention layers
+  - label: 7th place solution
+    url: https://www.kaggle.com/c/champs-scalar-coupling/discussion/106421
+    tags: Graph NN
+  - label: 8th place solution
+    url: https://www.kaggle.com/c/champs-scalar-coupling/discussion/106347
+    tags: MPNN, GAT, Crystal GNN, SchNet, MegNet, 3DGNN
+  - label: 10th place solution
+    url: https://www.kaggle.com/c/champs-scalar-coupling/discussion/106271
+    tags: SchNet
+  - label: 12th place solution
+    url: https://www.kaggle.com/c/champs-scalar-coupling/discussion/106275
+    tags: PyTorch, CORMORANT
+  - label: 13th place solution
+    url: https://www.kaggle.com/c/champs-scalar-coupling/discussion/106377
+    tags: SchNet, CFConv
+  - label: 14th place solution
+    url: https://www.kaggle.com/c/champs-scalar-coupling/discussion/106298
+    tags: keras, GCN
+  thumbnailImageUrl: https://storage.googleapis.com/kaggle-competitions/kaggle/14313/logos/thumb76_76.png?t=2019-05-20-20-29-23
+  types:
+  - Tabular
+  - Chemistry
+- competitionDescription: Jigsaw Unintended Bias in Toxicity Classification
+  competitionId: 12500
+  competitionName: null
+  competitionTitle: Jigsaw Unintended Bias in Toxicity Classification
+  competitionUrl: /c/jigsaw-unintended-bias-in-toxicity-classification
+  coverImageUrl: null
+  deadline: '2019-06-26T23:59:00Z'
+  evaluationMetric: Overall AUC
+  hostSegment: Featured
+  organizationAvatarUrl: null
+  organizationName: Jigsaw
+  organizationUrl:
+  rewardQuantity: 65000.0
+  rewardTypeName: USD
+  solutions:
+  - label: 1st place solution
+    url: https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/103280
+  - label: 4th place solution
+    url: https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/101927
+  - label: 5th place solution
+    url: https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/100718
+  - label: 7th place solution
+    url: https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/100611
+  - label: 8th place solution
+    url: https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/100961
+  - label: 9th place solution
+    url: https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/100530
+  - label: 10th place solution
+    url: https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/101630
+  - label: 11th place solution
+    url: https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/100799
+  - label: 14th place solution
+    url: https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/100821
+  thumbnailImageUrl: https://storage.googleapis.com/kaggle-competitions/kaggle/12500/logos/thumb76_76.png?t=2019-03-13-21-51-14
+  types:
+  - Natural Language Processing (NLP)
+  - Fairness
 - competitionDescription: Can you improve lung cancer detection?
   competitionId: 6004
   competitionTitle: Data Science Bowl 2017
@@ -2953,6 +3683,7 @@
   solutions:
   - label: 1st place solution
     url: https://www.kaggle.com/c/porto-seguro-safe-driver-prediction/discussion/44629
+    tags: Neural networks, denoising autoencoder
   - label: 2nd place solution
     url: https://www.kaggle.com/xiaozhouwang/2nd-place-solution-nn-model/comments
   - label: 3rd place solution
@@ -2960,6 +3691,7 @@
   thumbnailImageUrl: https://storage.googleapis.com/kaggle-competitions/kaggle/7082/logos/thumb76_76.png
   types:
   - Event prediction
+  - Tabular
 - competitionDescription: Automatically identify the boundaries of the car in an image
   competitionId: 6927
   competitionName: null
@@ -3132,7 +3864,7 @@
 - competitionDescription: Detect objects in varied and complex images.
   competitionId: 9949
   competitionName: null
-  competitionTitle: Google AI Open Images - Object Detection Track
+  competitionTitle: Google AI Open Images 2018 - Object Detection Track
   competitionUrl: /c/google-ai-open-images-object-detection-track
   coverImageUrl: null
   deadline: '2018-08-30T23:59:00Z'
@@ -3144,8 +3876,20 @@
   rewardQuantity: 30000.0
   rewardTypeName: USD
   solutions:
+  - label: 1st place solution
+    url: http://www.cvmart.net/community/article/detail/347
   - label: 2nd place solution
     url: https://www.kaggle.com/c/google-ai-open-images-object-detection-track/discussion/64986
+  - label: 8th place solution
+    url: https://www.kaggle.com/c/google-ai-open-images-object-detection-track/discussion/65120
+  - label: 15th place solution
+    url: https://www.kaggle.com/c/google-ai-open-images-object-detection-track/discussion/64633
+  - label: 17th place solution
+    url: https://www.kaggle.com/c/google-ai-open-images-object-detection-track/discussion/64633
+  - label: 19th place solution
+    url: https://www.kaggle.com/c/google-ai-open-images-object-detection-track/discussion/64734
+  - label: 26th place solution
+    url: https://www.kaggle.com/c/google-ai-open-images-object-detection-track/discussion/64901
   thumbnailImageUrl: https://storage.googleapis.com/kaggle-competitions/kaggle/9949/logos/thumb76_76.png?t=2018-06-15-18-14-35
   types:
   - Computer vision
@@ -3153,7 +3897,7 @@
 - competitionDescription: Detect pairs of objects in particular relationships.
   competitionId: 9951
   competitionName: null
-  competitionTitle: Google AI Open Images - Visual Relationship Track
+  competitionTitle: Google AI Open Images 2018 - Visual Relationship Track
   competitionUrl: /c/google-ai-open-images-visual-relationship-track
   coverImageUrl: null
   deadline: '2018-08-30T23:59:00Z'
